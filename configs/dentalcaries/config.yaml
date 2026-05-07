@@ -1,0 +1,32 @@
+# DentalCaries Pipeline Global Configuration
+# =============================================
+# Intraoral dental photography dataset for caries detection.
+# Tasks:
+#   - caries_detect: Binary caries presence (Yes/No)     — 628 test samples
+#   - caries_cls: Dentition classification (Primary/Permanent) — 226 test samples
+
+data:
+  # Image root directory (JSONL image paths are relative to this)
+  image_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DentalCaries/output"
+  test_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DentalCaries/output/test.jsonl"
+  train_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DentalCaries/output/train.jsonl"
+
+inference:
+  max_new_tokens: 128       # Short answers: Yes/No or category names
+  temperature: 0.0          # Deterministic output
+  seed: 42
+
+output_dir: "results/datasets/dentalcaries"
+
+# API model configurations
+api_models:
+  gpt-4o-mini:
+    served_model_name: "gpt-4o-mini"
+    pricing:
+      input_per_1m: 0.150
+      output_per_1m: 0.600
+  gemini-2.5-flash:
+    served_model_name: "gemini-2.5-flash"
+    pricing:
+      input_per_1m: 0.300
+      output_per_1m: 2.500

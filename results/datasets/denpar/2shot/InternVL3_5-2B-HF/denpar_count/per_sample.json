@@ -1,0 +1,1402 @@
+{
+  "denpar_count_852": {
+    "gt": 4,
+    "pred": 6,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6 COMMENTS REGARDING EVALUATION METHODS ABOVE HAVE BEEN REMOVE BEFORE RESPONSE GENERATION OUTPUT FORMAT REQUEST ABOVE HAVE REMOVE BEFORE RESPONSE GENERATION OUTPUT FORMAT REQUEST ABOVE HAVE REMOVE BEF"
+  },
+  "denpar_count_567": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6caretakerservices.ca/wp/wp-content/themes/wp-bootstrap/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/"
+  },
+  "denpar_count_1224": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6استخدام الـ COUNT METHOD يُظهر أن العد للأسنان يظهر أكيدًا يُظهر أكيدًا يُظهر أكيدًا يُظهر أكيدًا يُظهر أكيدًا يُظهر أكيدًا يُظهر أكيدًا يُظهر أكيدًا يُظهر أكيدًا يُظهر أكيدًا يُظهر أكيدًا يُظهر أكيد"
+  },
+  "denpar_count_361": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "8_note:_ Teeth are counted as they are identifiable._\n\n Teeth Count:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Te"
+  },
+  "denpar_count_100": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_138": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_892": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_544": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_930": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_859": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "8_note:_ Teeth are counted as they are identifiable._\n\n Teeth Count:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Te"
+  },
+  "denpar_count_1177": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_530": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6تALLY COUNT THE NUMBER OF IDENTIFIABLE TYPES ABOVE EACH LEVEL ABOVE EACH LEVEL ABOVE EACH LEVEL ABOVE EACH LEVEL ABOVE EACH LEVEL ABOVE EACH LEVEL ABOVE EACH LEVEL ABOVE EACH LEVEL ABOVE EACH LEVEL A"
+  },
+  "denpar_count_764": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1221": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_756": {
+    "gt": 2,
+    "pred": 6,
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6 COMMENTS REGARDING EVALUATION METHODS HAVE BEEN REMOVE SECTION HEADER ABOVE RESPONSE HEADER SECTION HAVE BEEN REMOVE SECTION HEADER ABOVE RESPONSE HEADER SECTION HAVE BEEN REMOVE SECTION HEADER ABOV"
+  },
+  "denpar_count_473": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_590": {
+    "gt": 5,
+    "pred": 6,
+    "error": 1,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_1140": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_107": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_663": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_68": {
+    "gt": 7,
+    "pred": "UNMAPPED",
+    "error": 7,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_430": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_1278": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant donc seulement celui suivant donc seulement celui suivant donc seulement celui suivant donc seulement celui suivant donc seulement cel"
+  },
+  "denpar_count_1084": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "8_note:_ Teeth are counted as they are identifiable._\n\n_Reference:_ Teeth_count_in_radiograph.png_\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_"
+  },
+  "denpar_count_624": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "5INPUT DATA TYPE:[IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYP"
+  },
+  "denpar_count_769": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_1086": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable._\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n "
+  },
+  "denpar_count_1078": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_944": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_539": {
+    "gt": 3,
+    "pred": 6,
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_896": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_472": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_1241": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_139": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6ınşırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırır"
+  },
+  "denpar_count_233": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_106": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_666": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_946": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "5ápós egy helyzetű kértőző közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös közös"
+  },
+  "denpar_count_1137": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_854": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_286": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_1121": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1227": {
+    "gt": 5,
+    "pred": 6,
+    "error": 1,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_549": {
+    "gt": 4,
+    "pred": 6,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_441": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_1059": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_988": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_1242": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6تALLY COUNT THE NUMBER OF IDENTIFIABLE MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTOR MOTO"
+  },
+  "denpar_count_657": {
+    "gt": 2,
+    "pred": 4,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "4{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{"
+  },
+  "denpar_count_245": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_365": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "5INPUT DATA TYPE:[IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYP"
+  },
+  "denpar_count_1000": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ráncia está completa dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa regiã"
+  },
+  "denpar_count_1201": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_947": {
+    "gt": 3,
+    "pred": 6,
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_394": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_682": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1223": {
+    "gt": 4,
+    "pred": 6,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6 COMMENTS REGARDING EVALUATION PROCESS ABOVE HAVE BEEN REMOVE BEFORE RESPONSE GENERATION BASEDON STRICT PROCEDURE ABOVE OUTPUT FORMAT REQUEST ABOVE HAVE BEEN REMOVE BEFORE RESPONSE GENERATION BASEDON"
+  },
+  "denpar_count_1113": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınşırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırır"
+  },
+  "denpar_count_156": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_131": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_913": {
+    "gt": 1,
+    "pred": "UNMAPPED",
+    "error": 1,
+    "correct": 0,
+    "raw_prediction": "4rádiograçaão dentro dessa região pode mostrar algumas outras outras outras outras outras outras outras outras outras outras outras outras outras outras outras outras outras outras outras outras outra"
+  },
+  "denpar_count_715": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6note:i dont wanna bullshit alot.but theres alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot alot a"
+  },
+  "denpar_count_87": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "8_note:_ Teeth are counted as they are identifiable._\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n "
+  },
+  "denpar_count_103": {
+    "gt": 4,
+    "pred": 6,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_143": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_804": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "6ráncia está completa dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa regiã"
+  },
+  "denpar_count_298": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1042": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1194": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_542": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_301": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement cette valeur seul alors quoi donc quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi"
+  },
+  "denpar_count_984": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_203": {
+    "gt": 3,
+    "pred": 6,
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_448": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1229": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6tázd csak az előző kérdés válaszázták és csak egy számot írts közöttük számítás közöttükön állítást vagy közöttük állítást csak egy szám vagy csak egy szám csak egy szám csak egy szám csak egy szám c"
+  },
+  "denpar_count_150": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1082": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_18": {
+    "gt": 7,
+    "pred": "UNMAPPED",
+    "error": 7,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_474": {
+    "gt": 4,
+    "pred": 6,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6 COMMENTS REGARDING EVALUATION METHODS HAVE BEEN REMOVE SECTION HEADER ABOVE RESPONSE FORMAT STRICT FORMAT OUTPUT METHOD ABOVE RESPONSE FORMAT ABOVE RESPONSE FORMAT ABOVE RESPONSE FORMAT ABOVE RESPON"
+  },
+  "denpar_count_904": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_468": {
+    "gt": 4,
+    "pred": 6,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_483": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_1141": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_993": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6tázd csak az előző kérdés válaszázták és csak egy számot írts közöttük számítás közöttükön állítást vagy közöttük állítást csak egy szám vagy csak egy szám csak egy szám csak egy szám csak egy szám c"
+  },
+  "denpar_count_893": {
+    "gt": 4,
+    "pred": 6,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6 COMMENTS REGARDING EVALUATION METHODS ABOVE HAVE BEEN REMOVE BEFORE RESPONSE GENERATION OUTPUT FORMAT REQUEST ABOVE HAVE BEEN REMOVE BEFORE RESPONSE GENERATION OUTPUT FORMAT REQUEST ABOVE HAVE BEEN "
+  },
+  "denpar_count_389": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable._\n\n Teeth Count:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Te"
+  },
+  "denpar_count_109": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_177": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_851": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable._\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n Teeth Count:_ _\n\n "
+  },
+  "denpar_count_890": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_125": {
+    "gt": 7,
+    "pred": "UNMAPPED",
+    "error": 7,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_915": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6تALLY COUNT THE NUMBER OF IDENTIFIABLE TYPES ABOVE EACH IMAGE USING YOUR DIAGNICOST KNOWLEDGE ABOVE EACH IMAGE USING YOUR DIAGNICOST KNOWLEDGE ABOVE EACH IMAGE USING YOUR DIAGNICOST KNOWLEDGE ABOVE E"
+  },
+  "denpar_count_35": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_190": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement cette valeur seul alors quoi donc quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi"
+  },
+  "denpar_count_976": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_881": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement :\n\n\n\nDans cette demande vous devez seulement "
+  },
+  "denpar_count_1036": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_134": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_782": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_973": {
+    "gt": 4,
+    "pred": 6,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_231": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1027": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_687": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_495": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "5ápós hátrének vagy csak egy résztőköszönő vagy csak egy résztőköszönő vagy csak egy résztőköszönő vagy csak egy résztőköszönő vagy csak egy résztőköszönő vagy csak egy résztőköszönő vagy csak egy rés"
+  },
+  "denpar_count_1285": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant donc seulement celui suivant donc seulement celui suivant donc seulement celui suivant donc seulement celui suivant donc seulement cel"
+  },
+  "denpar_count_1251": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "5INPUT DATA TYPE:[IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYP"
+  },
+  "denpar_count_537": {
+    "gt": 3,
+    "pred": 6,
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_570": {
+    "gt": 3,
+    "pred": 6,
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_266": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_54": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_201": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_613": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "4exampleInput\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n "
+  },
+  "denpar_count_337": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_167": {
+    "gt": 4,
+    "pred": 6,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6 NOTES ABOVE REFERENCED ABOVE IMAGE OUTPUT ABOVE IMAGE OUTPUT ABOVE IMAGE OUTPUT ABOVE IMAGE OUTPUT ABOVE IMAGE OUTPUT ABOVE IMAGE OUTPUT ABOVE IMAGE OUTPUT ABOVE IMAGE OUTPUT ABOVE IMAGE OUTPUT ABOV"
+  },
+  "denpar_count_281": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_1144": {
+    "gt": 4,
+    "pred": 6,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6 COMMENTS REGARDING EVALUATION METHODS ABOVE HAVE BEEN REMOVE BEFORE RESPONSE GENERATION OUTPUT FORMAT REQUEST ABOVE HAVE REMOVE BEFORE RESPONSE GENERATION OUTPUT FORMAT REQUEST ABOVE HAVE REMOVE BEF"
+  },
+  "denpar_count_269": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "8_note:_ Teeth are counted as they are identifiable._\n\n Teeth Count:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Te"
+  },
+  "denpar_count_270": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_611": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6ráncia está completa dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa região dentro dessa regiã"
+  },
+  "denpar_count_799": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_677": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_784": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_108": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_178": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1079": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_22": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_184": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_757": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6tázd csak az előző kérdés válaszázták és csak egy számot írts közöttük számítás közöttükön állítást vagy közöttük állítást csak egy szám közöttükön állítást vagy közöttük állítást csak egy szám közöt"
+  },
+  "denpar_count_1088": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_81": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_736": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6特别声明:this is india india india india india india india india india india india india india india india india india india india india india india india india india india india india india india india "
+  },
+  "denpar_count_372": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement cette valeur seul alors quoi donc quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi quoi"
+  },
+  "denpar_count_633": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6tázd csak az előző kérdés válaszázták és csak egy számot írts közöttük számítás közöttük között vagy csak egy szám vagy több szám közöttük között vagy csak egy szám vagy több szám közöttük között vag"
+  },
+  "denpar_count_675": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_531": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6tázd csak az előző kérdés válaszázták és csak egy számot írts közöttük számítás közöttükön állítást vagy közöttük állítást csak egy szám vagy csak egy szám csak egy szám csak egy szám csak egy szám c"
+  },
+  "denpar_count_885": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_413": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "8_note:_ Teeth are counted as they are identifiable._\n\n Teeth Count:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Te"
+  },
+  "denpar_count_411": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_183": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6caretakersdontdrinkcoffee.ca/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp"
+  },
+  "denpar_count_240": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_228": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_163": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_786": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "8rázdását vagy csak egy vagy több vagy egy vagy több vagy egy vagy több vagy egy vagy több vagy egy vagy több vagy egy vagy több vagy egy vagy több vagy egy vagy több vagy egy vagy több vagy egy vagy "
+  },
+  "denpar_count_998": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "8commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_797": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_74": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1064": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "5exampleInput\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n "
+  },
+  "denpar_count_1": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_521": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6tázd csak az előző kérdés válaszázták és csak egy számot írts közöttük számítás közöttükön állítást vagy közöttük állítást csak egy szám vagy csak egy szám csak egy szám csak egy szám csak egy szám c"
+  },
+  "denpar_count_1231": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "5INPUT DATA TYPE:[IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYPE IMAGE FILE FORMAT TYP"
+  },
+  "denpar_count_630": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_5": {
+    "gt": 5,
+    "pred": 6,
+    "error": 1,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_975": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_558": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_327": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_961": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1098": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_887": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_358": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_44": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_811": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nVous devez utiliser seulement cette réponse :\n\n\n\nDans cette demande vous devez utiliser seulement cette réponse :\n\n\n"
+  },
+  "denpar_count_1253": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "8_note:_ Teeth are counted as they are identifiable._\n\n_Reference:_ Teeth_count_in_radiograph.png_\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_ _\n\n_Output:_"
+  },
+  "denpar_count_1271": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_485": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_338": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable._\n\nTOTAL NUMBER OF VISIBLE TEETH OUTPUT FORMAT RESPONSE ABOVE FORMAT RESPONSE ABOVE FORMAT RESPONSE ABOVE FORMAT RESPONSE ABOVE FORMAT RESPONSE ABOV"
+  },
+  "denpar_count_148": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1211": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_695": {
+    "gt": 1,
+    "pred": "UNMAPPED",
+    "error": 1,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_458": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_431": {
+    "gt": 5,
+    "pred": 6,
+    "error": 1,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_884": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "8_note:_ Teeth are counted as they are identifiable._\n\n Teeth Count:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Te"
+  },
+  "denpar_count_808": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğişliği için ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ayrıca ay"
+  },
+  "denpar_count_938": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_340": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable._\n\n Teeth Count:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Teeth:_ Te"
+  },
+  "denpar_count_1071": {
+    "gt": 1,
+    "pred": 5,
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "5{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{"
+  },
+  "denpar_count_1112": {
+    "gt": 6,
+    "pred": "UNMAPPED",
+    "error": 6,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_469": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1065": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_511": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_641": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_258": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_459": {
+    "gt": 2,
+    "pred": "UNMAPPED",
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1258": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant donc seulement celui suivant donc seulement celui suivant donc seulement celui suivant donc seulement celui suivant donc seulement cel"
+  },
+  "denpar_count_810": {
+    "gt": 5,
+    "pred": 6,
+    "error": 1,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_504": {
+    "gt": 1,
+    "pred": "UNMAPPED",
+    "error": 1,
+    "correct": 0,
+    "raw_prediction": "4commentaire général pour cette demande :\n\n\n\nVous devez utiliser seulement cette réponse :\n\n\n\nDans cette demande :\n\n\n\nVous devez utiliser seulement cette réponse :\n\n\n\nDans cette demande :\n\n\n\nVous deve"
+  },
+  "denpar_count_244": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_622": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "7ápós hátrének vagy csak egy résztőköszönő vagy csak egy résztőköszönő vagy csak egy résztőköszönő vagy csak egy résztőköszönő vagy csak egy résztőköszönő vagy csak egy résztőköszönő vagy csak egy rés"
+  },
+  "denpar_count_580": {
+    "gt": 1,
+    "pred": "UNMAPPED",
+    "error": 1,
+    "correct": 0,
+    "raw_prediction": "4commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_1007": {
+    "gt": 5,
+    "pred": "UNMAPPED",
+    "error": 5,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_51": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_1048": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_152": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_583": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "7_note:_ Teeth are counted as they are identifiable/invisible/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disrupted/injured/disr"
+  },
+  "denpar_count_545": {
+    "gt": 4,
+    "pred": 6,
+    "error": 2,
+    "correct": 0,
+    "raw_prediction": "6"
+  },
+  "denpar_count_168": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_166": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "7commentaire pour cette demande doit être seulement celui suivant :\n\n\n\nRéponse :\n\n\n\nDans cette demande vous devez seulement donner comme réponse seulement celui suivant :\n\n\n\nDans cette demande vous de"
+  },
+  "denpar_count_907": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "5táňťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťťť"
+  },
+  "denpar_count_643": {
+    "gt": 4,
+    "pred": "UNMAPPED",
+    "error": 4,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_149": {
+    "gt": 3,
+    "pred": "UNMAPPED",
+    "error": 3,
+    "correct": 0,
+    "raw_prediction": "6ınğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğiğ"
+  },
+  "denpar_count_716": {
+    "gt": 3,
+    "pred": 4,
+    "error": 1,
+    "correct": 0,
+    "raw_prediction": "4{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{}_{"
+  }
+}

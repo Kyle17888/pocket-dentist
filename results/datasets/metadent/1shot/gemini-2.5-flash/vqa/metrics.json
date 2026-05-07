@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.677,
+  "correct": 1184,
+  "total_samples": 1749,
+  "per_source": {
+    "": {
+      "correct": 1184,
+      "total": 1749,
+      "accuracy": 0.677
+    }
+  }
+}

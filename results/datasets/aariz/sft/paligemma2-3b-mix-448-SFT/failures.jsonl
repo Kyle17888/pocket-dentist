@@ -1,0 +1,96 @@
+{"id": "aariz_cvm_cl5lg05ul01ga074kg2k84v0q", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S6", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_skeletal_class_cl6cc2n563zgz07711kqk3i2n", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Class I", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cl6cc2n5g3zxz0771868p0b32", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cks2ip8fy2ajz0yufh35h14xu", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl5lg05ug01b2074kf0h42t6e", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_growth_pattern_cks2ip8fr2a5e0yuf2k3vg7m5", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normodivergent", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cl5lc0isd128w072u4hvg4n8y", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S1", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl6cc2n5j40330771cc2g7f0w", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cks2ip8fs2a5o0yuf57hj23ih", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_growth_pattern_cks2ip8g42aze0yuffg2368n3", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Hypodivergent", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_skeletal_class_cks2ip8fz2aqi0yufd759dhwz", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Class II", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cl6cc2n583zkj0771f987fg5k", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_skeletal_class_cl9k69ka232k1088c6lhg4wkj", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Class II", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl6cc2n5d3zsr07713tm19sg1", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Prognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cks7u9tyf5z5l0yto9w6200ja", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cks2ip8fy2al80yuf9w4x9x27", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cks2ip8fx2ai10yuf60ue28fy", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Prognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl6cc2n5k405307716g0393xo", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cks2six6b2eqx0yuf8xmh1f10", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cl6wmcdb63jhb078vdwe74a4v", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cks2ip8fz2aqd0yufezrmgjit", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cl6cc2n533zcf0771haz16bs6", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S4", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_growth_pattern_cl6cc2n5j402j07718tm88003", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Hypodivergent", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cl6cc2n5e3zuj0771bvv7a7q5", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S4", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cl6cc2n5f3zvj07715mbf4a7g", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_skeletal_class_cks2ip8fr2a5e0yuf2k3vg7m5", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Class II", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cks2ip8g72bas0yuf5i1scd3h", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cl5lg05ue018u074kaazdbrpb", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cl5lg05uj01cy074kbtgnglzs", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S3", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl8ka1gfb2y2z072w022ffi7y", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cks2ip8g62b7b0yuffrlb7xa1", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_skeletal_class_cl6cc2n5a3znf07711dy51kgx", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Class I", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl6cc2n5i400v07716nw212c7", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl6cc2n5e3ztz07711arlgr03", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cl6cc2n573zj30771fol8em9g", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cks2ip8fy2al80yuf9w4x9x27", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_skeletal_class_cks2ip8g12auj0yuf0ivx85x6", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Class III", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl6cc2n5e3zuj0771bvv7a7q5", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Prognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cks2ip8g62b6w0yuffpy96gut", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S5", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cl5lg05ur01lm074kaznu2ncg", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S5", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cks2ip8g62b7l0yufg4h03k4a", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl6cc2n5d3zrb0771f52b2jhf", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Prognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_growth_pattern_cks7u9tyf5z5l0yto9w6200ja", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normodivergent", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_growth_pattern_cks2ip8fp29yl0yuf6ry9266i", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normodivergent", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cks2ip8g12auj0yuf0ivx85x6", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_skeletal_class_cks2ip8fw2aek0yufd5l89lt6", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Class II", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cks2ip8fz2aq80yuf2pz61jh3", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cl5lg05uf019m074k8q27h7oy", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cl6cc2n5b3znn0771fdwy7nyp", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S5", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cl6cc2n563zgz07711kqk3i2n", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_growth_pattern_cks2ip8g62b7l0yufg4h03k4a", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Hyperdivergent", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cks2ip8g42b0s0yuf23y8917i", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S4", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl9k69ka232jl088c2hqt289r", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Prognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cks2ip8fr2a3g0yufgxtf43y5", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cks7u9tyf5z5l0yto9w6200ja", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cks2ip8g42b0d0yufb9vwfwlc", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cl6cc2n5d3zsr07713tm19sg1", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S5", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_growth_pattern_cks2ip8g52b3u0yuf558g4ihc", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normodivergent", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cks2ip8fr2a4p0yuffc5t82n9", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cl6wmcdb73jj7078v1gli680d", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cks2ip8fr2a3g0yufgxtf43y5", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S5", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cks2ip8fy2aju0yuf8lqu1038", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cl6cc2n5k405307716g0393xo", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl9k69ka132it088cbdvd3m3w", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cks2ip8g42b0s0yuf23y8917i", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl6cc2n5b3zo7077152xt362j", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cl5lc0ise12bw072u5qa90f12", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cl6cc2n5i400v07716nw212c7", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cks2ip8g02arh0yufgha87gam", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_skeletal_class_cl6cc2n5d3zrb0771f52b2jhf", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Class II", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cl6cc2n5b3zo7077152xt362j", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S6", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cl6cc2n583zkz07711zi95vxl", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cks2ip8fz2ap40yufh17426v6", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S5", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cl5lg05ue0182074k2efjh49e", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl6wmcdb63jhb078vdwe74a4v", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_growth_pattern_cl5lg05up01k2074khosl9t1j", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normodivergent", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cks2ip8fy2ajz0yufh35h14xu", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cks2ip8fy2ald0yufglun6tq4", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cks2ip8fy2ajz0yufh35h14xu", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cks2ip8fx2agi0yufhc8i501s", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Prognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_skeletal_class_cl9k69ka232jl088c2hqt289r", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Class II", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cks2ip8fz2aqi0yufd759dhwz", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S4", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cl6cc2n5b3zo7077152xt362j", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cl6cc2n5f3zvj07715mbf4a7g", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S6", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cks2ip8g02arm0yufhgwvdwo2", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S2", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_growth_pattern_cks2ip8fq2a040yufdl20fomx", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normodivergent", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cl6cc2n5k404707716zx8argc", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S5", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_incisor_inclination_cks2ip8fz2anl0yufe59x6gbe", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retroclined", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_skeletal_class_cks2ip8g02arh0yufgha87gam", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Class I", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cks2ip8fy2ak90yuf23jt2wlv", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_maxilla_position_cl6cc2n563zhz07719nefdiri", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Retrognathic", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_growth_pattern_cl6cc2n5j403f077130hn0lfh", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Hyperdivergent", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_growth_pattern_cl5lg05uc0162074kcqzl2n56", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Hyperdivergent", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cks2ip8fz2anv0yufdoup0vpn", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S5", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_vqa_mandible_position_cl6cc2n5g3zxz0771868p0b32", "task": "aariz_vqa", "source": "Aariz", "ground_truth": "Normal", "prediction": "Connection error.", "failed": true}
+{"id": "aariz_cvm_cl6cc2n583zkz07711zi95vxl", "task": "aariz_cvm", "source": "Aariz", "ground_truth": "CVM-S5", "prediction": "Connection error.", "failed": true}

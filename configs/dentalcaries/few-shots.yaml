@@ -1,0 +1,24 @@
+# Few-shot configuration for DentalCaries prediction tasks.
+#
+# num_shots: how many examples to inject per query (0, 1, or 2).
+#   - Must be <= the number of entries in each task's 'examples' list.
+#   - Set to 0 (or omit this file entirely) to run in zero-shot mode.
+#
+# Image paths are absolute (NeSI dataset root).
+# All examples are from the TRAIN set to avoid test data leakage.
+
+num_shots: 0
+
+caries_detect:
+  examples:
+    - image: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DentalCaries/output/images/anonymous-frontalView-1726821735681.jpg
+      answer: "Yes"
+    - image: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DentalCaries/output/images/anonymous-frontalView-1726825874701.jpg
+      answer: "No"
+
+caries_cls:
+  examples:
+    - image: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DentalCaries/output/images/anonymous-frontalView-1726821735681.jpg
+      answer: "Primary teeth"
+    - image: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DentalCaries/output/images/anonymous-frontalView-1727428268803.jpg
+      answer: "Permanent teeth"

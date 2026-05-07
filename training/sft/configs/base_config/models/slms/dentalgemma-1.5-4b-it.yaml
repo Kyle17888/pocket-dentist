@@ -1,0 +1,4 @@
+# dentalgemma-1.5-4b-it — shared model defaults (base_models)
+model_name_or_path: naazimsnh02/dentalgemma-1.5-4b-it
+attn_implementation: flash_attention_2
+trust_remote_code: true

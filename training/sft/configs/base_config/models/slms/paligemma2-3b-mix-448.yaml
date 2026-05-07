@@ -1,0 +1,2 @@
+# paligemma2-3b-mix-448 — shared model defaults (base_models)
+model_name_or_path: google/paligemma2-3b-mix-448

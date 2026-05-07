@@ -1,0 +1,2958 @@
+{
+  "caries_cls_test_00000": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00001": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00002": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00003": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00004": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00005": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00006": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00007": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00008": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00009": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00011": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00010": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00013": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00012": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00014": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00015": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00016": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00017": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00019": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00021": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00018": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00020": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00022": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00023": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00025": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00024": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00026": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00027": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00028": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00029": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00031": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00030": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00032": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00033": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00035": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00034": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00036": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00037": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00038": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00039": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00041": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00040": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00042": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00043": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00044": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00045": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00046": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00047": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00048": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00051": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00049": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00050": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00052": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00054": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00053": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00055": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00056": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00057": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00059": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00058": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00060": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00063": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00061": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00062": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00066": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00064": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00065": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00067": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00069": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00068": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00070": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00072": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00073": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00071": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00075": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00074": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00076": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00077": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00078": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00079": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00080": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00081": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00082": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00084": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00083": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00085": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00087": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00086": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00088": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00090": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00089": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00091": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00092": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00094": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00093": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00095": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00097": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00096": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00098": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00099": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00100": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00101": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00102": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00104": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00103": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00106": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00107": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00105": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00108": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00109": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00110": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00112": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00111": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00113": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00114": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00115": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00116": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00117": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00118": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00119": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00121": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00120": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00122": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00123": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00124": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00125": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00127": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00126": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00128": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00129": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00130": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00131": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00132": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00133": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00134": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00136": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00135": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00137": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00138": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00140": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00139": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00141": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00143": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00142": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00144": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00146": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00145": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00148": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00147": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00149": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00150": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00151": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00154": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00152": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00155": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00153": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00156": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00157": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00158": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00159": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00161": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00160": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00162": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00163": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00164": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00166": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00165": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00167": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00168": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00169": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00170": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00172": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00171": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00174": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00173": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00176": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00175": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00177": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00179": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00178": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00182": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00180": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00183": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00181": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00184": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00185": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00186": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00188": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00187": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00189": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00190": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00192": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00191": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00193": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00194": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00195": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00197": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00196": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00198": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00199": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00200": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00201": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00202": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00204": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00203": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00206": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00207": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00205": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00208": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00209": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00210": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00211": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00213": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00212": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00215": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00216": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00214": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00217": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00218": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00219": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00220": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00221": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00222": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00223": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00224": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  },
+  "caries_cls_test_00225": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth"
+  }
+}

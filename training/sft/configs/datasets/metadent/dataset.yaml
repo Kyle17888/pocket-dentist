@@ -1,0 +1,13 @@
+# =============================================================================
+# dataset.yaml — MetaDent dataset-specific SFT settings
+# Merged on top of base.yaml, overridden by model-specific configs.
+# =============================================================================
+
+input_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/MetaDent/output"
+train_file: "train-v2.jsonl"
+val_file: "val-v2.jsonl"
+output_base: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/MetaDent"
+
+wandb:
+  project: "Neurlps2026-SFT-MetaDent"
+  group: "Dataset-MetaDent"

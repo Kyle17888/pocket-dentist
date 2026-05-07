@@ -1,0 +1,170 @@
+{
+  "code_cls_00027": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion<end_of_turn>\n\nClass III Malocclusion<end_of_turn>\n\nClass III Malocclusion<end_of_turn>\n\nClass III Malocclusion<end_of_turn>\n\nClass III Malocclusion<end_of_turn>\n\nClass III Maloc"
+  },
+  "code_cls_00048": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_"
+  },
+  "code_cls_00054": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_"
+  },
+  "code_cls_00053": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_"
+  },
+  "code_cls_00067": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\n"
+  },
+  "code_cls_00073": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\n"
+  },
+  "code_cls_00107": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries<end_of_turn>\n\nDental Caries<end_of_turn>\n\nDental Caries<end_of_turn>\n\nDental Caries<end_of_turn>\n\nDental Caries médicaux\n\nDental Caries médicaux\n\nDental Caries médicaux\n\nDental Caries mé"
+  },
+  "code_cls_00139": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_"
+  },
+  "code_cls_00141": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_"
+  },
+  "code_cls_00171": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries<end_of_turn>\n\nDental Caries<end_of_turn>\n\nDental Caries<end_of_turn>\n\nDental Caries médicaux<end_of_turn>\n\nDental Caries médicauxтеристика\n\nDental Caries<end_of_turn>\n\nDental Caries médi"
+  },
+  "code_cls_00204": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\n"
+  },
+  "code_cls_00195": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\n"
+  },
+  "code_cls_00205": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\n"
+  },
+  "code_cls_00222": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\nTooth Loss<end_of_turn>\n\n"
+  },
+  "code_cls_00356": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis<end_of_turn>\n\nGingivitis<end_of_turn>\n\nGingivitis<end_of_turn>\n\nGingivitis<end_of_turn>\n\nGingivitis<end_of_turn>\n\nGingivitis médicaux\n\nGingivitis médicaux\n\nGingivitis médicaux\n\nGingivitis m"
+  },
+  "code_cls_00420": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_"
+  },
+  "code_cls_00421": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_"
+  },
+  "code_cls_00449": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_"
+  },
+  "code_cls_00450": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_"
+  },
+  "code_cls_00462": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_"
+  },
+  "code_cls_00463": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_"
+  },
+  "code_cls_00499": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of"
+  },
+  "code_cls_00503": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries<end_of_turn>\n\nDental Caries<end_of_turn>\n\nDental Caries<end_of_turn>\n\nDental Caries<end_of_turn>\n\nDental Caries médicaux\n\nDental Caries médicaux\n\nDental Caries médicaux\n\nDental Caries mé"
+  },
+  "code_cls_00508": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_"
+  },
+  "code_cls_00511": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis médicaux\n\nPulpitis médicaux\n\nPulpitis médicaux\n\nPulpi"
+  },
+  "code_cls_00515": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis médicaux. Pulpitis pulpitis. Pulpitis pulpitis pulpi"
+  },
+  "code_cls_00525": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_of_turn>\n\nTooth Structure Loss<end_"
+  },
+  "code_cls_00529": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_turn>\n\nPulpitis<end_of_"
+  }
+}

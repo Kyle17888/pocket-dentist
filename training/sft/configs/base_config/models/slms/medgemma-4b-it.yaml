@@ -1,0 +1,6 @@
+# medgemma-4b-it — shared model defaults (base_models)
+model_name_or_path: google/medgemma-4b-it
+attn_implementation: flash_attention_2
+training:
+  resume_from_checkpoint: true
+trust_remote_code: true

@@ -1,0 +1,28 @@
+# =============================================================================
+# dataset.yaml — COde dataset-specific SFT settings
+# Merged on top of base.yaml, overridden by model-specific configs.
+#
+# COde samples contain 1-26 intraoral images per sample, producing very long
+# sequences (up to ~20k tokens).  We must reduce batch size vs. the base
+# default (4) to avoid backward-pass OOM on 93 GiB H100.
+# Effective batch size is preserved: 1 × 16 = 16 (same as base 4 × 4).
+# =============================================================================
+
+input_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output"
+train_file: "train.jsonl"
+val_file: "val.jsonl"
+output_base: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/COde"
+
+# Override training params for multi-image dataset
+training:
+  per_device_train_batch_size: 1
+  per_device_eval_batch_size: 1
+  gradient_accumulation_steps: 16
+
+# Reduce CUDA memory fragmentation for long variable-length sequences
+env:
+  PYTORCH_CUDA_ALLOC_CONF: "expandable_segments:True"
+
+wandb:
+  project: "Neurlps2026-SFT-COde"
+  group: "Dataset-COde"

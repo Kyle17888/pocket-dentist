@@ -1,0 +1,10 @@
+CUDA_VISIBLE_DEVICES: "0"
+model: "google/gemma-4-E4B-it"
+served_model_name: "gemma-4-E4B-it"
+port: 9005
+trust_remote_code: true
+max_model_len: 16384
+limit_mm_per_prompt: '{"image": 8}'
+gpu_memory_utilization: 0.90
+max_num_seqs: 16
+seed: 42

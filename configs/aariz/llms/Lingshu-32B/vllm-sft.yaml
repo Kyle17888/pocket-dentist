@@ -1,0 +1,9 @@
+CUDA_VISIBLE_DEVICES: "0"
+model: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/Aariz/llms/Lingshu-32B/merged"
+served_model_name: "Lingshu-32B-SFT"
+port: 8000
+trust_remote_code: true
+max_model_len: 20000
+gpu_memory_utilization: 0.9
+max_num_seqs: 8
+seed: 42

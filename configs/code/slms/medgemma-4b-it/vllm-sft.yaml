@@ -1,0 +1,9 @@
+CUDA_VISIBLE_DEVICES: "0"
+model: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/COde/slms/medgemma-4b-it/merged"
+served_model_name: "medgemma-4b-it-SFT"
+port: 9002
+trust_remote_code: true
+max_model_len: 16384
+gpu_memory_utilization: 0.9
+max_num_seqs: 16
+seed: 42

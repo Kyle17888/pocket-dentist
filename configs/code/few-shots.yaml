@@ -1,0 +1,40 @@
+# Few-shot configuration for COde prediction tasks.
+#
+# num_shots: how many examples to inject per query (0, 1, or 2).
+#   - Must be <= the number of entries in each task's 'examples' list.
+#   - Set to 0 (or omit this file entirely) to run in zero-shot mode.
+#
+# For each task, list example images and their ground-truth answer strings.
+# The 'images' list contains paths to all images for the sample (multi-image).
+# The 'answer' should be the raw string the model is expected to output.
+#
+# Image paths are absolute (NeSI dataset root):
+#   /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/
+
+num_shots: 0
+
+code_classification:
+  examples:
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/Images/Photographs/2115-003-01.jpg
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/Images/Radiographs/2115-003-01.jpg
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/Images/Radiographs/2115-003-02.jpg
+      answer: "Dental Caries"
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/Images/Photographs/1412-002-01.jpg
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/Images/Photographs/1412-002-02.jpg
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/Images/Photographs/1412-002-03.jpg
+      answer: "Gingivitis"
+
+code_report:
+  examples:
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/Images/Photographs/2115-003-01.jpg
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/Images/Radiographs/2115-003-01.jpg
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/Images/Radiographs/2115-003-02.jpg
+      answer: "Patient Record: Follow-up consultation. Diagnosis: pit and fissure caries.\nExamination: Tooth 36 shows pit and fissure staining with probe catch, negative to cold and percussion tests.\nRadiographic Examination: \nDiagnosis: Pit and fissure caries on tooth 36.\nTreatment Plan: \nTreatment Recommendations: \nManagement: Caries removal and cavity preparation on tooth 36. Calcium hydroxide base placed near the pulp. Acid etching, rinsing, drying, bonding agent application, and light curing were performed. 3M-P60 resin was layered, light cured, shaped, occlusion adjusted, and polished.\nMedical Instructions: Follow up if any discomfort occurs. Avoid hard foods. If pulpal symptoms develop, root canal therapy may be necessary.\nRemarks: "
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/Images/Photographs/2233-006-01.jpg
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/Images/Photographs/2233-006-02.jpg
+      answer: "Patient Record: Follow-up consultation. Diagnosis: Deep caries in permanent teeth (K02.800x008). Secondary caries (K02.800x001). Moderate caries in permanent teeth (K02.800x007).\nExamination: Tooth 27 has a temporary crown in place with no soft tissue abnormalities. Teeth 11, 12, 21, and 22 show brown cavitated lesions with soft texture and dark color, with some existing fillings. Teeth 13 and 23 have brown discoloration on the mesial surfaces with soft probing.\nRadiographic Examination: \nDiagnosis: * Tooth 27: Deep caries in permanent teeth (K02.800x008).\n* Teeth 11, 12, 21, 22: Secondary caries (K02.800x001).\n* Teeth 13, 23: Moderate caries in permanent teeth (K02.800x007).\nTreatment Plan: \nTreatment Recommendations: \nManagement: For tooth 27, the patient was informed of the condition, treatment plan, costs, and prognosis and consented to treatment. The temporary crown and sealing materials were removed, the abutment and restoration were cleaned, and the restoration was tried in for fit and proximal contact. It was cemented with dual-cure resin cement, occlusion was adjusted, and polished. For teeth 11, 12, 21, and 22, local infiltration anesthesia with compound articaine was administered, caries were removed, and composite resin fillings were placed. Veneer preparation and polishing were performed, and an upper jaw model was taken for restoration fabrication. For teeth 13 and 23, caries removal, cavity preparation, etching, drying, bonding agent application, and composite filling were performed, with occlusion adjustment and polishing. The patient was advised on care instructions.\nMedical Instructions: Avoid biting hard foods, maintain oral hygiene, and return for follow-up. If pulpal symptoms occur, root canal therapy may be needed.\nRemarks: "
+

@@ -1,0 +1,987 @@
+{
+  "dr_cls_test_0001": {
+    "gt": [
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Wear Patterns, Tooth Sagging Signs, Tooth Grinding/X-Ray Signs\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n "
+  },
+  "dr_cls_test_0003": {
+    "gt": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.25,
+    "f1": 0.4,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Fragment Signs, Tooth Bone Loss Signs, Tooth Gum Disease Signs, Tooth Tooth Decay Signs, Tooth Tooth Mobility Signs, Tooth Tooth Fragment Signs, Tooth Tooth Bone Loss Signs, Tooth Tooth Gum Disease S"
+  },
+  "dr_cls_test_0009": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Gum Disease Signs, Tooth Mobility Signs, Bone Loss Signs, Tooth Decay Signs, Tooth Mobility Signs, Gum Disease Signs, Tooth Decay Signs, Tooth Mobility Signs, Gum"
+  },
+  "dr_cls_test_0000": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs, Bone Loss Signs, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs"
+  },
+  "dr_cls_test_0004": {
+    "gt": [
+      "Cavity",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0002": {
+    "gt": [
+      "Cavity",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay "
+  },
+  "dr_cls_test_0008": {
+    "gt": [
+      "Cavity"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Sagging Teeth Signs, Tooth Grinding Toothpaste Marks Toothpaste Marks Toothpaste Marks Toothpaste Marks Toothpaste Marks Toothpaste Marks Toothpaste Marks Toothpaste Marks Toothpaste Marks Toothpaste"
+  },
+  "dr_cls_test_0011": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Regions, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Regions, Tooth Mobility Signs, Bone Loss Signs, Gum Disease Signs, Tooth Decay Regions, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Regions, Tooth Mobili"
+  },
+  "dr_cls_test_0010": {
+    "gt": [
+      "Cavity",
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Gum Disease Signs, Tooth Mobility Signs, Bone Loss Signs, Tooth Decay Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Mobility Signs, Tooth Decay Signs, Too"
+  },
+  "dr_cls_test_0005": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Grinding Artifact Signs, Tooth Wear Artifact Signs, Tooth Sagging Artifact Signs, Tooth Bleeding Artifact Signs, Tooth Toothpaste Foam Artifact Signs, Tooth Toothpaste Foam Artifact Signs,\n\n\nBone Los"
+  },
+  "dr_cls_test_0006": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0014": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs, Bone Loss Signs, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs"
+  },
+  "dr_cls_test_0012": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Regions, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Regions, Bone Loss Regions, Gum Disease Regions, Tooth Mobility Regions, Tooth Decay Regions, Tooth Decay Regions, Tooth Decay Regions, Tooth Decay Regions, Tooth Deca"
+  },
+  "dr_cls_test_0013": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Wear Patterns, Tooth Sagging Signs, Tooth Grinding/X-Ray Signs\n    \n    \nPHYTHON ERROR RESPONSE FIXED\n    \n    \nPHYTHON ERROR RESPONSE FIXED\n    \n    \nPHYTHON ERROR RESPONSE FIXED\n    \n    \nPHYTHON E"
+  },
+  "dr_cls_test_0007": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Bone Fistulous Drainage Tubes, Tooth Mobility Teeth Detected Teeth Detected Tooth Decay Teeth Detected Tooth Decay Teeth Detected Tooth Decay Teeth Detected Tooth Decay Teeth Detected Tooth Decay Teeth Detected Tooth Decay Teeth Detected Tooth Decay Teeth Detected "
+  },
+  "dr_cls_test_0015": {
+    "gt": [
+      "Cavity"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones, Tooth Mobility Zones, Tooth Sagging Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bl"
+  },
+  "dr_cls_test_0018": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0031": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs, Bone Loss Signs, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs"
+  },
+  "dr_cls_test_0016": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay "
+  },
+  "dr_cls_test_0019": {
+    "gt": [
+      "Cavity",
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs, Bone Loss Signs, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs"
+  },
+  "dr_cls_test_0029": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas,\n\n\nBone Loss Tooth Extraction Gum Disease Tooth Decay,\n\n\nBone Loss Tooth Extraction Gum Disease Tooth Decay,\n\n\nBone Loss Tooth Extraction Gum Disease Tooth Decay,\n\n\nBone Loss Tooth Extraction Gum Disease Tooth Decay,\n\n\nBone Loss"
+  },
+  "dr_cls_test_0021": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Grinding/Kissing Marks,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0022": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Bone Fistulous Drainage Tubes, Tooth Mobility Teeth Extraction Sites Bone Fistulas Tooth Germ Persistence Tooth Decay Tooth Bleeding Ganglia Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Toot"
+  },
+  "dr_cls_test_0020": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0026": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Grinding/Kissing Marks,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0030": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones, Tooth Mobility Zones, Tooth Sagging Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bl"
+  },
+  "dr_cls_test_0024": {
+    "gt": [
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Detected Premolars/Larger Teeth Regions,\n\n\nBone Loss Detected Premolars/Larger Teeth Regions,\n\n\nBone Loss Detected Teeth Regions,\n\n\nBone Loss Detected Teeth Regions,\n\n\nBone Loss Detected Teeth Regions,\n\n\nBone Loss Detected Teeth Regio"
+  },
+  "dr_cls_test_0027": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones, Tooth Mobility Zones, Tooth Sagging Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bl"
+  },
+  "dr_cls_test_0028": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay "
+  },
+  "dr_cls_test_0017": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Regions, Tooth Mobility Signs, Tooth Sagging Teeth Categories Detected:\n\n\n\nBone Loss Tooth Extraction Sites Gum Disease Signs Tooth Decay Regions Tooth Mobility Signs Tooth Sagging Teeth Categories Detected:\n\n\n\nBone Loss Tooth Extract"
+  },
+  "dr_cls_test_0023": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones, Tooth Mobility Zones, Tooth Sagging Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bl"
+  },
+  "dr_cls_test_0025": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0032": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones, Tooth Mobility Zones, Tooth Sagging Zones, Tooth Grinding Wear Zones, Tooth Wear Zones, Tooth Grinding Wear Zones,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone L"
+  },
+  "dr_cls_test_0035": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay "
+  },
+  "dr_cls_test_0046": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Regions, Tooth Mobility Signs, Tooth Sagging Teeth Signs, Tooth Grinding Tooth Signs, Tooth Grinding Tooth Signs,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nB"
+  },
+  "dr_cls_test_0045": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Grinding/Kissing Marks,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0040": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones, Tooth Mobility Zones, Tooth Sagging Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bl"
+  },
+  "dr_cls_test_0039": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Detected Premature Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth"
+  },
+  "dr_cls_test_0047": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Grinding/Kissing Marks,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0044": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0036": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones, Tooth Mobility Zones, Tooth Sagging Zones, Tooth Grinding Wear Zones, Tooth Wear Zones, Tooth Grinding Wear Zones,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone L"
+  },
+  "dr_cls_test_0043": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0034": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0033": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Detected Premolars/Larger Teeth Regions,\n\n\nBone Loss Detected Premolars/Larger Teeth Regions,\n\n\nBone Loss Detected Teeth Regions,\n\n\nBone Loss Detected Teeth Regions,\n\n\nBone Loss Detected Teeth Regions,\n\n\nBone Loss Detected Teeth Regio"
+  },
+  "dr_cls_test_0042": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs, Bone Loss Signs, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs"
+  },
+  "dr_cls_test_0037": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones, Tooth Mobility Zones, Tooth Sagging Zones, Tooth Grinding Wear Zones, Tooth Wear Zones, Tooth Grinding Wear Zones,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone L"
+  },
+  "dr_cls_test_0041": {
+    "gt": [
+      "Cavity"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0038": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Grinding/Kissing Marks,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0048": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Wear Patterns, Tooth Sagging Signs, Tooth Grinding/X-Ray Signs\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n "
+  },
+  "dr_cls_test_0049": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs, Bone Loss Signs, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs"
+  },
+  "dr_cls_test_0053": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Grinding/Kissing Marks,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0051": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay "
+  },
+  "dr_cls_test_0060": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Bone Fistulous Drainage Tubes, Tooth Mobility Teeth Extraction Sites Bone Fistulas Tooth Germ Persistence Tooth Decay Tooth Bleeding Ganglia Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Toot"
+  },
+  "dr_cls_test_0054": {
+    "gt": [
+      "Cavity"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones, Tooth Mobility Zones, Tooth Sagging Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bl"
+  },
+  "dr_cls_test_0055": {
+    "gt": [
+      "Cavity",
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.3333,
+    "f1": 0.5,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay "
+  },
+  "dr_cls_test_0056": {
+    "gt": [
+      "Cavity",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0057": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones, Tooth Mobility Zones, Tooth Sagging Zones, Tooth Bleeding Zones, Tooth Mobility Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bleeding Zones, Tooth Bl"
+  },
+  "dr_cls_test_0063": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Grinding/Kissing Marks,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0061": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Bone Fistulous Drain Tubes, Gingival Surgery Sites, Tooth Extraction Sites, Bone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBo"
+  },
+  "dr_cls_test_0059": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs, Bone Loss Signs, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Extraction Sites, Tooth Decay Areas, Tooth Mobility Signs"
+  },
+  "dr_cls_test_0058": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay "
+  },
+  "dr_cls_test_0062": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Bone Fistulous Drainage Tubes, Tooth Mobility Teeth Extraction Sites Bone Fistulous Drainage Tubes Tooth Mobility Teeth Extraction Sites Bone Fistulous Drainage Tubes Tooth Mobility Teeth Extraction Sites Bone Fistulous Drainage Tubes Tooth Mobility Teeth Extractio"
+  },
+  "dr_cls_test_0052": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Grinding/Kissing Marks,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0050": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Bone Fistulous Drain Tubes, Gingival Surgery Sites, Tooth Extraction Sites, Bone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBo"
+  },
+  "dr_cls_test_0064": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Bone Fistulous Drainage Tubes, Tooth Mobility Teeth Extraction Sites Bone Fistulas Tooth Germ Persistence Tooth Decay Tooth Bleeding Ganglia Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Tooth Bone Fistulas Toot"
+  },
+  "dr_cls_test_0065": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Bone Fistulous Drainage Tubes, Tooth Extraction Sites, Bone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone Fistulas,\n\n\nBone F"
+  },
+  "dr_cls_test_0066": {
+    "gt": [
+      "Cavity",
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Detected Premolars/Larger Teeth Regions,\n\n\nBone Loss Detected Premolars/Larger Teeth Regions,\n\n\nBone Loss Detected Teeth Regions,\n\n\nBone Loss Detected Teeth Regions,\n\n\nBone Loss Detected Teeth Regions,\n\n\nBone Loss Detected Teeth Regio"
+  },
+  "dr_cls_test_0069": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0067": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas, Tooth Mobility Signs, Tooth Grinding/Kissing Marks,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0072": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Zones,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0068": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  },
+  "dr_cls_test_0071": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Mobility Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay Signs, Tooth Decay "
+  },
+  "dr_cls_test_0070": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Bone Loss, Tooth Extraction Sites, Gum Disease Signs, Tooth Decay Areas,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone Loss,\n\n\nBone"
+  }
+}

@@ -1,0 +1,2964 @@
+{
+  "caries_cls_test_00000": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed_priority_action_needed_priority_action_needed_priority_action_needed_priority_action_needed_priority_action_needed_priority_action_needed_priority_action_needed_priority_action_needed_priority_action_needed_priority_action_needed_priority_action"
+  },
+  "caries_cls_test_00001": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00002": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00003": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE RESPONSE DOES NOT APPLY BELOW IMAGE RESULTS RESPONSE FORMAT EXAMPLE FORMAT BELOW RESPONSE FORMAT EXAMPLE FORMAT BELOW RESPONSE FORMAT EXAMPLE FORMAT BELOW RESPONSE FORMAT EXAMPLE FORMAT BELOW RESPONSE FORMAT EXAMPLE FORMAT BELOW RESPONSE FORMAT E"
+  },
+  "caries_cls_test_00004": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00005": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethNOTE:* PRIMARY CHILD FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FO"
+  },
+  "caries_cls_test_00006": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00007": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE RESPONSE DOES NOT ADDRESS FORMAT REQUEST WHICH WAS TYPE FORMAT RESPONSE ABOVE RESPONSE FORMAT RESPONSE ABOVE RESPONSE FORMAT RESPONSE ABOVE RESPONSE FORMAT RESPONSE ABOVE RESPONSE FORMAT RESPONSE ABOVE RESPONSE FORMAT RESPONSE ABOVE RESPONSE FORM"
+  },
+  "caries_cls_test_00008": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00009": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00010": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00011": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00012": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNOTE:* PRIMARY CHILDREN HAVE BOTH TYPES THEY WANT ABOVE LIST ABOVE BOTTOM LIST CHILDREN HAVE PRIMARY CHILDREN HAVE PRIMARY CHILDREN HAVE PRIMARY CHILDREN HAVE PRIMARY CHILDREN HAVE PRIMARY CHILDREN HAVE PRIMARY CHILDREN HAVE PRIMARY CHILDREN HAVE PRIMARY CHILDREN HAVE P"
+  },
+  "caries_cls_test_00013": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00014": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00015": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNOTE:* PRIMARY CHILDREN HAVE MANY MORE DECUBIOUS THAN THEIR MANAGEMENT YEARS ALLOW ALLOW MANAGEMENT YEARS ALLOW MANAGEMENT YEARS ALLOW MANAGEMENT YEARS ALLOW MANAGEMENT YEARS ALLOW MANAGEMENT YEARS ALLOW MANAGEMENT YEARS ALLOW MANAGEMENT YEARS ALLOW MANAGEMENT YEARS ALL"
+  },
+  "caries_cls_test_00016": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00017": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00018": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注释: Tooth decay is affecting both permanent teeth and deciduous/tooth enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enam"
+  },
+  "caries_cls_test_00019": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00020": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethNOTE:* PRIMARY CHILD FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FO"
+  },
+  "caries_cls_test_00021": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注释: Teeth龋齒損害嚴重嚴重損害齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00022": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*}{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*{*}*"
+  },
+  "caries_cls_test_00023": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00024": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00025": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_"
+  },
+  "caries_cls_test_00026": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00027": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00028": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00029": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethátisiçãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoão"
+  },
+  "caries_cls_test_00030": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethNOTE:* PRIMARY CHILD FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FO"
+  },
+  "caries_cls_test_00031": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注释: Tooth decay is affecting both permanent teeth and deciduous/tooth enamel/responsible/incipient/incipient/incipient/incipient/incipient/incipient/incipient/incipient/incipient/incipient/incipient/incipient/incipient/incipient/incipient/incipient/incipient/incipient/i"
+  },
+  "caries_cls_test_00032": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00033": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00034": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00035": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed:true,error_message:false,response_type:auto,response_message:false,response_status:false,user_message:false,user_response:false,user_action:false,user_selected_response:false,user_selected_action:false,user_selected_response_type:false,user_sele"
+  },
+  "caries_cls_test_00036": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00037": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00038": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00039": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00040": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethWARNING MESSAGE:XPOSE PERSON DATA WITHOUT PERMISSION WILL RESULT ONLINE ACCOUNT TERMINATION AND OTHER ACTIONS APPLY UNDER USER SERVICE AGREEMENT ONLINE USAGE INCLUDE DOWNLOAD STORAGE USAGE WHICH MAY INCLUDE USING ONLINE SERVICES PROVIDOREDIRECT DOWNLOAD STORAGE USAGE ON"
+  },
+  "caries_cls_test_00041": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethNOTE:* PRIMARY CHILD FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FO"
+  },
+  "caries_cls_test_00042": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNOTE:* PRIMARY CATEGORY LIST FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT RE"
+  },
+  "caries_cls_test_00043": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00044": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethNOTE:* PRIMARY CHILD FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FO"
+  },
+  "caries_cls_test_00045": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNOTE:* PRIMARY CATEGORY LIST FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT RE"
+  },
+  "caries_cls_test_00046": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00047": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00048": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNOTE:* PRIMARY CATEGORY LIST FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT RE"
+  },
+  "caries_cls_test_00049": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00050": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00051": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed:true,response_type:strategy_response:true,response_options:{strategy_options:[\"analyze_image_features\"],\"priority_actions\":[\"analyze_image_features\"],\"execute_actions\":[\"analyze_image_features\"],\"execute_response_actions\":[\"analyze_image_feature"
+  },
+  "caries_cls_test_00052": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00053": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00054": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00055": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00056": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00057": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00058": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Primary teethNOTE:* PRIMARY CATEGORY LIST FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT RE"
+  },
+  "caries_cls_test_00074": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00059": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00060": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00061": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00062": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00063": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00064": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00065": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00066": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE RESPONSE DOES NOT APPLY BELOW RESPONSE FORMAT ASSIGNMENT REQUEST RECEIVED RESPONSE FORMAT ASSIGNMENT REQUEST RECEIVED RESPONSE FORMAT ASSIGNMENT REQUEST RECEIVED RESPONSE FORMAT ASSIGNMENT REQUEST RECEIVED RESPONSE FORMAT ASSIGNMENT REQUEST RECEI"
+  },
+  "caries_cls_test_00067": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE THIS RESPONSE CONTAINS GRAPHICAL INFORMATION REFERENCED ABOVE WHICH MAY DISTRACT YOU FROM THE TASK DESCRIPTION REFERENCED BELOW SOME SYSTEM SETTINGS HAVE BEEN CONFIGURED TO BLOCK IMAGES REFERENCED ABOVE WHILE ALLOWING IMAGES REFERENCED BELOW THROUGH PL"
+  },
+  "caries_cls_test_00068": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00069": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE THIS LINE REGARDING FORMAT SPECIFICATION DOES NOT APPLY BELOW THIS LINE REGARDING FORMAT SPECIFICATION DOES APPLY BELOW THIS LINE REGARDING FORMAT SPECIFICATION DOES APPLY BELOW THIS LINE REGARDING FORMAT SPECIFICATION DOES APPLY BELOW THIS LINE "
+  },
+  "caries_cls_test_00070": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00071": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNOTE:* PRIMARY CATEGORY INCLUDE BABIES CHILDREN UNDER FOUR YEARS OLD WHILE SECOND CATEGORY INCLUDE ABOVE FOUR YEARS OLD PERSON CATEGORY INCLUDE BOTH TYPE ABOVE FOUR YEAR PERSON INCLUDE SECOND CATEGORY ABOVE FOUR YEAR PERSON INCLUDE SECOND CATEGORY INCLUDE ABOVE FOUR YEA"
+  },
+  "caries_cls_test_00072": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE RESPONSE DOES NOT APPLY BELOW RESPONSE FORMAT CHANGE ALLOWING CATEGORY LIST LENGTH ABOVE RESPONSE FORMAT CHANGE ALLOWING CATEGORY LIST LENGTH ABOVE RESPONSE FORMAT CHANGE ALLOWING CATEGORY LIST LENGTH ABOVE RESPONSE FORMAT CHANGE ALLOWING CATEGOR"
+  },
+  "caries_cls_test_00073": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00075": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethNOTE:* PRIMARY CHILD FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FO"
+  },
+  "caries_cls_test_00076": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_"
+  },
+  "caries_cls_test_00077": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00078": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNote:* Teeth龋齿:* Tooth decay:* Tooth龋齿:* Tooth decay:* Tooth龋齿:* Tooth decay:* Tooth龋齿:* Tooth decay:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿:* Tooth龋齿"
+  },
+  "caries_cls_test_00079": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNOTE:* PRIMARY CATEGORY INCLUDE BABIES WHICH INCLUDE CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS CHILD YEARS C"
+  },
+  "caries_cls_test_00080": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00081": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNOTE:* PRIMARY CATEGORY LIST FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT REQUEST ADDRESS ABOVE FORMAT RE"
+  },
+  "caries_cls_test_00082": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Primary teeth條件說明這次檢查顯示齒齒蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲蟲"
+  },
+  "caries_cls_test_00083": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth{*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CA"
+  },
+  "caries_cls_test_00084": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00085": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_"
+  },
+  "caries_cls_test_00086": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00087": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00088": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00089": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_"
+  },
+  "caries_cls_test_00105": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00090": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethátisiçãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoão"
+  },
+  "caries_cls_test_00091": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00092": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00093": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00094": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNOTE:* PRIMARY CHILDREN HAVE MANY MORE DECUBIOUS THAN THEIR EVALUED YEARS ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLO"
+  },
+  "caries_cls_test_00095": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00111": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00096": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00113": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00097": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IM"
+  },
+  "caries_cls_test_00098": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00099": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth{*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CA"
+  },
+  "caries_cls_test_00100": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00101": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE RESPONSE DOES NOT ALTER RESPONSE FORMAT REQUEST ABOVE RESPONSE FORMAT RESPONSE ABOVE FORMAT REQUEST ABOVE FORMAT RESPONSE ABOVE FORMAT RESPONSE ABOVE FORMAT RESPONSE ABOVE FORMAT RESPONSE ABOVE FORMAT RESPONSE ABOVE FORMAT RESPONSE ABOVE FORMAT R"
+  },
+  "caries_cls_test_00115": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00120": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00102": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Primary teeth, Permanent teeth\n\n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent te"
+  },
+  "caries_cls_test_00103": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00104": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00106": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IM"
+  },
+  "caries_cls_test_00107": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Primary teeth\n\n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPer"
+  },
+  "caries_cls_test_00108": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00128": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00129": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00109": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00131": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00110": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethpermanent teeth,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,is,"
+  },
+  "caries_cls_test_00112": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD "
+  },
+  "caries_cls_test_00114": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth{*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CA"
+  },
+  "caries_cls_test_00116": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00117": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00118": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00119": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00121": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00138": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00122": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00142": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth"
+  },
+  "caries_cls_test_00123": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IM"
+  },
+  "caries_cls_test_00124": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IM"
+  },
+  "caries_cls_test_00125": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00146": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00126": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00127": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} Permanent Teeth *} Permanent Teeth *} Permanent Teeth *} Permanent Teeth *} Permanent Teeth *} Permanent Teeth *} Permanent Teeth *} Permanent Teeth *} Permanent Teeth *} Permanent Teeth *} Permanent Teeth *} Permanent Teeth *} Permanent Teeth *} Permanent Teeth "
+  },
+  "caries_cls_test_00130": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00132": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00133": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00134": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00153": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00135": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00136": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Primary teeth\n\n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPer"
+  },
+  "caries_cls_test_00137": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00139": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD "
+  },
+  "caries_cls_test_00141": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_"
+  },
+  "caries_cls_test_00140": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE RESPONSE DOES NOT ADDRESS FORMAT REQUEST WHICH WAS TYPE FORMAT RESPONSE ABOVE RESPONSE ABOVE RESPONSE ABOVE RESPONSE ABOVE RESPONSE ABOVE RESPONSE ABOVE RESPONSE ABOVE RESPONSE ABOVE RESPONSE ABOVE RESPONSE ABOVE RESPONSE ABOVE RESPONSE ABOVE RES"
+  },
+  "caries_cls_test_00143": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNOTE:* PRIMARY CHILDREN HAVE MANY MORE DECUBIOUS THAN THEIR EVALUED YEARS ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLOW ALLO"
+  },
+  "caries_cls_test_00161": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00144": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Primary teethWARNING MESSAGE ABOVE RESPONSE THIS RESPONSE HAS BEEN GENERATED USING INTERNET DATA WHICH MAY HAVE INFORMATION SECURITY LEVEL SHORTAGES THEREFORE USERS RESPONSIBILITY START USAGE WITH STRICT DATA MANAGEMENT METHODS USED PERSON LEVEL DATA SECURITY MANAGEMENT LEVEL SERVER"
+  },
+  "caries_cls_test_00163": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00145": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00147": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE CATEGORY LIST FORMAT ABOVE CATEGORY LIST FORMAT ABOVE CATEGORY LIST FORMAT ABOVE CATEGORY LIST FORMAT ABOVE CATEGORY LIST FORMAT ABOVE CATEGORY LIST FORMAT ABOVE CATEGORY LIST FORMAT ABOVE CATEGORY LIST FORMAT ABOVE CATEGORY LIST FORMAT ABOVE CATEGORY LI"
+  },
+  "caries_cls_test_00148": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00149": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00150": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE RESPONSE DOES NOT APPLY BELOW IMAGE SOURCE IMAGE TYPE PHOTO DESCRIPTION Oral cavity dental龋齿类型牙齿受影响类别 PRIMARY CATEGORY LIST CATEGORY LIST SECOND PRIMARY CATEGORY LIST SECOND CATEGORY LIST SECOND CATEGORY LIST SECOND CATEGORY LIST SECOND CATEGORY "
+  },
+  "caries_cls_test_00151": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth{*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CA"
+  },
+  "caries_cls_test_00152": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00154": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00155": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IM"
+  },
+  "caries_cls_test_00156": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00157": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK"
+  },
+  "caries_cls_test_00158": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Primary teeth\n\n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPer"
+  },
+  "caries_cls_test_00159": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNote:* Teeth affected by龋齿(carious龋齿decay/disrupted enamel/color/flaky/appearance/disrupted/appearance/disrupted/appearance/disrupted/appearance/disrupted/appearance/disrupted/appearance/disrupted/appearance/disrupted/appearance/disrupted/appearance/disrupted/appearance"
+  },
+  "caries_cls_test_00160": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確資訊應該視為暫時候暫時候也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許也許"
+  },
+  "caries_cls_test_00177": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00162": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00164": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00165": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00182": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00166": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00167": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK RIGHT LOWER BACK"
+  },
+  "caries_cls_test_00168": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00169": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00170": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注释: Tooth decay is affecting both permanent teeth and deciduous/tooth enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enamel enam"
+  },
+  "caries_cls_test_00171": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00172": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNote: Teeth龋齿.Primary teeth: deciduous baby teeth.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teet"
+  },
+  "caries_cls_test_00173": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNote: Teeth龋齿.Primary teeth:baby teeth.Permanent teeth:user:image:image/jpeg;base64,UklGRhgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACgxPgAACg"
+  },
+  "caries_cls_test_00190": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00174": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNote: Teeth龋齿.Primary teeth: deciduous baby teeth.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teeth龋齿.Primary teet"
+  },
+  "caries_cls_test_00175": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00176": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE RESPONSE DOES NOT APPLY BELOW RESPONSE FORMAT CHANGE ALLOWING CATEGORY LIST LENGTH ABOVE RESPONSE FORMAT CHANGE ALLOWING CATEGORY LIST LENGTH ABOVE RESPONSE FORMAT CHANGE ALLOWING CATEGORY LIST LENGTH ABOVE RESPONSE FORMAT CHANGE ALLOWING CATEGOR"
+  },
+  "caries_cls_test_00192": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00178": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethNote: Teeth龋齿(categories)\n\n\nPermanent teeth: Tooth enamel deterioration.\n\n\nBaby Teeth: Tooth enamel deterioration.\n\n\nPermanent Teeth:\n\n\nBaby Teeth:\n\n\nPermanent Teeth:\n\n\nPermanent Teeth\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "caries_cls_test_00179": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00180": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00181": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00183": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00184": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethNOTE THAT PRIMARY TEETH REFER REFERRED ABOVE PRIMARY DECISION REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER REFER RE"
+  },
+  "caries_cls_test_00185": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed:true,response_type:strategy_response:true,response_options:{strategy_options:[\"analyze_image_features\"],\"strategy_threshold_percentage\":0.8},\"scenario_type\":\"classification_task_prompt_available_image_description_only_text_only_prompt_no_instruc"
+  },
+  "caries_cls_test_00186": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE THIS LINE REGARDING FORMAT SPECIFICATION DOES NOT APPLY BELOW THIS LINE INCLUDING ANY RESPONSE GIVEN BELOW THIS MESSAGE REGARDING FORMAT SPECIFICATION DOES APPLY BELOW THIS MESSAGE REGARDING FORMAT SPECIFICATION APPLY ABOVE THIS MESSAGE REGARDING"
+  },
+  "caries_cls_test_00187": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注释: Tooth decay is affecting both permanent teeth and deciduous/tooth enamel/responsible/incipient龋齒影響齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00188": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE THIS RESPONSE CONTAINS GRAPHICAL INFORMATION REFERENCED ABOVE WHICH MAY DISTRACT YOU FROM EVALUATING THE IMAGE REFERENCED ABOVE WHICH MAY INCLUDE DIAGNESISTIC INFORMATION THAT YOU NEED ABOVE CATEGORY INFORMATION REFERENCED ABOVE WHICH MAY INCLUDE DIAGN"
+  },
+  "caries_cls_test_00189": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth{*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CA"
+  },
+  "caries_cls_test_00191": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth{*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CATEGORY_NAME_HERE *} {*CA"
+  },
+  "caries_cls_test_00193": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_"
+  },
+  "caries_cls_test_00194": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注释: Teeth龋齒損害位於齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00195": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethWARNING MESSAGE ABOVE RESPONSE THIS RESPONSE HAS BEEN GENERATED USING MACHINE PROCESSING SYSTEM AND THEREFORE MAY INCLUDE ERRORS CAUSED BY MACHINE PROCESSING SYSTEM SHORTAGES AND LIMITATIONS REGARDING CONTEXT USAGE AND TERMINOGRAPH POSITION REFER BACK TO PROVIDITOR DOCU"
+  },
+  "caries_cls_test_00196": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE RESPONSE DOES NOT APPLY BELOW IMAGE RESULTS RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT "
+  },
+  "caries_cls_test_00197": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE THIS RESPONSE CONTAINS GRAPHICAL INFORMATION REFERENCED ABOVE WHICH MAY INCLUDE IMAGES THAT REFER ADDRESS USERS REFERENCED ABOVE USERS REFERENCED ABOVE USERS REFERENCED ABOVE USERS REFERENCED ABOVE USERS REFERENCED ABOVE USERS REFERENCED ABOVE USERS RE"
+  },
+  "caries_cls_test_00198": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Primary teeth\n\n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPermanent teeth\n    \n    \nPer"
+  },
+  "caries_cls_test_00199": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE RESPONSE DOES NOT APPLY BELOW IMAGE RESULTS RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT EXAMPLE FORMAT RESPONSE FORMAT "
+  },
+  "caries_cls_test_00215": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth."
+  },
+  "caries_cls_test_00200": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethWARNING MESSAGE ABOVE RESPONSE DOES NOT APPLY BELOW RESPONSE FORMAT ASSIGNMENT REQUEST RECEIVED RESPONSE FORMAT ASSIGNMENT REQUEST RECEIVED RESPONSE FORMAT ASSIGNMENT REQUEST RECEIVED RESPONSE FORMAT ASSIGNMENT REQUEST RECEIVED RESPONSE FORMAT ASSIGNMENT REQUEST RECEI"
+  },
+  "caries_cls_test_00201": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethWARNING MESSAGE:XPOSE RESPONSE HAS BEEN GENERATED WHICH INCLUDE PERSON IDENTIFICATION INFORMATION.THROUGH USER INPUT DEVICE.THROUGH USER INPUT DEVICE.THROUGH USER INPUT DEVICE.THROUGH USER INPUT DEVICE.THROUGH USER INPUT DEVICE.THROUGH USER INPUT DEVICE.THROUGH USER INP"
+  },
+  "caries_cls_test_00202": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00203": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00204": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00205": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "Permanent teeth, Permanent teethNOTE:* PRIMARY CHILD FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FO"
+  },
+  "caries_cls_test_00206": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethátisiçãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoãoão"
+  },
+  "caries_cls_test_00207": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00208": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00209": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IM"
+  },
+  "caries_cls_test_00210": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethNOTE:* PRIMARY CHILD FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FORMAT FO"
+  },
+  "caries_cls_test_00211": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_"
+  },
+  "caries_cls_test_00212": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00213": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teeth注釋錯誤已經刪除並將正確資訊呈現出來正確應該僅針對齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "caries_cls_test_00214": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD ABOVE METHOD "
+  },
+  "caries_cls_test_00216": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00217": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00218": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00219": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Primary teethWARNING MESSAGE:XPOSE ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LEVEL ABOVE LE"
+  },
+  "caries_cls_test_00220": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00221": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IMAGE ABOVE IM"
+  },
+  "caries_cls_test_00222": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethHAVITED ABOVE IMAGE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE ABOVE AB"
+  },
+  "caries_cls_test_00223": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teeth {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *}"
+  },
+  "caries_cls_test_00224": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "Permanent teeth, Primary teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent teeth, Permanent tee"
+  },
+  "caries_cls_test_00225": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "Permanent teeth, Permanent teethpriority_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_needed_action_"
+  }
+}

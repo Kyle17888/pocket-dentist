@@ -1,0 +1,2972 @@
+{
+  "code_cls_00005": {
+    "gt": "Tooth Loss",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Crowding/Image畸齒擁擠問題診斷重點檢查齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "code_cls_00008": {
+    "gt": "Tooth Loss",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Crowding/Image畸齒擁擠問題診斷重點檢查齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "code_cls_00001": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/architecture/photo/clarity/significance/significance/significance/significance/significance/significance/significance/significance/significance/signi"
+  },
+  "code_cls_00000": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival recession/flabby gums/swollen gums/red gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums"
+  },
+  "code_cls_00002": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva, gums, teeth, gums, gums/appliance/contact/status/status/status/status/status/status/status/status/status/status/status/status/status/status/status/s"
+  },
+  "code_cls_00006": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Globals Periodontitis/Globals Gingivitis/Globals Tooth Loss/Substantial Tooth Loss/Substantial Tooth Extraction Sites/Substantial Tooth Extraction Sites/Substantial T"
+  },
+  "code_cls_00007": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Persistent Tooth Structure Loss categoría después del tratamiento dentro después después después después después después después después después después después después después después después después"
+  },
+  "code_cls_00009": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss: Extraction/removal/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnan"
+  },
+  "code_cls_00012": {
+    "gt": "Tooth Loss",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Crowding/Image畸齒嚴重擁擠齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "code_cls_00010": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Globals Periodontitis/Globals Gingivitis/Globals Tooth Pocket Formation/Image Appears Worse Tooth Pocket Formation/Image Appears Worse Tooth Pocket Formation/Image Ap"
+  },
+  "code_cls_00011": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Loss\n    \n\nRATIONALE\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n "
+  },
+  "code_cls_00013": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00015": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00017": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00016": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00019": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00020": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Restoration Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Restoration Sites/Image Showing Tooth Extraction Sites/Image Showing "
+  },
+  "code_cls_00025": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva, gums, and teeth:\n\n Gingiva Appearance:\n Gingiva gums are swollen/red, irritated/flaky/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swolle"
+  },
+  "code_cls_00026": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva, gums, and teeth:\n\n Gingiva Appearance:\n Gingiva gums are swollen/red, irritated/flaky/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swolle"
+  },
+  "code_cls_00022": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00024": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Gingival Disease/Substantial Gingival Gingival Disease/Substantial Gingival Bleeding Gingiva/Substantial Gingival Bleeding Gingiva/Substantial Gingival Bleeding Gingiva/Substantial Gingiva"
+  },
+  "code_cls_00027": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00028": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00033": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Description: Teeth缺失, 包括拔牙术后牙龈萎缩(Post-operation Gingival Gingival Gingival Gingival Gingival Gingival Gingival Gingival Gingival Gingival Gingival Gingival Gi"
+  },
+  "code_cls_00032": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Tooth discoloration"
+  },
+  "code_cls_00037": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\nClinical Examination Images:\n\nImages 1, 2, and 3: Teeth龋坏/several龋齿/disrupted enamel/clipping/clipping/clipping/clipping/clipping/clipping/clipping/clipping/clipping/cl"
+  },
+  "code_cls_00040": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/architecture/photo/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audi"
+  },
+  "code_cls_00041": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\nClinical Examination Images:\n\nImages:\n\nClinical Examination Images:\n\n\n\nRadiographs:\n\n\n\nPatient Information:\n\n\n\nChief Complaint:\n\n\n\nOrthodontic Treatment:\n\n\n\nPersistent "
+  },
+  "code_cls_00036": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00045": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/disrupted gums/swollen gums/red gums/swollen gums/swollen gums/swollen gums/swollen gums/swolle"
+  },
+  "code_cls_00043": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\nClinical Examination Images:\n\nImages:\n\nPatients Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth "
+  },
+  "code_cls_00046": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00048": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\nClinical Examination Observation:\nPatients gums/appearance/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness"
+  },
+  "code_cls_00049": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n"
+  },
+  "code_cls_00050": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00052": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00053": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Crowding Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth"
+  },
+  "code_cls_00054": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description Analysis:\n\nClinical Examination Observation:\nPatients gums/appearance/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/"
+  },
+  "code_cls_00055": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00056": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Appearance Confirmation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "code_cls_00057": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Gingiva Diseased Tooth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth"
+  },
+  "code_cls_00058": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance"
+  },
+  "code_cls_00059": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00060": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00063": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/companion/recurrence/recurrent gingivitis/phases Gingival recession/phases Gingival recession/p"
+  },
+  "code_cls_00061": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00062": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/disrupted gums/appearance/significance/significance/significance/significance/significance/significance/significance/signifi"
+  },
+  "code_cls_00064": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00065": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Observation:\n Gingival Bleeding Gum Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleedi"
+  },
+  "code_cls_00066": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n    \n\n CATEGORY DETAILS\n    \n    \n Dental Caries\n    \n    \n Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n  "
+  },
+  "code_cls_00067": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00069": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\nClinical Examination Observation:\nPatients gums/appearance/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness"
+  },
+  "code_cls_00070": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00073": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00074": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss:Negative Pregnancy Outcome Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth L"
+  },
+  "code_cls_00075": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00076": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Confirmation:\n\n\n\nClinical Examination:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n"
+  },
+  "code_cls_00077": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingival Disease\n\n\nDESCRIPTION DETAILS BELOW REFER IMAGE ABOVE CATEGORY DEFINITION ABOVE IMAGE DETAILS BELOW IMAGE CATEGORY ABOVE IMAGE DETAILS BELOW IMAGE CATE"
+  },
+  "code_cls_00078": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00079": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Gingiva Disorder/Generic Gingiva Gingival Gingival Gingiva Gingiva Gingiva Gingiva Gingiva Gingiva Gingiva"
+  },
+  "code_cls_00080": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Substantial Gingival Disease/Substantial Gingival Bleeding/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums"
+  },
+  "code_cls_00081": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance/drugs/status/history/control/status/videos/photos/audio/text/chart/chart/chart/chart/chart/chart/chart/chart/chart/chart/chart/chart/chart/"
+  },
+  "code_cls_00082": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/disrupted gums/appearance/significance/significance/significance/significance/significance/significance/significance/signifi"
+  },
+  "code_cls_00083": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Confirmation:\n\n\n\nClinical Examination:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n"
+  },
+  "code_cls_00084": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00085": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00086": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Confirmation:\n\n\n\nClinical Examination:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n"
+  },
+  "code_cls_00087": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00088": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00089": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00092": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Observation:\nPatients gums/appearance/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/re"
+  },
+  "code_cls_00093": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00094": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Appearance Modification Surgery Teeth Restoration Teeth Extraction Teeth Restoration Teeth Extraction Teeth Restoration Teeth Restoration Teeth Restoration Te"
+  },
+  "code_cls_00095": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Observation:\n Gingival Bleeding Gum Bleeding Detected Gingival Bleeding Gingiva Appears Bleedy Gingiva Appears Bleedy Gingiva Appears Bleedy Gingiva A"
+  },
+  "code_cls_00096": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00097": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n Gingivitis/Image Description Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen"
+  },
+  "code_cls_00098": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Gingival Disease/Substantial Gingival Gingival Disease/Substantial Gingival Bleeding Episodes/Substantial Gingival Bleeding Episodes/Substantial Gingival Bleeding Episodes/Substantial Ging"
+  },
+  "code_cls_00099": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00105": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Globalsurgery/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/Image/"
+  },
+  "code_cls_00100": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Description: Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss Tooth Loss To"
+  },
+  "code_cls_00101": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/category gingival recession/disrupted gums/appearance/swollen/red gums/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00102": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00103": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n\n\nQUESTION INFORMATION HAS BEEN RECEIVED THANK YOU VERY MUCH RESPONSE GIVEN BELOW FORMAT REQUEST ABOVE FORMAT RESPONSE ABOVE FORMAT RESPONSE ABOVE FORMAT RESPONSE ABOVE FORMAT RESPONSE ABO"
+  },
+  "code_cls_00106": {
+    "gt": "Class III Malocclusion",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Crowding Teeth/Image Description: Tooth Structure Loss/Image Description:\n\n\n\nCATEGORY NAME ONLY CATEGORY ABOVE ABOVE CATEGORY ABOVE CATEGORY ABOVE CATEGORY ABOVE CATEGORY ABOVE CATEGORY ABOVE CATEGORY"
+  },
+  "code_cls_00107": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00108": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/disrupted gums/red gums/swollen gums/findings/calculus/calculus/calculus/calculus/calculus/calc"
+  },
+  "code_cls_00111": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingivitis/Image Gum Disease/Image Gingivitis/Image Gingival Gum Disease/Image Gingival Gingiva/Image Gingiva/Image Gum Gingiva/Image Gingival Gum/Image Gingiva"
+  },
+  "code_cls_00112": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00114": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00115": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/physis/swollen/red gums/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00116": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00117": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingival Disease/Generic Gingival Diseases/Generic Gingival Gingiva Diseases/Generic Gingiva Diseases/Generic Gingiva Diseases/Generic Gingiva Diseases/Generi"
+  },
+  "code_cls_00118": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth extraction/removal/remnants/remnants/post-operation/remnants/status/post-operation/remnants/status/post-restoration/remnants/status/post-restoration/remnants/status/post-restoration"
+  },
+  "code_cls_00129": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00120": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n\n\nQUESTION INFORMATION HAS BEEN RECEIVED THANK YOU VERY MUCH RESPONSE RECEIVED GOOD JOB AGAIN GREAT RESPONSE THANK YOU VERY MUCH RESPONSE RECEIVED GOOD JOB AGAIN GREAT RESPONSE THANK YOU V"
+  },
+  "code_cls_00121": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00122": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Tooth discoloration"
+  },
+  "code_cls_00123": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00128": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Gingival Disease/General Gingival/Gingivitis/Subcategories Gingivitis/Subcategories Gingival Gingiva Diseased Tooth/Image Annotations Teeth Tooth Mobility Tooth Mobility Teeth Tooth Mobili"
+  },
+  "code_cls_00124": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Tooth Structure Los"
+  },
+  "code_cls_00126": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00130": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/expansion/redness/swollen/calculus/debris/prominent/resorption/findings/findings/findings/findi"
+  },
+  "code_cls_00133": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases thereof, Gingival inflammation/redness/swelling/calculus/destruction/alveolar/resorption/findings/findings/findings/f"
+  },
+  "code_cls_00134": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gums, gingiva inflammation/appearance/significance/significance/significance/significance/significance/significance/significance/significance/significance/si"
+  },
+  "code_cls_00136": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00138": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance/drugs/control/order/status/history/environment/context/body/system/view/document/image/view/document/image/document/document/document/docum"
+  },
+  "code_cls_00139": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00140": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phra"
+  },
+  "code_cls_00141": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Gingiva Diseased Tooth Gingival Diseased Tooth Gingiva Diseased Tooth Gingiva Diseased Tooth Gingiva Disea"
+  },
+  "code_cls_00142": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00143": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance-retained gums/flanks/flanks/flanks/flanks/flanks/flanks/flanks/flanks/flanks/flanks/flanks/flanks/flanks/flanks/flanks/flanks/flanks/flanks"
+  },
+  "code_cls_00147": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation, recession/flabby gums/swollen gums/red gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gum"
+  },
+  "code_cls_00144": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/disrupted gums/phantom gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swoll"
+  },
+  "code_cls_00148": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/expansion/redness/swollen/calculus/debris/resorption/findings/findings/findings/findings/findin"
+  },
+  "code_cls_00146": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Gingiva Disorder/Generic Gingival Gingival Gingival Gingiva Gingiva Gingiva Gingiva Gin"
+  },
+  "code_cls_00149": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Globals Gingival Disease/Globals Gingival Bleeding/Globals Gingival Bleeding/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen"
+  },
+  "code_cls_00150": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Confirmation:\n\nExamining the dental clinic images, Gingivitis/phrases Gingival inflammation/redness/swollen gums/findings/calculus/debris/findings/findings/findings/findings"
+  },
+  "code_cls_00151": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00152": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Gingival Disease/Generic Gingival Disease\n\n\n NOTES:Limited Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gin"
+  },
+  "code_cls_00153": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00155": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00157": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00158": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis{/messages/system/response/response.txt}{/messages/system/response/body.txt} Gingivitis{/messages/system/response/status.txt} Gingivitis{/messages/system/response/category.txt} Gingivitis{/"
+  },
+  "code_cls_00159": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00161": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis/Globals Gingival Disease/Globals Gingival Bleeding/swollen gums/disrupted gum/appliance/contact/disclosure/reservoir/device/function/function/reservoir/device/contact/disclosure/swollen/di"
+  },
+  "code_cls_00163": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n    \n\n CATEGORY DETAILS\n    \n    \n Dental Caries\n    \n    \n Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n  "
+  },
+  "code_cls_00165": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/architecture/photo/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audi"
+  },
+  "code_cls_00164": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00166": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Crowding Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth"
+  },
+  "code_cls_00167": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Substantial Gingival Disease/Substantial Gingival Bleeding/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums"
+  },
+  "code_cls_00168": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00169": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingival Disease/Generic Gingival Diseases/Generic Gingival Gingiva Diseases/Generic Gingiva Diseases/Generic Gingiva Diseases/Generic Gingiva Diseases/Generi"
+  },
+  "code_cls_00170": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00171": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth enamel/discolouration/experience trauma/discolouration/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/flu"
+  },
+  "code_cls_00172": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Confirmation:\n\n\n\nClinical Examination:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n"
+  },
+  "code_cls_00173": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00174": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00175": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Substantial Gingival Disease/Substantial Gingival Bleeding/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums"
+  },
+  "code_cls_00177": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00176": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00178": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appearance/photo/image, Gingivitis/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/phrases/ph"
+  },
+  "code_cls_00179": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00180": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Globalsurgery/Globalsurgery Procedures/Application/response/time/status/results/results/status/results/status/results/status/results/status/results/status/results/status/results/status/res"
+  },
+  "code_cls_00181": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental appliance-clamped gums, gingiva inflammation/redness/swelling/appearance/significant gums recession/significant gingival/calculus/debris/debris/resorp"
+  },
+  "code_cls_00188": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Studies/Image Results Confirmation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "code_cls_00182": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Confirmation:\n\n\n\nClinical Examination:\n\n\n\nClinical Diagnosis:\n\n\n\nRadiographic Confirmation:\n\n\n\nClinical Examination:\n\n\n\nClinical Diagnosis:\n\n\n\nClinical Examination:\n\n\n\nClini"
+  },
+  "code_cls_00183": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingival Disease/Generic Gingival Diseases/Generic Gingival Gingiva Diseases/Generic Gingiva Diseases/Generic Gingival Gingival Diseases/Generic Gingival Ging"
+  },
+  "code_cls_00184": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00187": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00189": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00190": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00191": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00192": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00193": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Appearance Modification Status\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n "
+  },
+  "code_cls_00194": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n\n    \n Tooth Loss\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "code_cls_00195": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00197": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00198": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00199": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n    \n\n CATEGORY DETAILS\n    \n    \n Dental Caries\n    \n    \n Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n  "
+  },
+  "code_cls_00202": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00203": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva, gums, gums/appearance/swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/sw"
+  },
+  "code_cls_00204": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Object Removal/Image Destruction/Object Removal/Image Destruction/Object Removal/Image Destruction/Object Removal/Image Destruction/Object Removal/Image Destruction"
+  },
+  "code_cls_00205": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00206": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00207": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Teeth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00208": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00209": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00210": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Gap/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extractio"
+  },
+  "code_cls_00211": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00212": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss\n    \n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n "
+  },
+  "code_cls_00213": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00214": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites Detected Tooth Loss Detected Tooth Extraction Sites Detected Tooth Loss Detected Tooth Extraction Sites Detected Tooth Loss Detected Tooth Extraction Sites Detected"
+  },
+  "code_cls_00215": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00216": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss:Negative Tooth Mobility,Issue Tooth Extraction,IDisease Tooth Extraction,IDisease Tooth Extraction,IDisease Tooth Extraction,IDisease Tooth Extraction,IDisease Tooth Extraction,IDisease To"
+  },
+  "code_cls_00217": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss\n    \n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n "
+  },
+  "code_cls_00218": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00219": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00221": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis/Globals Gingival Bleeding/Globals Gingival Bleeding Episodes Reported\n\n\n\n\n Gingivitis\n\n\n\n\n\n\n Gingivitis\n\n\n\n\n\n\n Gingivitis\n\n\n\n\n\n\n Gingivitis\n\n\n\n\n\n\n Gingivitis\n\n\n\n\n\n\n Gingivitis\n\n\n\n\n\n\n Gingi"
+  },
+  "code_cls_00222": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00223": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n    \n\n CATEGORY DETAILS\n    \n    \n Dental Caries\n    \n    \n Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n  "
+  },
+  "code_cls_00224": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of Tooth Structure Not Caused by Dental Decay Including Tooth Wear, Tooth Discoloration,\n\n\n Tooth Wear,\n\n\n Tooth Decay,\n\n\n Tooth Aging,\n\n\n Tooth Aging,\n\n\n Tooth Aging,\n\n\n T"
+  },
+  "code_cls_00225": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00226": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss\n\n    \n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n  "
+  },
+  "code_cls_00227": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00228": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Globals Gingival Disease/Globals Gingival Bleeding/swollen gums/disrupted gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swoll"
+  },
+  "code_cls_00233": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation/disruption/change/appearance/significant gingival recession/red gums/swollen/swollen/red/swollen/inflammation/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00229": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Tooth Loss/Image Tooth Structure Loss/Image Tooth Loss/Image Gingivitis/Image Tooth Decay/Image Tooth Loss/Image Gingival Bleeding/Image Tooth Decay/Image Tooth Decay/Image Tooth Dec"
+  },
+  "code_cls_00230": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis {*} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *} *"
+  },
+  "code_cls_00231": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Confirmation:\n\n\n\nClinical Examination:\n\n\n\nRadiographic Confirmation:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Compl"
+  },
+  "code_cls_00235": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Images:\n\nImages:\n\nPatient Oral Examination Images:\n\n\n\nRadiographs:\n\n\n\nClinical Examination:\n\n\n\nPatient Oral Oral Oral Oral Oral Oral Oral Oral Oral Or"
+  },
+  "code_cls_00232": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00238": {
+    "gt": "Class III Malocclusion",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": "Crowding Teeth/Image Teeth Tooth Loss/Image Tooth Loss/Image Tooth Loss/Image Tooth Loss/Image Tooth Loss/Image Tooth Loss/Image Tooth Loss/Image Tooth Loss/Image Tooth Loss/Image Tooth Loss/Image Too"
+  },
+  "code_cls_00240": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00236": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00239": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00242": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance-retained gums/phantom gums/appliance-retained gums/appliance-retained gums/appliance-retained gums/appliance-retained gums/appliance-retain"
+  },
+  "code_cls_00241": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Bleeding/swelling/redness/red gums/swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/s"
+  },
+  "code_cls_00243": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n    \n\n CATEGORY DETAILS\n    \n    \n Dental Caries\n    \n    \n Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n  "
+  },
+  "code_cls_00244": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Generic Gingival/Generic Gum Disease/Generic Gingival Bleeding/Evidence-Based Gingivitis/Evidence-Based Gum Disease/Generic Gum Disease/Generic Gingi"
+  },
+  "code_cls_00249": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00245": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss:Negative Tooth Mobility:Limited Tooth Mobility:Isolated Tooth Mobility:Isolated Tooth Mobility:Isolated Tooth Mobility:Isolated Tooth Mobility:Isolated Tooth Mobility:Isolated Tooth Mobili"
+  },
+  "code_cls_00247": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/disrupted gums/red gums/swollen gums/findings/calculus/calculus/calculus/calculus/calculus/calc"
+  },
+  "code_cls_00254": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation/discomfort/swelling/redness/red gums/swollen gums/calculus/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gu"
+  },
+  "code_cls_00256": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation, recession/flabby gums/swollen gums/red gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gum"
+  },
+  "code_cls_00250": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/disrupted gums/red gums/swollen gums/findings/calculus/calculus/calculus/calculus/calculus/calc"
+  },
+  "code_cls_00258": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Crowding/Image畸齒擁擠問題診斷重點檢查齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "code_cls_00253": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/expansion/redness/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00261": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00262": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00260": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n\n    \n Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "code_cls_00263": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00265": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00267": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\nClinical Examination Images:\n\nImages:\n\nImages:\n\nImages:\n\n\n\nPatient Information:\n\n\n\nChief Complaint:\n\n\n\nOrthodontic Treatment:\n\n\n\nPatient Age:\n\n\n\nPatient Gender:\n\n\n\nChie"
+  },
+  "code_cls_00268": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description Analysis:\n\nClinical Examination Images:\nImages 1 and 2: Oral Examination Showing Tooth Decay Issues.\nPatients Teeth Appearance Issues Detected:\nPatients Teeth Teeth Teeth"
+  },
+  "code_cls_00269": {
+    "gt": "Class III Malocclusion",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": "Orthodontic Treatment Compliance Issue Category: Tooth Loss\n\nClinical Diagnosis Category: Tooth Loss\n \n Tooth Loss\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n   "
+  },
+  "code_cls_00274": {
+    "gt": "Class III Malocclusion",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Description: Teeth implants/removable dentures/status/post-operation/implied teeth/status/post-restoration/drifting teeth/removable dentures/removable denture"
+  },
+  "code_cls_00272": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00273": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Clinical Examination Images:\n\nImages 1 and 2: Oral Examination Showing Tooth Decay Issues\n\nPatients Oral Examination Images:\n\nPatients Oral Examination Images:\n\nPatients Oral Examination Images:\n\n\n\nPa"
+  },
+  "code_cls_00278": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Showing Gingival Bleeding Episodes Episodes Episodes Episodes Episodes Episodes Episodes Episodes Episodes Episodes Episodes Episodes Episodes Episodes Episodes Episodes Epi"
+  },
+  "code_cls_00280": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00275": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis is suspected. Gingivitis manifests clinically as gingival inflammation, which is evidenced by irritated gums swollen/red gum"
+  },
+  "code_cls_00276": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\nClinical Examination Images:\n\nImages:\n\nPatients Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth "
+  },
+  "code_cls_00285": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Crowding/Image畸齒擁擠問題診斷重點檢查齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒齒"
+  },
+  "code_cls_00281": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis: Gingival inflammation, ulceration/red gums/swollen gums/calculus/debris/prominent gums/red gums/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swol"
+  },
+  "code_cls_00283": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00284": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Tooth Structure Los"
+  },
+  "code_cls_00286": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance-retained gums/flanks/status/post-operation/removable-retainers/phantom/removable-retainers/removable-retainers/removable-retainers/removabl"
+  },
+  "code_cls_00287": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Globalscaling/removable partial denture/phoenix implant/removable denture/status-post-operation/removable denture/removable dentures/removable dentures/removable dentures/removable denture"
+  },
+  "code_cls_00290": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/s"
+  },
+  "code_cls_00288": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Globals Gingivitis/Globals Gingival Disease/Globals Gingival Gingiva Disorder/Globals Gingival Gingival Gum Disease/Globals Gingival Gum Disease/Globals Gingival Ging"
+  },
+  "code_cls_00294": {
+    "gt": "Class III Malocclusion",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Teeth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00291": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00296": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Crowding/Image畸齒擁擠問題導致齒齒困難適合醫生診斷治療齒齒擁擠問題導致齒齒困難適合醫生診斷治療齒齒擁擠問題導致齒齒困難適合醫生診斷治療齒齒擁擠問題導致齒齒困難適合醫生診斷治療齒齒擁擠問題導致齒齒困難適合醫生診斷治療齒齒擁擠問題導致齒齒困難適合醫生診斷治療齒齒擁擠問題導致齒齒困難適合醫生診斷治療齒齒擁擠問題導致齒齒困難適合醫生診斷治療齒齒擁擠問題導致齒齒困難適合醫生診斷治療齒齒擁擠問題"
+  },
+  "code_cls_00292": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00297": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance-retained gums/flanks/status/post-operative gums/status/photos/videos/videos/images/videos/images/videos/images/videos/images/videos/images/"
+  },
+  "code_cls_00293": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00300": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00301": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00302": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00303": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00304": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00305": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00306": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00307": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n\n    \nExplanation: Gingivitis is inflammation of the gums, which manifests as irritation, bleeding gums, swelling, and pus discharge. Gingival irritation and bleeding gums persistently com"
+  },
+  "code_cls_00308": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00309": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis/Globals Gingival Irritation/Image Teeth Bleeding Gingiva/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/s"
+  },
+  "code_cls_00310": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n\n(Note: Tooth Loss was selected despite gingival recession/image abnormalities, Gingivitis/Globalskeletal/appearance/readiness/disrupted/appearance/readiness/disrupted/appearance/readiness"
+  },
+  "code_cls_00311": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n\n Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "code_cls_00313": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n\n\nQUESTION TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TY"
+  },
+  "code_cls_00314": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis/General Periodontitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingiv"
+  },
+  "code_cls_00316": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00318": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Diagnosis:\n\n\n Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  "
+  },
+  "code_cls_00319": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Teeth in the images"
+  },
+  "code_cls_00320": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00321": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00329": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/architecture/photo/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/vide"
+  },
+  "code_cls_00324": {
+    "gt": "Tooth Loss",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Crowding/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disor"
+  },
+  "code_cls_00328": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/disrupted gums/swollen gums/red gums/swollen gums/swollen gums/swollen gums/swollen gums/swolle"
+  },
+  "code_cls_00330": {
+    "gt": "Tooth Loss",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Crowding Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth"
+  },
+  "code_cls_00331": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00334": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/disrupted gums/red gums/swollen gums/findings/calculus/calculus/calculus/calculus/calculus/calc"
+  },
+  "code_cls_00335": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Gingiva Disorder/Generic Gingival Gingiva Diseased/Image Gum Disease/Image Gingiva Diseased/Image Gingival"
+  },
+  "code_cls_00336": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00337": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Globals Periodontitis/Globals Gingivitis/Globals Gum Disease/Globals Gingival Bleeding/Globals Gingival Bleeding/swollen gums/swollen gums/swollen gu"
+  },
+  "code_cls_00338": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00339": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Tooth Structure Los"
+  },
+  "code_cls_00340": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00342": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n\n\nQUESTION INFORMATION HAS BEEN RECEIVED.THROUGH AUDIO FORMAT.THROUGH AUDIO FORMAT.THROUGH AUDIO FORMAT.THROUGH AUDIO FORMAT.THROUGH AUDIO FORMAT.THROUGH AUDIO FORMAT.THROUGH AUDIO FORMAT."
+  },
+  "code_cls_00343": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Restoration Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Restoration Sites/Image Showing Tooth Extraction Sites/Image Showing "
+  },
+  "code_cls_00344": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of Tooth Structure Not Caused by Dental Decay Including Tooth Wear,\n\n\n\n Tooth Structure Loss,\n\n\n\n Tooth Structure Loss,\n\n\n\n Tooth Structure Loss,\n\n\n\n Tooth Structure Loss,\n"
+  },
+  "code_cls_00347": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00348": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00349": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Substantial Gingival Disease/Substantial Gingival Bleeding/Evidence of Gingival Bleeding/Substantial Gingival Bleeding/swollen Gingiva/Substantial Gi"
+  },
+  "code_cls_00350": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00351": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00352": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Loss\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n"
+  },
+  "code_cls_00354": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Studies Teeth Extraction Sites/Studies Teeth Extraction Sites/Studies Teeth Extraction Sites/Studies Teeth Extraction Sites/Studies Teeth Extraction Sites/Studies T"
+  },
+  "code_cls_00353": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Gingiva Disorder/Generic Gingival Gingiva Diseased/Generic Gingival Gingiva Disorder/Generic Gingival Ging"
+  },
+  "code_cls_00356": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00355": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n\n    \n Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "code_cls_00358": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Globalsurgery/post-operation gum/post-operative gingivitis/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums"
+  },
+  "code_cls_00359": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis/Globals Gingival Disease/Globals Gingival Bleeding/Globals Gingival Bleeding/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen"
+  },
+  "code_cls_00363": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n\n\nQUESTION TYPE ERROR MESSAGE THIS RESPONSE INCLUDE TWO DIFFERING CATEGORY NAMES ABOVE THE LINE MESSAGE ERROR MESSAGE ABOVE THE LINE MESSAGE ABOVE THE LINE MESSAGE ABOVE THE LINE MESSAGE A"
+  },
+  "code_cls_00364": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00365": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00367": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00368": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance/drugs/status/history/control/status/videos/audio/text/chart/lab/test/results/social/history/job/contact/email/password/location/time/addres"
+  },
+  "code_cls_00369": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss\n\n    \n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n    \t\n  "
+  },
+  "code_cls_00372": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n\n\nQUESTION FORMAT BELOW IMAGE RESPONSE FORMAT ABOVE IMAGE RESPONSE FORMAT ABOVE IMAGE RESPONSE FORMAT ABOVE IMAGE RESPONSE FORMAT ABOVE IMAGE RESPONSE FORMAT ABOVE IMAGE RESPONSE FORMAT AB"
+  },
+  "code_cls_00373": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/integrity/reservoir/resorption/significantly disturb/appearance/significantly disturb/appearanc"
+  },
+  "code_cls_00374": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Images:\n\nImages:\n\nImages:\n\n\nPatient Information:\n\n\nChief Complaint:\n\n\n Tooth Loss:\n\n\n Gingivitis/Image Analysis:\n\n\n Tooth Loss:\n\n\n Gingivitis/Image An"
+  },
+  "code_cls_00375": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis/Globalscaling/calculus/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/rem"
+  },
+  "code_cls_00376": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Substantial Gingival Disease/Substantial Gingival Bleeding/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums"
+  },
+  "code_cls_00377": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing To"
+  },
+  "code_cls_00378": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n\n\nQUESTION INFORMATION HAS BEEN RECEIVED THANK YOU VERY MUCH!!!\nCATEGORY HAVE BEEN IDENTIFIED WHICH ONE IS BELOW!!!\nPLEASE PROVIDE SOLUTION INFORMATION!!!!\n\nQUESTIONS HAVE BEEN RECEIVED TH"
+  },
+  "code_cls_00380": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis/General Periodontitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingivitis/Globals Gingiv"
+  },
+  "code_cls_00381": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingivitis/Generic Gum Disease/Generic Gingival Disease/Generic Gingival Bleeding/Generic Gingival Bleeding/swollen/swollen/red/swollen/red/inflammation/swoll"
+  },
+  "code_cls_00382": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00383": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Pulpitis/Image Description Selection:\n\nExamining the dental radiographs/image, Gingivitis/Pulpitis/Image Description Selection:\n\n Gingivitis/Pulpitis/Image Description Selection:\n\n\n\n Gingi"
+  },
+  "code_cls_00384": {
+    "gt": "Dental Caries",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Crowding/Image Disorder Teeth Packing Tooth Packing Tooth Packing Tooth Packing Tooth Packing Tooth Packing Tooth Packing Tooth Packing Tooth Packing Tooth Packing Tooth Packing Tooth Packing Tooth Pa"
+  },
+  "code_cls_00386": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n\n\nQUESTION INFORMATION MESSAGE CHANGE INFORMATION MESSAGE CHANGE INFORMATION MESSAGE CHANGE INFORMATION MESSAGE CHANGE INFORMATION MESSAGE CHANGE INFORMATION MESSAGE CHANGE INFORMATION MES"
+  },
+  "code_cls_00387": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Pulpitis/Image Description:\n\nExamining the dental radiographs, gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swo"
+  },
+  "code_cls_00388": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Persistent Tooth Structure Loss categoría después del tratamiento dentro después como resultado después tratamiento después después después después después después después después después después desp"
+  },
+  "code_cls_00389": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Stimulation Sites\n\n\nDESCRIPTION DETAILS BASEDON IMAGES ABOVE CATEGORY RESULTS ABOVE CATEGORY RESULTS ABOVE CATEGORY RESULTS ABOVE CATEGORY RESULTS ABOVE CATEGORY RE"
+  },
+  "code_cls_00390": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Pulpitis/Image Analysis Report\n\n\nClinical Examination:\n\n\n\nPatient Complaint:\n\n\n\nImages:\n\n\n\nClinical Examination:\n\n\n\nPatient Complaint:\n\n\n\nImages:\n\n\n\nClinical Examination:\n\n\n\nPatient Compla"
+  },
+  "code_cls_00391": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Periodontitis/Gingivitis/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcate"
+  },
+  "code_cls_00392": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingivitis/Generic Gum Disease/Generic Gingivitis/Generic Gingivitis/Generic Gingivitis/Generic Gingivitis/Generic Gingivitis/Generic Gingivitis/Generic Gingivi"
+  },
+  "code_cls_00393": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Pulpitis/Image Description Selection:\n\nExamining the dental radiographs, Tooth Structure Loss and Gingivitis/Pulpitis are contenders. Gingivitis/Pulpitis encompasses gingival inflammation/"
+  },
+  "code_cls_00394": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis\n\n\nQUESTION INFORMATION HAS BEEN RECEIVED.THROUGH EMAIL ADDRESS ADDRESS ADDRESS ADDRESS ADDRESS ADDRESS ADDRESS ADDRESS ADDRESS ADDRESS ADDRESS ADDRESS ADDRESS ADDRESS"
+  },
+  "code_cls_00395": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00396": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phrases/categories:\n\n Gingivitis/Image Analysis:\n\n Gingivitis/Image Analysis:\n\n\n\n Gingivitis/Image Analysis:\n\n\n\n Gingivitis/"
+  },
+  "code_cls_00398": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gum Disease Category Selection Criteria:\n\n\n\nClinical Examination:\n\n\n\nPatient Complaint:\n\n\n\nClinical Diagnosis:\n\n\n\nPatient Complaint:\n\n\n\nClinical Diagnosis:\n\n\n\nC"
+  },
+  "code_cls_00399": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n    \n    \n    \n    \n    \n    \n\n\n\n    \n    \n    \n    \n    \n    \n\n\n\n    \n    \n    \n    \n    \n    \n\n\n\n    \n    \n    \n    \n    \n    \n\n\n\n    \n    \n    \n    \n    \n    \n\n\n\n    \n    \n    \n    \n   "
+  },
+  "code_cls_00400": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00402": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00403": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00405": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00407": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Substantial Gingival Disease/Substantial Gingival Revision Surgery/Substantial Gingival Bleeding/swollen/swollen gums/Substantial Gingival Bleeding/s"
+  },
+  "code_cls_00406": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Pulpitis/Image Diagnosis\n\n\n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n \n\n\n\n\n "
+  },
+  "code_cls_00410": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Tooth Structure Los"
+  },
+  "code_cls_00408": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00409": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00411": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Tooth discoloration"
+  },
+  "code_cls_00412": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance/appliance"
+  },
+  "code_cls_00413": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00415": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00416": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00417": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance-retained gums, gums inflammation/redness/swollen/appliance-retained gums/appliance-retained gums/appliance-retained gums/appliance-retained"
+  },
+  "code_cls_00418": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00419": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00420": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Gingiva Disorder/Generic Gingiva Gingival Gingival Gingiva Gingiva Gingiva Gingiva Gingiva Gingiva Gingiva"
+  },
+  "code_cls_00421": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00426": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/S"
+  },
+  "code_cls_00422": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00423": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Appearance Modification Tooth Extraction Sites/Image Appearance Modification Tooth Extraction Sites/Image Appearance Modification Tooth Extraction Sites/Image"
+  },
+  "code_cls_00424": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance/appearance/photo/image/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/vide"
+  },
+  "code_cls_00425": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Tooth Structure Los"
+  },
+  "code_cls_00427": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Showing Tooth Extraction Sites/Image Showing Tooth Loss/Image Showing Tooth Extraction Sites/Image Showing Tooth Loss/Image Showing Tooth Extraction Sites/Ima"
+  },
+  "code_cls_00428": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00431": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phrases Gingival inflammation/redness/swollen gums/calculus/debris/prominent gingival recession/findings/findings/findings/f"
+  },
+  "code_cls_00432": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phases Gingival inflammation/integrity/resorption/significantly disturb/appearance/significantly disturb/appearance/signific"
+  },
+  "code_cls_00434": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00436": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00437": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Observation:\nPatients gums/appearance/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/re"
+  },
+  "code_cls_00438": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Observation:\nPatients gums/appearance/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/re"
+  },
+  "code_cls_00439": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00440": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00441": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00442": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingivitis/Image Category/Image Category/Image Category/Image Category/Image Category/Image Category/Image Category/Image Category/Image Category/Image Category"
+  },
+  "code_cls_00444": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00445": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Globals Gingivitis/Globals Tooth Loss/Globals Tooth Loss/Globals Tooth Loss/Globals Tooth Loss/Globals Tooth Loss/Globals Tooth Loss/Globals Tooth Loss/Globals Tooth "
+  },
+  "code_cls_00446": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00447": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Globals Gingival Disease/Globals Gingival Bleeding/swollen gums/disrupted gums/red gums/swollen/disrupted/red gums/swollen/disrupted/swollen/disrupted/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00448": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00449": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00450": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00451": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00452": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00453": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00454": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00455": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00456": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Observation:\n Gingival Bleeding Gum Bleeding Detected Gingival Bleeding Gingiva Appears Bleedy Gingiva Appears Bleedy Gingiva Appears Bleedy Gingiva A"
+  },
+  "code_cls_00457": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00458": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00460": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00462": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Crowding Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth"
+  },
+  "code_cls_00461": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n    \n\n CATEGORY DETAILS\n    \n    \n Dental Caries\n    \n    \n Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n  "
+  },
+  "code_cls_00463": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00464": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00465": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Globalsurgery Gingival Bleeding/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/"
+  },
+  "code_cls_00466": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Bleeding/Generic Gingival Bleeding/swollen/red/inflammation/swollen/red/inflammation/sw"
+  },
+  "code_cls_00467": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Confirmation:\n\n\n\nClinical Examination:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n"
+  },
+  "code_cls_00468": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00469": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Observation:\n Gingival Bleeding Gum Bleeding Detected Gingival Bleeding Gingiva Appears Bleedy Gingiva Appears Bleedy Gingiva Appears Bleedy Gingiva A"
+  },
+  "code_cls_00470": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": "Persistent Tooth Decay Detected Tooth Loss Gingival Disease Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth De"
+  },
+  "code_cls_00471": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\nClinical Examination/Image Description/Image Caption/Image Caption/Image Caption/Image Caption/Image Caption/Image Caption/Image Caption/Image Caption/Image Caption/Ima"
+  },
+  "code_cls_00472": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Enhancement Artifact Detected Tooth Loss Tooth Structure Loss Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay "
+  },
+  "code_cls_00473": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance/appearance/context/significance/significance/significance/significance/significance/significance/significance/significance/significance/sig"
+  },
+  "code_cls_00474": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00475": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Tooth Loss/Image Tooth Structure Loss/Image Tooth Decay/Image Dentition/Image Tooth Decay/Image Tooth Decay/Image Tooth Decay/Image Tooth Decay/Image Tooth Decay/Image Tooth Decay/Im"
+  },
+  "code_cls_00476": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Substantial Gingival Gingival Disease/Substantial Gingival Bleeding Gingiva/Substantial Gingival Bleeding Gingiva/Substantial Gingival Bleeding Gingi"
+  },
+  "code_cls_00477": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Tooth Loss/Image Tooth Structure Loss/Image Tooth Decay/Image Dentition/Image Tooth Decay/Image Gingivitis/Image Tooth Decay/Image Tooth Loss/Image Tooth Decay/Image Gingivitis/Image"
+  },
+  "code_cls_00478": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00479": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Tooth Loss/Image Tooth Structure Loss/Image Tooth Decay/Image Dentition/Image Tooth Decay/Image Gingivitis/Image Tooth Decay/Image Tooth Loss/Image Tooth Decay/Image Gingivitis/Image"
+  },
+  "code_cls_00480": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Globals Gingivitis/Globals Gingival Disease/Globals Gingival Bleeding/Globals Gingival Bleeding/Globals Gingival Bleeding/Globals Gingival Bleeding/Globals Gingival B"
+  },
+  "code_cls_00485": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/architecture/photo/video/audio/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/video/audio/vide"
+  },
+  "code_cls_00481": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00482": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00483": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Globals Periodontitis/Globals Gingivitis/Globals Tooth Loss/Substantial Tooth Loss/Substantial Tooth Extraction Sites/Substantial Tooth Extraction Sites/Substantial T"
+  },
+  "code_cls_00484": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis Tooth Loss Tooth Structure Loss Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay Tooth Decay "
+  },
+  "code_cls_00487": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance-retained gums/flanks/appliance-retained gums/flanks/appliance-retained gums/flanks/appliance-retained gums/flanks/appliance-retained gums/f"
+  },
+  "code_cls_00488": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00489": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00490": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00491": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00492": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00493": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Globals Periodontitis/Image Related Tooth Decay/Image Related Tooth Loss/Image Related Tooth Mobility/Image Related Tooth Sensitivity/Image Related T"
+  },
+  "code_cls_00494": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00495": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00496": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Confirmation:\n\n\n\nClinical Examination:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n"
+  },
+  "code_cls_00497": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Bleeding/Generic Gingival Bleeding/swollen/red/inflammation/swollen/red/inflammation/sw"
+  },
+  "code_cls_00498": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingival Disease/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image "
+  },
+  "code_cls_00499": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00500": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance/appearance/status/method/approach/results/findings/results/findings/results/findings/results/findings/results/findings/results/findings/res"
+  },
+  "code_cls_00501": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Teeth darken/disapp"
+  },
+  "code_cls_00502": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingivitis/Generic Gum Disease/Generic Gingivitis/Generic Gingivitis/Generic Gingivitis/Generic Gingivitis/Generic Gingivitis/Generic Gingivitis/Generic Gingivi"
+  },
+  "code_cls_00503": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of Tooth Structure Not Caused by Decay Including Wedge-Shaped Teeth Disorders\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    "
+  },
+  "code_cls_00504": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00505": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00506": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00507": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining Gingivitis/Image Analysis:\n\nClinical Examination Images:\nImages 1 and 2: Oral Examination Images\nImages 3 and 4: Dentistry Radiographs\n\n\nClinical Examination Ima"
+  },
+  "code_cls_00508": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00509": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00510": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance/drugs/status/history/control/status/image/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos/videos"
+  },
+  "code_cls_00511": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00512": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Substantial Gingival Disease/Substantial Gingival Bleeding/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums"
+  },
+  "code_cls_00513": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00514": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingival Disease/Generic Gingival Diseases/Generic Gingival Gingiva Diseases/Generic Gingiva Diseases/Generic Gingiva Diseases/Generic Gingiva Diseases/Generi"
+  },
+  "code_cls_00515": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00516": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance/appearance/context/significance/significance/significance/significance/significance/significance/significance/significance/significance/sig"
+  },
+  "code_cls_00517": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Gingiva Disorder/Generic Gingiva Gingival Gingival Gingiva Gingiva Gingiva Gingiva Gingiva Gingiva Gingiva"
+  },
+  "code_cls_00518": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00519": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Gum Disease/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Gingiva Disorder/Generic Gingival Gingiva Diseased Tooth Gingiva Diseased Tooth Gingiva Injury Gingiva Inj"
+  },
+  "code_cls_00520": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingival Disease/Generic Gingival Diseases/Generic Gingival Gingiva Diseases/Generic Gingiva Diseases/Generic Gingival Gingival Diseases/Generic Gingival Ging"
+  },
+  "code_cls_00521": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00522": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Observation:\nPatients gums/appearance/readiness/status/response/response/response/response/response/response/response/response/response/response/respo"
+  },
+  "code_cls_00523": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00524": {
+    "gt": "Dental Caries",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Crowding/Image Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth"
+  },
+  "code_cls_00525": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Globals Gingival Bleeding/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swolle"
+  },
+  "code_cls_00526": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00527": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss\n\n    \n牙齒喪失\n    \n    \n齒槽殘齒\n    \n    \n齒體損害\n    \n    \n齒齒喪失\n    \n    \n齒齒損壞\n    \n    \n齒齒蟲蝕\n    \n    \n齒齒壞疽\n    \n    \n齒齒喪齒\n    \n    \n齒齒喪齒\n    \n    \n齒齒喪齒\n    \n    \n齒齒喪齒\n    \n    \n齒齒喪齒\n    \n    \n齒齒"
+  },
+  "code_cls_00528": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00529": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description Analysis:\n\nClinical Examination Observation:\nPatients Oral Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mouth Mou"
+  },
+  "code_cls_00530": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance/drugs/status/history/control/image/videos/pages/documents/email/chat/companion/app/profile/social/inventory/status/location/activity/stream"
+  },
+  "code_cls_00531": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Gingival Disease/Substantial Gingival Disease/Substantial Gingival Revision Surgery/Image Annotations/Image Annotations/Image Annotations/Image Annotations/Image Annotations/Image Annotati"
+  },
+  "code_cls_00532": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of Tooth Structure Not Caused by Dental Decay Including Tooth Decay Categories Listed Elsewhere\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n "
+  },
+  "code_cls_00533": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation, ulceration/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swoll"
+  },
+  "code_cls_00534": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00535": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Observation:\nPatients gums/appearance/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/readiness/re"
+  },
+  "code_cls_00536": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of Tooth Structure Not Caused by Dental Diseases\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00537": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00538": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00539": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss: Tooth Extraction Sites/Image Appearance Showing Tooth Extraction Sites/Image Appearance Showing Tooth Extraction Sites/Image Appearance Showing Tooth Extraction Sites/Image Appearance Sho"
+  },
+  "code_cls_00540": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva, gums, gums, gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums g"
+  },
+  "code_cls_00541": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Tooth Decay/Substances Deposited Dentally,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,\n\n\n\n,"
+  },
+  "code_cls_00542": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00545": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n\n(Note: Gingivitis was selected based on the inflammation/redness of gums, chewing gums irritation/swelling/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/sw"
+  },
+  "code_cls_00543": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00544": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00546": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n\n(Note: Gingivitis was selected based on the inflammation of gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swoll"
+  },
+  "code_cls_00547": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Confirmation:\n\n\n\nClinical Examination:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n"
+  },
+  "code_cls_00548": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00549": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00550": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00551": {
+    "gt": "Dental Caries",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Crowding/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disorder/Image Disor"
+  },
+  "code_cls_00552": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/appliance-retained gums, gums inflammation/redness/swollen/appliance-retained gums/appliance-retained gums/appliance-retained gums/appliance-retained"
+  },
+  "code_cls_00553": {
+    "gt": "Dental Caries",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Crowding Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth Teeth"
+  },
+  "code_cls_00554": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Clinical Examination Images:\n\nPatient Oral Examination Photograph:\nPictures of Dentition Showing Tooth Decay Detected Clinically.\n\n\nClinical Examination Photograph Radiographs Craneka Dentacam Dentaca"
+  },
+  "code_cls_00561": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva/architecture/photo/video/audio/audio/audio/audio/audio/audio/audio/audio/audio/audio/audio/audio/audio/audio/audio/audio/audio/audio/audio/audio/audi"
+  },
+  "code_cls_00562": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00557": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth enamel/fractures/discolouration/fluososis/enamel hypoplastia/discoloration/result/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/"
+  },
+  "code_cls_00558": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Globals Gingival Disease/Globals Gingival Bleeding/swollen gums/disrupted gum/appliance/reservoir/removable/restorative/procedure/device/status/change/status/status/status/status/status/st"
+  },
+  "code_cls_00559": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingival Disease/Image Disorder/Data Disorder/Data Corruption/Data Leakage/Data Poisoning/Data Fraud/Data Fraud/Data Poison/Data Fraud/Data Fraud/Data Fraud/D"
+  },
+  "code_cls_00566": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival inflammation with gums swollen/red/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00560": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Tooth Structure Los"
+  },
+  "code_cls_00564": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Clinical Examination:\n\nPatients complain cavities!!\n\n Tooth Decay!!\n\n Tooth Decay!!\n\n Dental Caries\n\n\n\n\n Gingivitis\n\n\n\n\n Tooth Loss\n\n\n\n\n Tooth Structure Loss\n\n\n\n\n Tooth Decay\n\n\n\n\n Gingivitis\n\n\n\n\n Toot"
+  },
+  "code_cls_00567": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth enamel/discoloration/experience trauma/fractures/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fluids/fl"
+  },
+  "code_cls_00568": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth enamel/fractures/discolouration/fluososis/enamel hypoplastia/discoloration/result/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/remnants/"
+  },
+  "code_cls_00569": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00570": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Bleeding/Generic Gingival Bleeding/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swollen/swoll"
+  },
+  "code_cls_00571": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Gingival Disease/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcategories/Subcatego"
+  },
+  "code_cls_00574": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00575": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00576": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00577": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00578": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the dental clinic images, Gingivitis/phrases Gingival inflammation/redness/swollen gums/calculus/debris/findings/findings/findings/findings/findings/findings/fin"
+  },
+  "code_cls_00579": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis Confirmation:\n\n\n\nClinical Examination:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n\nPatient Complaint:\n\n\n"
+  },
+  "code_cls_00580": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Tooth Pigmentation "
+  },
+  "code_cls_00581": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma. Tooth Loss: Tooth L"
+  },
+  "code_cls_00582": {
+    "gt": "Gingivitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth structure not caused by caries, including fractures, wedge-shaped defects, fluorosis, enamel hypoplasia, tooth wear, discoloration, and trauma.\n\n\nOUTPUT FORMAT EXA"
+  },
+  "code_cls_00583": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00584": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis/Globals Gingival Bleeding/Globals Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival Bleeding Gingival B"
+  },
+  "code_cls_00586": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis/Globals Periodontitis/Globals Gingival Disease/Subcategories/Subcategories Gingivitis/Subcategories Gingivitis/Subcategories Gingivitis/Subcategories Gingivitis/Subcategories Gingivitis/Su"
+  },
+  "code_cls_00589": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description: Gingival recession/flabby gums/swollen gums/red gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums/swollen gums"
+  },
+  "code_cls_00587": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Observation:\n Gingival Bleeding Gum Bleeding Gum Bleeding Gum Bleeding Gum Bleeding Gum Bleeding Gum Bleeding Gum Bleeding Gum Bleeding Gum Bleeding G"
+  },
+  "code_cls_00588": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n   "
+  },
+  "code_cls_00590": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of tooth enamel/fractures/discolouration/result of trauma/fluosisis/enamel hypoplastia/discoloration/result/remnants/remnants/remnants/remnants/remnants/remnants/remnants/r"
+  },
+  "code_cls_00591": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": " Tooth Loss:Negative Tooth Mobility,Issue Tooth,Thorough Tooth Mobility,Thorough Tooth Extraction,Thorough Tooth Extraction,Issue Tooth,Thorough Tooth Extraction,Thorough Tooth Extraction,Thorough Too"
+  },
+  "code_cls_00592": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Description:\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n\n\n Gingivitis/Image Description:\n\n"
+  },
+  "code_cls_00593": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nClinical Examination Observation:\nPatients gums/appearance/readiness/status/response/response/response/response/response/response/response/response/response/response/respo"
+  },
+  "code_cls_00594": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/Image Analysis:\n\nExamining the gingiva, gums, gums, gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums gums g"
+  },
+  "code_cls_00595": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00597": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": " Gingivitis\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n    \n\n "
+  },
+  "code_cls_00598": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Gingivitis/General Periodontitis/Generic Gingival Disease/Generic Gum Disease/Generic Gingival Bleeding/swelling/redness/category/category/category/category/category/category/category/category/catego"
+  },
+  "code_cls_00599": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": " Tooth Structure Loss: Loss of Tooth Structure Not Caused by Dental Decay Including Tooth Wear, Fluorosis, Tooth Decay Patterns,\n\n\n Tooth Decay,\n\n\n Tooth Loss,\n\n\n Gingivitis,\n\n\n Dentition,\n\n\n Tooth De"
+  }
+}

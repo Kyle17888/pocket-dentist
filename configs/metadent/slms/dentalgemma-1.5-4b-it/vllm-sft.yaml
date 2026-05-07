@@ -1,0 +1,10 @@
+CUDA_VISIBLE_DEVICES: "0"
+model: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/MetaDent/slms/dentalgemma-1.5-4b-it/merged"
+served_model_name: "dentalgemma-1.5-4b-it-SFT"
+port: 9010
+trust_remote_code: true
+max_model_len: 16384
+limit_mm_per_prompt: '{"image": 8}'
+gpu_memory_utilization: 0.90
+max_num_seqs: 16
+seed: 42

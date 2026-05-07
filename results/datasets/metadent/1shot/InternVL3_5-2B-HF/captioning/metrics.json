@@ -1,0 +1,6 @@
+{
+  "bertscore_f1": -0.5856841766914188,
+  "bertscore_precision": -0.7209691857398127,
+  "bertscore_recall": -0.42968085619453267,
+  "total_samples": 261
+}

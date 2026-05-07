@@ -1,0 +1,6 @@
+Question Type,Accuracy,F1 (weighted),Samples
+growth_pattern,0.341,0.174,126
+incisor_inclination,0.111,0.2,126
+mandible_position,0.23,0.239,126
+maxilla_position,0.214,0.204,126
+skeletal_class,0.381,0.364,126

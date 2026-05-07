@@ -1,0 +1,4 @@
+# Qwen3-VL-4B-Instruct — shared model defaults (base_models)
+model_name_or_path: Qwen/Qwen3-VL-4B-Instruct
+attn_implementation: flash_attention_2
+trust_remote_code: true

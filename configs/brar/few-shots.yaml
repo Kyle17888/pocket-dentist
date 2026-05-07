@@ -1,0 +1,17 @@
+# BRAR Few-shot Configuration
+# 
+# Stratified sampling: 1 example per level = 3 total
+# Usage:
+#   --num_shots 3  → 1shot (Level 1×1, Level 2×1, Level 3×1)
+#
+# num_shots is overridden by run_brar.sh based on --tasks
+
+num_shots: 0
+classification:
+  examples:
+  - image: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/BRAR/level_1/patient_image_000682_2c28be4a.jpg
+    answer: '{"grade": 1}'
+  - image: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/BRAR/level_2/patient_image_000363_49d557bd.jpg
+    answer: '{"grade": 2}'
+  - image: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/BRAR/level_3/patient_image_000958_567fd642.jpg
+    answer: '{"grade": 3}'

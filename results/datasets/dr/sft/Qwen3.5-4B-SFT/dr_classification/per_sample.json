@@ -1,0 +1,1210 @@
+{
+  "dr_cls_test_0009": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a jaw (mandible and maxilla).\n    *   I see teeth.\n    *   I see bright white spots in the teeth. These are radiopaque. This corresponds to \"Fill"
+  },
+  "dr_cls_test_0014": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   I see several bright white objects.\n    *   Let's look at the upper jaw (maxill"
+  },
+  "dr_cls_test_0006": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a dental X-ray (panoramic view).\n    *   I see the upper and lower jaws with teeth.\n    *   Looking at the lower teeth (mandible), there are distinct bright white are"
+  },
+  "dr_cls_test_0012": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in both the upper and lower jaws.\n    *   I see some bright white spots in the teeth, which look like fillings.\n    "
+  },
+  "dr_cls_test_0005": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   Looking at the upper left (patient's right), there is a tooth that is not in it"
+  },
+  "dr_cls_test_0007": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a panoramic X-ray of a jaw (likely mandible given the shape and teeth position).\n    *   I see multiple teeth.\n    *   There are several distinct, bright, whi"
+  },
+  "dr_cls_test_0001": {
+    "gt": [
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in both the upper and lower jaws.\n    *   I need to look for:\n        *   **Cavity:** Dark radiolucent areas within "
+  },
+  "dr_cls_test_0013": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see the upper and lower jaws.\n    *   I see teeth.\n    *   I see the maxillary sinuses (dark areas above the upper teeth).\n   "
+  },
+  "dr_cls_test_0000": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic dental X-ray.\n    *   I see a full set of upper and lower teeth.\n    *   Looking at the lower right quadrant (patient's left), there are two distinct obje"
+  },
+  "dr_cls_test_0004": {
+    "gt": [
+      "Cavity",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of the jaw.\n    *   I see teeth in the upper and lower jaws.\n    *   I see some metallic objects.\n    *   Looking at the lower left quadrant (patien"
+  },
+  "dr_cls_test_0010": {
+    "gt": [
+      "Cavity",
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a jaw (mandible and maxilla).\n    *   I see teeth in both the upper and lower jaws.\n    *   Looking closely at the lower left quadrant (patient's"
+  },
+  "dr_cls_test_0015": {
+    "gt": [
+      "Cavity"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   Looking at the lower left quadrant (patient's left, right side of image), there"
+  },
+  "dr_cls_test_0008": {
+    "gt": [
+      "Cavity"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a full set of teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark radiolucent areas within tooth structure. Looking at the teeth, the"
+  },
+  "dr_cls_test_0011": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a dental panoramic X-ray (orthopantomogram).\n    *   I see the upper and lower jaws, teeth, and surrounding bone structures.\n    *   **Upper Jaw (Maxilla):**\n        "
+  },
+  "dr_cls_test_0003": {
+    "gt": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a dental X-ray (panoramic view).\n    *   I see teeth in the upper and lower jaws.\n    *   There are some missing teeth.\n    *   There are some unusual structures.\n\n2."
+  },
+  "dr_cls_test_0002": {
+    "gt": [
+      "Cavity",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see the upper and lower jaws with teeth.\n    *   Looking at the lower left quadrant (patient's left, right side of the image),"
+  },
+  "dr_cls_test_0018": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see the upper and lower teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark areas inside teeth. Looking at the tee"
+  },
+  "dr_cls_test_0017": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a dental X-ray (panoramic view).\n    *   I see teeth in both the upper and lower jaws.\n    *   Looking at the lower left quadrant (patient's left, right side of image"
+  },
+  "dr_cls_test_0022": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of the jaw.\n    *   I see teeth in the upper and lower jaws.\n    *   There are bright white spots in the teeth, which indicate fillings or crowns. S"
+  },
+  "dr_cls_test_0016": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in both the upper and lower jaws.\n    *   There are some dark areas (radiolucency) which could be cavities or just n"
+  },
+  "dr_cls_test_0026": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see upper and lower teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark spots inside teeth. Looking closely at the"
+  },
+  "dr_cls_test_0029": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   There are some bright white spots in the teeth, which look like fillings. Speci"
+  },
+  "dr_cls_test_0031": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a jaw (mandible and maxilla).\n    *   I see teeth in both the upper and lower jaws.\n    *   There are multiple teeth with bright white spots, whi"
+  },
+  "dr_cls_test_0019": {
+    "gt": [
+      "Cavity",
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   Looking at the upper teeth (maxilla):\n        *   There are some teeth that loo"
+  },
+  "dr_cls_test_0020": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   **Upper teeth:** There are several teeth visible. Some have bright white spots "
+  },
+  "dr_cls_test_0028": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a dental X-ray (panoramic view).\n    *   I see the upper and lower jaws with teeth.\n    *   **Upper Jaw:** There are several teeth. Some look like natural teeth, but "
+  },
+  "dr_cls_test_0024": {
+    "gt": [
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a jaw (mandible and maxilla).\n    *   I see teeth.\n    *   I see a distinct metallic object in the lower jaw (mandible). It looks like a dental i"
+  },
+  "dr_cls_test_0021": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   I see some bright white spots in the lower teeth on the left side (patient's ri"
+  },
+  "dr_cls_test_0025": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1": 0.8571,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   There are dark areas within some teeth, which look like cavities or decay. Spec"
+  },
+  "dr_cls_test_0034": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see the upper and lower jaws with teeth.\n    *   Looking at the lower left quadrant (patient's left, right side of image), the"
+  },
+  "dr_cls_test_0023": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic dental X-ray (orthopantomogram).\n    *   I see the upper and lower jaws with teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark radiolucent a"
+  },
+  "dr_cls_test_0039": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   There are multiple teeth that look like crowns or fillings. They are bright whi"
+  },
+  "dr_cls_test_0037": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a full set of teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark areas inside teeth. Looking at the teeth, the enamel and dentin loo"
+  },
+  "dr_cls_test_0027": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in both the upper and lower jaws.\n    *   Looking at the upper left quadrant (patient's left, right side of image), "
+  },
+  "dr_cls_test_0030": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a full set of teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark spots inside teeth. Looking at the upper and lower molars/premolars"
+  },
+  "dr_cls_test_0036": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic dental X-ray (orthopantomogram).\n    *   I see the upper and lower jaws with teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark spots inside "
+  },
+  "dr_cls_test_0032": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic dental X-ray (orthopantomogram).\n    *   I see the upper and lower jaws with teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark spots inside "
+  },
+  "dr_cls_test_0033": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in both the upper and lower jaws.\n    *   There are multiple teeth with bright white spots. These are clearly fillin"
+  },
+  "dr_cls_test_0044": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic dental X-ray.\n    *   I see the upper and lower jaws with teeth.\n    *   Looking at the lower left quadrant (patient's left, right side of the image), the"
+  },
+  "dr_cls_test_0046": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a full mouth.\n    *   I see the upper and lower teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark areas inside teeth. Looking close"
+  },
+  "dr_cls_test_0047": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a dental X-ray (panoramic view).\n    *   I see teeth in the upper and lower jaws.\n    *   There are several bright white spots in the teeth, which indicate metal fill"
+  },
+  "dr_cls_test_0040": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a full set of teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark spots inside teeth. Looking at the teeth, the enamel and dentin loo"
+  },
+  "dr_cls_test_0041": {
+    "gt": [
+      "Cavity"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in both the upper and lower jaws.\n    *   Looking at the upper teeth:\n        *   The molars on the left (patient's "
+  },
+  "dr_cls_test_0035": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic dental X-ray (orthopantomogram).\n    *   I see the upper and lower jaws, teeth, and surrounding bone structures.\n    *   Looking at the teeth:\n        *  "
+  },
+  "dr_cls_test_0038": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see upper and lower teeth.\n    *   I see the jawbones (mandible and maxilla).\n    *   I see the nasal cavity and sinuses at th"
+  },
+  "dr_cls_test_0045": {
+    "gt": [
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see the upper and lower jaws.\n    *   I see teeth.\n    *   I see the maxillary sinuses (dark areas above the upper teeth).\n   "
+  },
+  "dr_cls_test_0042": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.6667,
+    "recall": 1.0,
+    "f1": 0.8,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a jaw (mandible and maxilla).\n    *   I see teeth, bone, and some foreign objects.\n    *   **Fillings:** There are multiple bright white spots in"
+  },
+  "dr_cls_test_0043": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in both the upper and lower jaws.\n    *   There are multiple teeth with bright white spots. These are clearly fillin"
+  },
+  "dr_cls_test_0057": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a full set of teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark areas inside teeth. Looking at the teeth, the enamel and dentin loo"
+  },
+  "dr_cls_test_0052": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in both the upper and lower jaws.\n    *   There are multiple restorations.\n    *   There are dental implants.\n\n2.  *"
+  },
+  "dr_cls_test_0058": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a jaw (likely mandible given the shape and teeth arrangement, though it looks like a full arch).\n    *   I see teeth.\n    *   I see some teeth ha"
+  },
+  "dr_cls_test_0054": {
+    "gt": [
+      "Cavity"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic dental X-ray.\n    *   I see the upper and lower jaws with teeth.\n    *   Looking at the upper left quadrant (patient's left, right side of image), there i"
+  },
+  "dr_cls_test_0048": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in both the upper and lower jaws.\n    *   I need to look for:\n        *   **Cavity:** Dark areas inside teeth. Looki"
+  },
+  "dr_cls_test_0060": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   There are several bright white objects. These are radiopaque.\n    *   Some look"
+  },
+  "dr_cls_test_0050": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a jaw (mandible and maxilla).\n    *   I see multiple dental implants. These are the metallic, screw-like structures going into the bone.\n    *   "
+  },
+  "dr_cls_test_0049": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in both the upper and lower jaws.\n    *   **Upper jaw:** The teeth look relatively normal, maybe some minor wear, bu"
+  },
+  "dr_cls_test_0051": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic dental X-ray.\n    *   I see the upper and lower jaws with teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark areas inside teeth. Looking clos"
+  },
+  "dr_cls_test_0062": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a jaw (mandible).\n    *   I see teeth on both the left and right sides.\n    *   Looking at the teeth, there are several bright white spots. These"
+  },
+  "dr_cls_test_0053": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.6667,
+    "recall": 1.0,
+    "f1": 0.8,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a dental X-ray (panoramic view).\n    *   I see teeth in the upper and lower jaws.\n    *   **Upper Left (patient's left, right side of image):** There are two teeth wi"
+  },
+  "dr_cls_test_0055": {
+    "gt": [
+      "Cavity",
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1": 0.8571,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   There are several bright white spots within the teeth, which are characteristic"
+  },
+  "dr_cls_test_0056": {
+    "gt": [
+      "Cavity",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see the upper and lower jaws with teeth.\n    *   Looking at the lower left quadrant (patient's left, right side of image), the"
+  },
+  "dr_cls_test_0059": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a jaw (mandible and maxilla).\n    *   I see teeth.\n    *   I see some bright white spots. These look like fillings or crowns. Specifically, there"
+  },
+  "dr_cls_test_0063": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in the upper and lower jaws.\n    *   There are dark areas within the teeth, which look like cavities or decay.\n    *"
+  },
+  "dr_cls_test_0068": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see teeth in both the upper and lower jaws.\n    *   Looking at the upper teeth, there are bright white spots. These look like "
+  },
+  "dr_cls_test_0070": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a jaw (mandible and maxilla).\n    *   I see teeth.\n    *   Some teeth have bright white spots inside them. These are radiopaque. This corresponds"
+  },
+  "dr_cls_test_0064": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a jaw (mandible).\n    *   I see teeth and dental implants.\n    *   Looking at the upper jaw (maxilla), there are several vertical, bright white s"
+  },
+  "dr_cls_test_0061": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a lower jaw (mandible).\n    *   I see multiple teeth.\n    *   There are several distinct objects that look like dental implants. They are vertica"
+  },
+  "dr_cls_test_0065": {
+    "gt": [
+      "Fillings",
+      "Implant"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a dental X-ray (panoramic view).\n    *   I see teeth in the upper and lower jaws.\n    *   There are bright white objects. These look like crowns or fillings. Specific"
+  },
+  "dr_cls_test_0067": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a child's mouth.\n    *   I see primary teeth (baby teeth) and developing permanent teeth.\n    *   Looking at the lower left quadrant (patient's l"
+  },
+  "dr_cls_test_0072": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of a mouth.\n    *   I see the upper and lower jaws with teeth.\n    *   I need to look for:\n        *   **Cavity:** Dark spots inside teeth. Looking "
+  },
+  "dr_cls_test_0066": {
+    "gt": [
+      "Cavity",
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic dental X-ray.\n    *   I see teeth in the upper and lower jaws.\n    *   Looking at the lower teeth (mandible):\n        *   There are several teeth with bri"
+  },
+  "dr_cls_test_0071": {
+    "gt": [
+      "Fillings"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.25,
+    "recall": 1.0,
+    "f1": 0.4,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic X-ray of the jaw.\n    *   I see teeth in the upper and lower jaws.\n    *   Looking at the lower left quadrant (patient's left, right side of image), there"
+  },
+  "dr_cls_test_0069": {
+    "gt": [
+      "Fillings",
+      "Impacted Tooth"
+    ],
+    "pred": [
+      "Cavity",
+      "Fillings",
+      "Impacted Tooth",
+      "Implant"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify specific dental findings in the provided panoramic radiograph.\n\n1.  **Analyze the image:**\n    *   It's a panoramic dental X-ray.\n    *   I see the upper and lower jaws with teeth.\n    *   Looking at the upper left quadrant (patient's right), there is a tooth that is pa"
+  }
+}

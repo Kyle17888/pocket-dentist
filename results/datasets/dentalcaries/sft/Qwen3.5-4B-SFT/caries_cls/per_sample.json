@@ -1,0 +1,3005 @@
+{
+  "caries_cls_test_00005": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with teeth.\n    *   The teeth visible are the molars and premolars.\n    *   The lower front teeth (incisors) look relatively clean and permanent.\n    *   The up"
+  },
+  "caries_cls_test_00010": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a person's mouth.\n    *   The teeth visible are the lower molars and premolars.\n    *   Looking closely at the molars (the back teeth), there are distinct dark spo"
+  },
+  "caries_cls_test_00009": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars/premolars) have significant dark brown/bl"
+  },
+  "caries_cls_test_00008": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   The lower teeth are visible, along with the upper teeth.\n    *   The teeth in the back (molars/premolars) have significant dark spots, indicating "
+  },
+  "caries_cls_test_00002": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a person's mouth.\n    *   The front teeth (incisors) are visible and look relatively healthy, white, and aligned.\n    *   The back teeth (molars/premolars"
+  },
+  "caries_cls_test_00004": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a child's mouth.\n    *   There are primary teeth visible.\n    *   The lower right primary molar (second primary molar) has a large, dark cavity, indicating severe "
+  },
+  "caries_cls_test_00011": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a person's mouth.\n    *   There are upper and lower teeth visible.\n    *   The teeth look like permanent teeth (adult teeth). They are larger and have the characte"
+  },
+  "caries_cls_test_00006": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars/premolars) show significant dark brown/bl"
+  },
+  "caries_cls_test_00000": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth shown in the image.\n1.  **Analyze the image:** The image shows a close-up of a person's upper and lower front teeth.\n2.  **Assess the teeth:** The teeth appear to be adult teeth. They are large, white, and have the typical shape of permanent incisors. "
+  },
+  "caries_cls_test_00015": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   There are primary (baby) teeth visible. I can tell because they are smaller and the occlusal surfaces (chewing surfaces) are "
+  },
+  "caries_cls_test_00020": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper arch of teeth.\n    *   The teeth appear to be primary (baby) teeth. They are smaller, have a different shape (more rounded, less compl"
+  },
+  "caries_cls_test_00018": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth, specifically the upper arch.\n    *   There is a metal retractor holding the lips open.\n    *   I see a row of teeth.\n    *   L"
+  },
+  "caries_cls_test_00014": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the inside of a mouth, specifically the upper arch.\n    *   I see primary teeth (baby teeth) and permanent teeth (adult teeth).\n    *   Looking closely at the"
+  },
+  "caries_cls_test_00023": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper and lower front teeth.\n    *   The teeth are white, shiny, and appear to be adult teeth (permanent teeth) based on their size and sh"
+  },
+  "caries_cls_test_00019": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth, specifically the upper front teeth.\n    *   The teeth are small, rounded, and lack the distinct cusps and sharp edges of perma"
+  },
+  "caries_cls_test_00016": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up view of the inside of a mouth, specifically the upper arch.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the teeth, t"
+  },
+  "caries_cls_test_00022": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries based on the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper and lower front teeth.\n    *   The teeth appear to be primary (baby) teeth. They are small, conical, and have a smooth, r"
+  },
+  "caries_cls_test_00007": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of the lower jaw (mandible) and the upper jaw (maxilla) teeth.\n    *   The teeth visible are the molars.\n    *   Looking at the molars, they appear to be permanen"
+  },
+  "caries_cls_test_00001": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries shown in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper front teeth (maxillary incisors).\n    *   The teeth are generally white and healthy-looking, except for one specific area.\n    *   Lo"
+  },
+  "caries_cls_test_00017": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a child's mouth.\n    *   The teeth visible are small and primary in appearance.\n    *   Specifically, there are two molars visible on the left and right s"
+  },
+  "caries_cls_test_00003": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of the lower jaw (mandible) and upper jaw (maxilla) teeth.\n    *   There are four molars visible, two on the left and two on the right.\n    *   The teeth hav"
+  },
+  "caries_cls_test_00025": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth, specifically the upper and lower anterior teeth.\n    *   I see a row of teeth.\n    *   Looking at the upper left quadrant (vie"
+  },
+  "caries_cls_test_00012": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with teeth.\n    *   There are molars visible on both the left and right sides.\n    *   Looking closely at the molars, there are dark spots indicating decay (car"
+  },
+  "caries_cls_test_00027": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a child's mouth.\n    *   I see primary teeth (baby teeth). They are small, rounded, and lack the complex occlusal surfaces of permanent molars.\n"
+  },
+  "caries_cls_test_00030": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a child's mouth.\n    *   There are primary teeth visible. The teeth are small, rounded, and lack the complex root structure of permanent teeth.\n    *   Specifi"
+  },
+  "caries_cls_test_00031": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper front teeth.\n    *   There is a distinct black spot on the leftmost visible tooth (the central incisor).\n    *   The surrounding tee"
+  },
+  "caries_cls_test_00026": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the upper right quadrant (patient's right, viewer's left), t"
+  },
+  "caries_cls_test_00035": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper and lower anterior teeth.\n    *   The teeth are small, rounded, and lack the distinct cusps and grooves of permanent molars. They look"
+  },
+  "caries_cls_test_00033": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a child's mouth.\n    *   I see primary teeth (baby teeth). They are smaller, have a different shape (especially the molars which are bulbous), a"
+  },
+  "caries_cls_test_00029": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of the lower jaw (mandible) and the upper jaw (maxilla) teeth.\n    *   The teeth visible are the primary molars (first and second primary molars).\n    *   Th"
+  },
+  "caries_cls_test_00013": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars/premolars) have significant dark brown/black c"
+  },
+  "caries_cls_test_00036": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a child's mouth.\n    *   I see primary teeth (baby teeth). They are small, rounded, and lack the complex occlusal surfaces of permanent molars.\n"
+  },
+  "caries_cls_test_00034": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) have dark spots, indicating decay.\n    *"
+  },
+  "caries_cls_test_00038": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the inside of a mouth, specifically the upper arch.\n    *   I see a row of teeth.\n    *   The teeth look small and somewhat rounded, characteristic of primary"
+  },
+  "caries_cls_test_00028": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper front teeth (maxillary arch).\n    *   I see a central incisor, two lateral incisors, and two canines.\n    *   Looking closely at the r"
+  },
+  "caries_cls_test_00021": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the inside of a mouth, specifically the upper arch (palate).\n    *   I see a row of teeth on the left and right sides.\n    *   The teeth visible are the prima"
+  },
+  "caries_cls_test_00041": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a child's mouth.\n    *   I see primary teeth (baby teeth). They are small, rounded, and lack the complex occlusal surfaces of permanent molars.\n"
+  },
+  "caries_cls_test_00024": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars/premolars) show significant dark brown/bl"
+  },
+  "caries_cls_test_00040": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth, specifically the upper and lower front teeth.\n    *   The teeth are generally white and healthy-looking, except for one specific to"
+  },
+  "caries_cls_test_00043": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue visible in the center.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the teeth, they appear"
+  },
+  "caries_cls_test_00045": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a child's mouth.\n    *   I see primary teeth (baby teeth). The teeth are small, rounded, and lack the complex occlusal surfaces of permanent mol"
+  },
+  "caries_cls_test_00044": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are upper and lower teeth visible.\n    *   The teeth in the front (incisors and canines) look like primary (baby) teeth. They are s"
+  },
+  "caries_cls_test_00052": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper front teeth (maxillary incisors and canines).\n    *   The teeth appear to be primary (baby) teeth. They are small, conical, and have a"
+  },
+  "caries_cls_test_00050": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper front teeth (maxillary incisors and canines).\n    *   The teeth appear to be primary (baby) teeth. They are small, rounded, and lack t"
+  },
+  "caries_cls_test_00051": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a set of teeth.\n    *   The teeth in the back (molars) have significant dark cavities, indicating severe decay.\n    *   The teeth in the front (incisors) look relativel"
+  },
+  "caries_cls_test_00032": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue in the center.\n    *   On the left side (patient's right), there are molars.\n    *   On the right side (patient's left), there are"
+  },
+  "caries_cls_test_00054": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper and lower arches of teeth.\n    *   The teeth visible are the primary (deciduous) teeth. I can tell this because they are smaller, have a different s"
+  },
+  "caries_cls_test_00047": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue protruding.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the molars (the back teeth), I ca"
+  },
+  "caries_cls_test_00048": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up view of a child's mouth.\n    *   I see primary teeth (baby teeth). They are small, yellowish, and have the characteristic shape of deciduous teeth."
+  },
+  "caries_cls_test_00053": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue protruding.\n    *   There are teeth visible on both the upper and lower arches.\n    *   Looking closely at the upper teeth, specif"
+  },
+  "caries_cls_test_00042": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up view of a child's mouth.\n    *   I see primary teeth (baby teeth). They are small, rounded, and lack the complex occlusal surfaces of permanent mol"
+  },
+  "caries_cls_test_00057": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper front teeth and the primary molars (baby teeth) on either side.\n    *   The central incisors and lateral incisors look like primary te"
+  },
+  "caries_cls_test_00049": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue visible in the center.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the teeth, they appear"
+  },
+  "caries_cls_test_00056": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of the mouth.\n    *   I see primary teeth (baby teeth). They are smaller, have a different shape (primary molars look like \"U\" shapes or have f"
+  },
+  "caries_cls_test_00037": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) show significant dark brown/black lesion"
+  },
+  "caries_cls_test_00059": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue extended.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the molars (back teeth), specifical"
+  },
+  "caries_cls_test_00055": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of the upper and lower teeth.\n    *   The lower teeth (incisors) look like primary teeth (baby teeth). They are small, conical, and lack the complex occlusal"
+  },
+  "caries_cls_test_00058": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a child's mouth.\n    *   I see primary teeth (baby teeth). The central incisors are small and rounded. The lateral incisors are also small.\n    "
+  },
+  "caries_cls_test_00039": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of the lower jaw (mandible) and the upper jaw (maxilla) teeth.\n    *   The teeth visible are the molars.\n    *   Looking at the molars, they have deep pits a"
+  },
+  "caries_cls_test_00065": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth.\n    *   I see upper and lower teeth.\n    *   The teeth look like primary (baby) teeth. They are smaller, have a different shap"
+  },
+  "caries_cls_test_00063": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) have significant dark brown/black lesions. These "
+  },
+  "caries_cls_test_00046": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) have significant dark brown/black lesions. Th"
+  },
+  "caries_cls_test_00066": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the lower jaw (mandible) and the floor of the mouth.\n    *   I see a row of teeth on the left and right sides.\n    *   The teeth appear to be pr"
+  },
+  "caries_cls_test_00068": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible.\n    *   The teeth in the back (molars) have significant dark brown/black lesions. These are clearly dental carie"
+  },
+  "caries_cls_test_00070": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a mouth.\n    *   There are teeth visible.\n    *   The teeth look small and somewhat conical, typical of primary (baby) teeth.\n    *   The gingiva (gums) "
+  },
+  "caries_cls_test_00072": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   The teeth are small, rounded, and lack the distinct cusps and grooves of permanent molars. They look like primary (baby) teet"
+  },
+  "caries_cls_test_00060": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary (baby) teeth. They are small, rounded, and lack the complex occlusal surfaces of permanent molars.\n    *   Let'"
+  },
+  "caries_cls_test_00071": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper front teeth.\n    *   The teeth are generally white and healthy-looking, except for one specific tooth.\n    *   The tooth in question"
+  },
+  "caries_cls_test_00067": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a set of teeth in the upper jaw (maxilla).\n    *   There are four visible teeth on each side.\n    *   The teeth look small and somewhat rounded, characteristic of prima"
+  },
+  "caries_cls_test_00069": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of upper and lower front teeth.\n    *   The teeth appear to be primary (baby) teeth. They are small, conical, and have a smooth, rounded shape typical of de"
+  },
+  "caries_cls_test_00062": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper teeth and gums.\n    *   The teeth appear to be primary (baby) teeth. They are small, rounded, and lack the complex occlusal sur"
+  },
+  "caries_cls_test_00079": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a mouth, specifically the upper and lower anterior teeth.\n    *   The teeth are small, rounded, and lack the distinct cusps and roots of permane"
+  },
+  "caries_cls_test_00076": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue protruding.\n    *   There are teeth visible on both the upper and lower arches.\n    *   Looking at the upper arch, specifically th"
+  },
+  "caries_cls_test_00081": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a child's mouth.\n    *   I see primary teeth (baby teeth). They are small, rounded, and lack the complex occlusal surfaces of permanent molars.\n"
+  },
+  "caries_cls_test_00080": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a set of teeth in the lower jaw (mandible) and upper jaw (maxilla), but the focus is clearly on the posterior teeth (molars and premolars).\n    *   The teeth have large, dar"
+  },
+  "caries_cls_test_00078": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a mouth, specifically the upper and lower anterior teeth.\n    *   I see a row of teeth.\n    *   The teeth look small and somewhat rounded, chara"
+  },
+  "caries_cls_test_00077": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue extended.\n    *   There are teeth visible on both the upper and lower arches.\n    *   Looking at the upper arch, specifically the "
+  },
+  "caries_cls_test_00061": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars/premolars) have dark brown/black spots, which are "
+  },
+  "caries_cls_test_00064": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars/premolars) have significant dark brown/bl"
+  },
+  "caries_cls_test_00084": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible.\n    *   The teeth in the back (molars/premolars) show significant dark spots and cracks.\n    *   The teeth in th"
+  },
+  "caries_cls_test_00075": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary teeth (baby teeth) and permanent teeth.\n    *   Let's look at the teeth from front to back.\n    *   The front t"
+  },
+  "caries_cls_test_00090": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of the lower jaw (mandible) and the upper jaw (maxilla) teeth.\n    *   The teeth visible are the molars.\n    *   Looking at the molars, specifically the back"
+  },
+  "caries_cls_test_00086": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the upper left and upper right molars (the back teeth), ther"
+  },
+  "caries_cls_test_00073": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by dental caries based on the provided image.\n\n1.  **Analyze the image:** The image shows a close-up of a person's upper and lower front teeth. The teeth are white, healthy-looking, and appear to be permanent adult teeth. There is no visible d"
+  },
+  "caries_cls_test_00074": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with a tongue in the center.\n    *   There are teeth visible on both sides.\n    *   Looking at the lower left quadrant (patient's left, viewer's left), there is"
+  },
+  "caries_cls_test_00093": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the teeth, they appear to be primary (baby) teeth. They are "
+  },
+  "caries_cls_test_00094": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with a retractor holding the lips open.\n    *   There are primary teeth visible. They are small, rounded, and lack the complex occlusal surfaces of per"
+  },
+  "caries_cls_test_00095": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper and lower anterior teeth.\n    *   There are metal retractors holding the lips open.\n    *   The teeth visible are the central incisors"
+  },
+  "caries_cls_test_00092": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth shown in the image.\n1.  **Analyze the image:** The image shows a close-up of a person's upper front teeth. The teeth are white, healthy-looking, and appear to be primary (baby) teeth. They are small, rounded, and lack the distinct shape of permanent in"
+  },
+  "caries_cls_test_00096": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper and lower anterior teeth (incisors and canines) and the first primary molars.\n    *   The teeth in the front (incisors) are very small"
+  },
+  "caries_cls_test_00082": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) have significant dark brown/black lesion"
+  },
+  "caries_cls_test_00083": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of the lower jaw (mandible) and the tongue.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the teeth, they appear to be"
+  },
+  "caries_cls_test_00085": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) have significant dark spots, which are clearl"
+  },
+  "caries_cls_test_00100": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of the lower jaw (mandible) and upper jaw (maxilla) teeth.\n    *   The teeth visible are molars.\n    *   Looking at the molars on the left side (viewer's lef"
+  },
+  "caries_cls_test_00099": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth shown in the image.\n1.  **Analyze the image:** The image shows a close-up of a person's smile. The teeth are white, straight, and appear to be adult teeth (permanent teeth). They are not baby teeth.\n2.  **Evaluate the prompt:** The prompt asks to class"
+  },
+  "caries_cls_test_00087": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) have significant dark brown/black lesion"
+  },
+  "caries_cls_test_00104": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper arch of teeth.\n    *   There is a distinct black lesion on the occlusal surface of a tooth on the left side (patient's left, viewer's left)"
+  },
+  "caries_cls_test_00088": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue visible in the center.\n    *   On the left side (patient's right), there are three molars visible.\n    *   On the right side (pati"
+  },
+  "caries_cls_test_00102": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible.\n    *   On the left side (viewer's left), there is a molar-like tooth with a large, dark, brownish hole. This is clea"
+  },
+  "caries_cls_test_00103": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper jaw (maxilla) and lower jaw (mandible) teeth.\n    *   The central teeth are primary incisors (primary teeth). They look like ba"
+  },
+  "caries_cls_test_00089": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) show significant dark spots, which are c"
+  },
+  "caries_cls_test_00091": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the upper and lower jaws.\n    *   The teeth in the back (molars/premolars) have significant dark spots, i"
+  },
+  "caries_cls_test_00109": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue visible.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the teeth, they appear to be permane"
+  },
+  "caries_cls_test_00101": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth shown in the image.\n1.  **Analyze the image:** The image shows a close-up of a person's upper and lower front teeth.\n2.  **Assess the teeth:** The teeth are large, white, and appear to be adult teeth. They are the central incisors and lateral incisors."
+  },
+  "caries_cls_test_00107": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There is a large tongue in the center.\n    *   There are teeth visible on both sides.\n    *   Looking at the teeth:\n        *   The lower"
+  },
+  "caries_cls_test_00115": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary (baby) teeth. They are small, rounded, and lack the complex occlusal surfaces of permanent molars.\n    *   Spec"
+  },
+  "caries_cls_test_00113": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue extended.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the posterior teeth (molars/premolars), ther"
+  },
+  "caries_cls_test_00111": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   There are primary (baby) teeth visible. I can tell because the teeth are smaller, the roots are not fully visible (though not"
+  },
+  "caries_cls_test_00097": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the upper and lower arches.\n    *   Looking closely at the upper right and upper left molars (the back te"
+  },
+  "caries_cls_test_00098": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a person's mouth.\n    *   There are teeth visible in the lower arch.\n    *   Looking at the molars (back teeth), specifically the second molars (the ones "
+  },
+  "caries_cls_test_00112": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the front (incisors) look like primary (baby) teeth. They "
+  },
+  "caries_cls_test_00119": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with teeth.\n    *   There are molars visible on both the left and right sides.\n    *   The molars have significant dark brown/black spots, indicating decay.\n    *   The "
+  },
+  "caries_cls_test_00106": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a set of teeth in the lower jaw (mandible).\n    *   There are two prominent molars on either side of the tongue.\n    *   The teeth on the left (viewer's left) and right (viewer'"
+  },
+  "caries_cls_test_00116": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the upper and lower arches.\n    *   The teeth in the back (molars/premolars) have significant dark brown/black"
+  },
+  "caries_cls_test_00120": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   The teeth are the primary molars (first and second primary molars).\n    *   The teeth are small, rounded, and lack the comple"
+  },
+  "caries_cls_test_00114": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a person's mouth.\n    *   There are upper and lower teeth visible.\n    *   The lower teeth are clearly visible in the foreground.\n    *   The upper teeth are visib"
+  },
+  "caries_cls_test_00110": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth shown in the image.\n1.  **Analyze the image:** The image shows a close-up of a person's upper front teeth. The teeth are white, healthy-looking, and appear to be adult teeth (permanent teeth). They are the central incisors and lateral incisors.\n2.  **E"
+  },
+  "caries_cls_test_00122": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a mouth with the tongue protruding.\n    *   I see upper and lower teeth.\n    *   The teeth look like primary (baby) teeth. They are small, round"
+  },
+  "caries_cls_test_00105": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a set of teeth in the lower jaw (mandible) and upper jaw (maxilla).\n    *   The teeth visible are the molars.\n    *   The upper left molar (second molar) has a large, dark cavit"
+  },
+  "caries_cls_test_00124": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth, specifically the lower front teeth and the upper front teeth.\n    *   The teeth appear to be primary (baby) teeth. They are sm"
+  },
+  "caries_cls_test_00125": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   The teeth appear to be primary (baby) teeth. They are smaller, have a different shape (more rounded, less complex occlusal su"
+  },
+  "caries_cls_test_00108": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with a tongue in the center.\n    *   There are teeth visible on the left and right sides.\n    *   Looking at the teeth:\n        *   The lower teeth (mandibular) look lik"
+  },
+  "caries_cls_test_00132": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   There are primary teeth (baby teeth) visible. I can tell because they are smaller, have a different shape (more rounded, less"
+  },
+  "caries_cls_test_00121": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary (baby) teeth. They are smaller, have a different shape (more rounded, less complex occlusal surfaces compared t"
+  },
+  "caries_cls_test_00128": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   The teeth are small, rounded, and lack the distinct cusps and grooves of permanent molars or premolars. They look like primary (baby) "
+  },
+  "caries_cls_test_00123": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a person's mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars/premolars) show significant dark"
+  },
+  "caries_cls_test_00133": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   The teeth look like permanent teeth. They are large, have distinct cusps, and the molars have deep pits and fissures.\n    *  "
+  },
+  "caries_cls_test_00136": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries shown in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper front teeth (maxillary central incisors).\n    *   There is a distinct lesion on the upper central incisor. It looks like a dark, redd"
+  },
+  "caries_cls_test_00135": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   The upper teeth (maxillary) look like primary (baby) teeth. They are small, rounded, and lack the distinct cusps of permanent molars. The"
+  },
+  "caries_cls_test_00140": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth shown in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper front teeth (central incisors and lateral incisors).\n    *   The teeth appear to be adult teeth. They are large, white, and have the typical shape of"
+  },
+  "caries_cls_test_00117": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with teeth.\n    *   There are molars visible on both the left and right sides.\n    *   The molars have significant dark brown/black lesions, indicating severe decay.\n   "
+  },
+  "caries_cls_test_00139": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on the left and right sides.\n    *   The teeth look small and rounded, characteristic of primary (baby) teeth. They ar"
+  },
+  "caries_cls_test_00118": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary teeth (baby teeth) and permanent teeth.\n    *   Let's look at the teeth from front to back.\n    *   Front teeth"
+  },
+  "caries_cls_test_00138": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   The teeth appear to be primary (baby) teeth. They are smaller, have a different shape (more rounded, less complex occlusal su"
+  },
+  "caries_cls_test_00141": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with teeth and a tongue.\n    *   There are molars visible on both the left and right sides.\n    *   Looking closely at the molars, specifically the second molar"
+  },
+  "caries_cls_test_00143": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth, specifically the upper arch of teeth.\n    *   The teeth appear to be adult teeth (permanent teeth) based on their size, shape,"
+  },
+  "caries_cls_test_00142": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the inside of a mouth, specifically the upper arch.\n    *   I see a row of teeth.\n    *   The teeth look like primary (baby) teeth. They are smaller, have a d"
+  },
+  "caries_cls_test_00145": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with the tongue visible in the center.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars/premolars) have significan"
+  },
+  "caries_cls_test_00148": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the inside of a mouth, specifically the upper arch.\n    *   I see upper primary teeth (deciduous teeth). They are small, conical, and lack the complex occlusa"
+  },
+  "caries_cls_test_00126": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary teeth (baby teeth) and permanent teeth (adult teeth).\n    *   Let's look at the teeth from front to back.\n    *"
+  },
+  "caries_cls_test_00127": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with a tongue in the center.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth are molars (back teeth).\n    *   Looki"
+  },
+  "caries_cls_test_00129": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) have significant dark brown/black lesions.\n    * "
+  },
+  "caries_cls_test_00130": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary (baby) teeth. They are small, conical, and lack the complex occlusal surfaces of permanent molars.\n    *   Wait"
+  },
+  "caries_cls_test_00131": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a set of teeth.\n    *   The teeth visible are the primary molars (primary teeth).\n    *   Let's look at the molars.\n    *   Top left molar: Has a large dark cavity. It looks lik"
+  },
+  "caries_cls_test_00150": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a set of upper teeth.\n    *   The teeth look relatively small and uniform in shape, typical of primary (baby) teeth.\n    *   The central incisors are very small and rounded.\n   "
+  },
+  "caries_cls_test_00144": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue extended.\n    *   There are teeth visible on both sides.\n    *   Looking at the teeth on the right side (patient's left), there is"
+  },
+  "caries_cls_test_00151": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth, specifically the upper and lower front teeth.\n    *   The upper teeth are large, white, and appear to be permanent incisors.\n    * "
+  },
+  "caries_cls_test_00147": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars/premolars) have significant dark brown/black c"
+  },
+  "caries_cls_test_00134": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a set of teeth in the lower jaw (mandible) and upper jaw (maxilla), though mostly the lower arch is clearly visible with the upper arch partially visible at the top. Wa"
+  },
+  "caries_cls_test_00149": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a set of teeth in the lower jaw (mandible) and upper jaw (maxilla), but mostly the lower arch is clearly visible with the upper arch partially visible behind the tongue. Wait, l"
+  },
+  "caries_cls_test_00156": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of the lower front teeth and the upper front teeth.\n    *   The teeth are small and relatively uniform in size, which is characteristic of primary (baby) tee"
+  },
+  "caries_cls_test_00153": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper arch of teeth.\n    *   The teeth are white and appear to be permanent teeth (adult teeth). They are large, have distinct cusps,"
+  },
+  "caries_cls_test_00137": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary teeth (baby teeth) and permanent teeth.\n    *   Let's look at the molars.\n    *   On the left side (patient's r"
+  },
+  "caries_cls_test_00157": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of the mouth.\n    *   I see primary teeth (baby teeth). They are small, rounded, and lack the complex occlusal surfaces of permanent molars.\n  "
+  },
+  "caries_cls_test_00155": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth look like primary (baby) teeth. They are smaller, have a diff"
+  },
+  "caries_cls_test_00146": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the upper and lower arches.\n    *   The teeth in the back (molars) have significant dark brown/black cavities. Thi"
+  },
+  "caries_cls_test_00152": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary teeth (baby teeth) and permanent teeth.\n    *   Let's look at the molars.\n    *   On the left side (viewer's le"
+  },
+  "caries_cls_test_00162": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the inside of a mouth, specifically the upper arch.\n    *   There are metal retractors holding the lips open.\n    *   The teeth visible are the upper primary "
+  },
+  "caries_cls_test_00160": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with the tongue in the center.\n    *   There are teeth visible on both the left and right sides.\n    *   The front teeth (incisors) look relatively healthy and white.\n  "
+  },
+  "caries_cls_test_00161": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the inside of a mouth, specifically the upper arch.\n    *   There are metal retractors holding the lips open.\n    *   I see a row of teeth.\n    *   Looking cl"
+  },
+  "caries_cls_test_00159": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper front teeth.\n    *   Most of the teeth (the central incisors and lateral incisors) are clean, white, and healthy-looking.\n    *   On the"
+  },
+  "caries_cls_test_00158": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a view of the upper jaw (maxilla) with the mouth open.\n    *   There are primary teeth (baby teeth) visible. They are small, rounded, and lack the complex occlusal surfaces of p"
+  },
+  "caries_cls_test_00164": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth shown in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a mouth with the tongue extended.\n    *   The teeth visible are the lower anterior teeth (incisors) and the upper anterior teeth (incisors).\n    *   The teeth appear "
+  },
+  "caries_cls_test_00172": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper arch of teeth.\n    *   I see primary teeth (baby teeth). They are small, rounded, and lack the complex occlusal surfaces of permanent "
+  },
+  "caries_cls_test_00154": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper jaw (maxilla) and lower jaw (mandible) teeth.\n    *   There are metal retractors holding the lips open.\n    *   The teeth are g"
+  },
+  "caries_cls_test_00166": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with the tongue extended.\n    *   There are teeth visible on both the upper and lower arches.\n    *   Looking closely at the teeth, specifically the molars (back teeth),"
+  },
+  "caries_cls_test_00168": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   The teeth are small, rounded, and lack the distinct cusps and grooves of permanent molars. They look like primary (baby) teet"
+  },
+  "caries_cls_test_00171": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are upper and lower teeth visible.\n    *   The lower teeth look like primary (baby) teeth. They are smaller, have a different shape"
+  },
+  "caries_cls_test_00174": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper and lower front teeth.\n    *   The teeth are small, rounded, and lack the distinct cusps and grooves of permanent molars. They "
+  },
+  "caries_cls_test_00167": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   The teeth look relatively small and uniform in shape, typical of primary (baby) teeth.\n    *   The gingiva (gums) look health"
+  },
+  "caries_cls_test_00173": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible.\n    *   The teeth in the front (incisors) look like primary (baby) teeth. They are small, rounded, and lack the "
+  },
+  "caries_cls_test_00175": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible.\n    *   On the left side (viewer's left), there is a large molar tooth with a significant dark brown/black cavity in "
+  },
+  "caries_cls_test_00182": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary (baby) teeth. They are smaller, have a different shape (more rounded, less complex occlusal surfaces compared t"
+  },
+  "caries_cls_test_00170": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) have significant dark brown/black lesions, wh"
+  },
+  "caries_cls_test_00165": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There is a large tongue in the center.\n    *   There are teeth visible on both the upper and lower arches.\n    *   Looking at the upper right quad"
+  },
+  "caries_cls_test_00180": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with teeth.\n    *   The teeth visible are the molars and premolars.\n    *   Looking closely at the molars (the back teeth), there are significant dark cavities.\n    *   "
+  },
+  "caries_cls_test_00176": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a set of upper teeth.\n    *   There are primary teeth (baby teeth) visible.\n    *   Let's count them.\n        *   Central incisors: 2 (top middle)\n        *  "
+  },
+  "caries_cls_test_00177": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with a retractor holding the lips open.\n    *   There are teeth visible in the upper and lower jaws.\n    *   The lower teeth look like primary (baby) teeth. The"
+  },
+  "caries_cls_test_00178": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   The teeth visible are the upper anterior teeth (incisors and canines) and the lower posterior teeth (molars).\n    *   Wait, let's look closer."
+  },
+  "caries_cls_test_00181": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible in the upper and lower arches.\n    *   The lower teeth look like primary (baby) teeth. They are smaller, have a d"
+  },
+  "caries_cls_test_00163": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the upper and lower arches.\n    *   The lower teeth look like primary (baby) teeth. They are smaller, have a diffe"
+  },
+  "caries_cls_test_00179": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a set of teeth in the lower jaw (mandible) and upper jaw (maxilla), but the view is primarily focused on the lower arch and the upper arch is partially visible at the t"
+  },
+  "caries_cls_test_00184": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth, specifically the upper arch of teeth.\n    *   The teeth are the primary incisors and lateral incisors.\n    *   The teeth appea"
+  },
+  "caries_cls_test_00190": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth.\n    *   There are upper and lower teeth visible.\n    *   The upper teeth are large, white, and appear to be permanent teeth (adult "
+  },
+  "caries_cls_test_00187": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a child's mouth.\n    *   The teeth are small and primary in appearance.\n    *   The primary teeth are visible: primary incisors, primary canines, and primary m"
+  },
+  "caries_cls_test_00169": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with teeth.\n    *   There are molars visible on both the left and right sides.\n    *   The molars have significant dark spots, indicating decay.\n    *   The teeth look l"
+  },
+  "caries_cls_test_00188": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue in the center.\n    *   On the left side (viewer's left), there are molars.\n    *   On the right side (viewer's right), there are molars.\n  "
+  },
+  "caries_cls_test_00186": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries based on the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper front teeth.\n    *   The teeth appear to be primary (baby) teeth. They are small, conical, and have a smooth, rounded sha"
+  },
+  "caries_cls_test_00193": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary teeth (baby teeth). They are small, rounded, and lack the complex occlusal surfaces of permanent molars.\n    * "
+  },
+  "caries_cls_test_00196": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a child's mouth.\n    *   I see primary teeth (baby teeth). They are small, conical, and lack the complex occlusal surfaces of permanent molars.\n"
+  },
+  "caries_cls_test_00189": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper and lower anterior teeth (incisors and canines) and the upper primary molars.\n    *   The teeth look small and rounded, characteristic"
+  },
+  "caries_cls_test_00197": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a mouth with a metal retractor holding the lips open.\n    *   I see a row of teeth on the left and a row on the right.\n    *   The teeth look li"
+  },
+  "caries_cls_test_00191": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth shown in the image.\n1.  **Analyze the image:** The image shows a close-up of a person's upper and lower front teeth.\n2.  **Assess the teeth:** The teeth appear to be adult teeth. They are large, have a distinct shape (incisors), and the gums look matur"
+  },
+  "caries_cls_test_00201": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth.\n    *   The teeth visible are the upper anterior teeth (incisors and canines).\n    *   Looking closely at the lower left area (patient'"
+  },
+  "caries_cls_test_00203": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible.\n    *   Looking at the molars (back teeth), specifically the upper right and upper left molars, there are dark spots indi"
+  },
+  "caries_cls_test_00183": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with teeth and a tongue.\n    *   The teeth are in the lower and upper arches.\n    *   Looking at the upper right quadrant (patient's right, viewer"
+  },
+  "caries_cls_test_00202": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth appear to be molars (back teeth).\n    *   Looking closely at the molar"
+  },
+  "caries_cls_test_00206": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking closely at the teeth, they appear to be primary (baby) teeth. T"
+  },
+  "caries_cls_test_00185": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a set of teeth in the lower jaw (mandibular arch).\n    *   The teeth are arranged in a row.\n    *   Looking at the molars (the back teeth), there are significant dark b"
+  },
+  "caries_cls_test_00195": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries shown in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper front teeth.\n    *   The teeth appear to be primary (baby) teeth. They are small, conical, and have a smooth, rounded shape ty"
+  },
+  "caries_cls_test_00199": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with teeth.\n    *   There are molars visible on both the left and right sides.\n    *   The teeth look like primary (baby) teeth. They are smaller, have a differ"
+  },
+  "caries_cls_test_00207": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are upper and lower teeth visible.\n    *   The teeth look like primary (baby) teeth. They are smaller, have a different shape (more"
+  },
+  "caries_cls_test_00208": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with teeth.\n    *   There are molars visible on both the left and right sides.\n    *   The molars have significant dark brown/black lesions, which are characteristic of "
+  },
+  "caries_cls_test_00209": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth with the tongue protruding.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars/premolars) sho"
+  },
+  "caries_cls_test_00192": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth are large, multi-cusped molars.\n    *   Looking closely at the mol"
+  },
+  "caries_cls_test_00194": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of the upper and lower teeth.\n    *   The teeth visible are the molars (back teeth).\n    *   Looking at the size and shape, these appear to be permanent teet"
+  },
+  "caries_cls_test_00212": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with the tongue in the center.\n    *   There are teeth visible on both the left and right sides.\n    *   Looking at the molars (back teeth), there are significant black "
+  },
+  "caries_cls_test_00211": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary (baby) teeth. They are smaller, have a different shape (more rounded, less complex occlusal surfaces compared t"
+  },
+  "caries_cls_test_00216": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows an intraoral view of the upper arch.\n    *   I see primary teeth (deciduous teeth). They are small, rounded, and lack the complex occlusal surfaces of permane"
+  },
+  "caries_cls_test_00214": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the lower jaw (mandible) and the upper jaw (maxilla) partially visible, but mostly the lower arch is prominent.\n    *   I see a row of teeth.\n    *   Looking "
+  },
+  "caries_cls_test_00205": {
+    "gt": [
+      "Permanent teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth shown in the image.\n1.  **Analyze the image:** The image shows a close-up of a person's upper and lower front teeth. The teeth are white, healthy-looking, and appear to be adult teeth (permanent teeth) based on their size and shape. They are not small,"
+  },
+  "caries_cls_test_00217": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   I see primary (baby) teeth. They are small, rounded, and lack the complex occlusal surfaces of permanent molars.\n    *   Spec"
+  },
+  "caries_cls_test_00219": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's upper front teeth.\n    *   The teeth are white, shiny, and appear to be adult teeth (permanent teeth) based on their size and shape relati"
+  },
+  "caries_cls_test_00198": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries based on the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's mouth, specifically the upper and lower front teeth.\n    *   The teeth are white, clean, and appear to be permanent adult teeth"
+  },
+  "caries_cls_test_00218": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   The teeth are large, broad, and have a smooth, rounded appearance. They lack the distinct cusps and grooves typical of perman"
+  },
+  "caries_cls_test_00200": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of the upper front teeth.\n    *   The teeth are generally white and healthy-looking, except for one specific tooth.\n    *   The tooth with the caries is"
+  },
+  "caries_cls_test_00215": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) show significant brown staining and cavities.\n   "
+  },
+  "caries_cls_test_00204": {
+    "gt": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a child's mouth.\n    *   There are four molars visible, two on the left and two on the right.\n    *   The teeth have large, dark cavities, indicating severe de"
+  },
+  "caries_cls_test_00222": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows the upper arch of teeth.\n    *   The teeth look like primary (baby) teeth. They are small, rounded, and lack the distinct cusps and grooves of permanent molar"
+  },
+  "caries_cls_test_00223": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's smile.\n    *   The teeth are generally white and healthy-looking, except for one specific area.\n    *   Looking at the lower left qua"
+  },
+  "caries_cls_test_00221": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by dental caries based on the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a mouth with the tongue extended.\n    *   I see a row of teeth in the lower jaw (mandible) and a row of teeth in the upper jaw (max"
+  },
+  "caries_cls_test_00210": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a set of upper and lower teeth.\n    *   The front teeth (incisors and canines) look relatively normal, though the upper central incisors have some discoloration.\n    * "
+  },
+  "caries_cls_test_00213": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a mouth with teeth.\n    *   The front teeth (incisors) look like adult teeth, not baby teeth. They are large and uniform.\n    *   The back teeth (molars) are visible.\n    * "
+  },
+  "caries_cls_test_00224": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of a mouth.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in the back (molars) show significant decay.\n    *   The teet"
+  },
+  "caries_cls_test_00220": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Primary teeth"
+    ],
+    "exact_match": 1,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by caries in the provided image.\n\n1.  **Analyze the image:**\n    *   The image shows a close-up of a person's open mouth.\n    *   I see upper and lower teeth.\n    *   The teeth appear to be adult teeth (permanent teeth). They are larger, have "
+  },
+  "caries_cls_test_00225": {
+    "gt": [
+      "Primary teeth"
+    ],
+    "pred": [
+      "Permanent teeth",
+      "Primary teeth"
+    ],
+    "exact_match": 0,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6667,
+    "raw_prediction": "The user wants me to identify the type of teeth affected by the caries in the image.\n\n1.  **Analyze the image:**\n    *   I see a close-up of the lower jaw (mandible) and the tongue.\n    *   There are teeth visible on both the left and right sides.\n    *   The teeth in question are the second molars "
+  }
+}

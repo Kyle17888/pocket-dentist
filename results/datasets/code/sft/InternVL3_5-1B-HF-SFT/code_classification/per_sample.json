@@ -1,0 +1,3596 @@
+{
+  "code_cls_00004": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00003": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00006": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00005": {
+    "gt": "Tooth Loss",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00007": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00001": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00002": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00009": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00000": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00008": {
+    "gt": "Tooth Loss",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00010": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00011": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00012": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00013": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00014": {
+    "gt": "Tooth Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00015": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00016": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00017": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00018": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00019": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00020": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00021": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00022": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00023": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00024": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00025": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00026": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00027": {
+    "gt": "Class III Malocclusion",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00028": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00029": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00031": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00030": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00032": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00033": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00034": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00035": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00036": {
+    "gt": "Tooth Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00038": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00037": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00039": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00040": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00041": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00042": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00043": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00044": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00045": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00046": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00047": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00048": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00049": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00050": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00051": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00052": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00053": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00054": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00055": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00056": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00057": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00058": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00059": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00060": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00062": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00061": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00063": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00064": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00065": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00066": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00067": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00068": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00069": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00070": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00071": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00072": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00073": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00074": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00075": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00076": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00077": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00078": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00079": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00080": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00081": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00082": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00083": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00084": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00085": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00086": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00087": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00088": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00089": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00090": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00091": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00092": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00093": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00094": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00095": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00096": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00097": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00098": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00099": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00100": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00101": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00102": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00103": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00104": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00105": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00106": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00107": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00109": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00108": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00110": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00111": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00112": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00114": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00113": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00115": {
+    "gt": "Tooth Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00116": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00117": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00118": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00119": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00120": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00121": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00122": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00123": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00124": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00125": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00126": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00127": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00128": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00129": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00130": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00131": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00132": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00133": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00134": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00135": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00136": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00137": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00138": {
+    "gt": "Dental Caries",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00139": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00140": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00141": {
+    "gt": "Tooth Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00142": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00143": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00144": {
+    "gt": "Tooth Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00145": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00146": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00147": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00148": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00149": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00150": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00151": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00153": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00152": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00154": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00155": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00159": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00157": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00156": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00158": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00160": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00161": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00163": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00162": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00164": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00165": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00167": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00166": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00169": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00168": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00170": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00171": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00172": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00173": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00175": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00174": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00176": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00177": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00178": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00179": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00180": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00181": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00182": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00184": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00183": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00185": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00187": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00186": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00188": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00189": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00190": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00191": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00192": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00193": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00194": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00195": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00196": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00197": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00198": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00199": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00200": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00201": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00202": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00203": {
+    "gt": "Tooth Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00205": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00204": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00206": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00207": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00208": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00209": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00210": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00211": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00212": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00213": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00214": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00215": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00216": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00217": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00218": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00219": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00222": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00221": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00220": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00223": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00224": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00225": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00226": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00227": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00228": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00229": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00230": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00231": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00232": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00233": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00234": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00235": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00236": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00237": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00238": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00239": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00241": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00240": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00242": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00243": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00245": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00244": {
+    "gt": "Dental Caries",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00247": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00246": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00248": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00249": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00250": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00251": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00252": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00253": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00254": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00255": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00256": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00257": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00258": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00260": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00259": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00261": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00262": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00263": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00265": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00264": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00266": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00268": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00267": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00269": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00270": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00271": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00272": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00273": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00274": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00275": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00276": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00277": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00278": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00279": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00281": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00280": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00283": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00284": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00285": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00286": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00287": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00288": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00290": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00289": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00291": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00292": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00293": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00294": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00295": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00296": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00297": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00298": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00300": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00301": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00302": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00299": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00303": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00304": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00305": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00306": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00307": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00308": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00309": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00310": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00311": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00312": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00313": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00314": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00316": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00317": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00315": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00318": {
+    "gt": "Tooth Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00319": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00320": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00321": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00322": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00323": {
+    "gt": "Tooth Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00324": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00325": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00326": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00327": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00328": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00330": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00329": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00331": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00332": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00333": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00334": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00335": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00336": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00337": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00338": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00339": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00340": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00341": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00342": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00343": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00344": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00345": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00346": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00347": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00348": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00349": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00350": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00351": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00352": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00353": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00354": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00355": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00356": {
+    "gt": "Tooth Loss",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00357": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00358": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00360": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00359": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00361": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00362": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00363": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00364": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00365": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00366": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00367": {
+    "gt": "Tooth Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00368": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00369": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00370": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00371": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00372": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00373": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00374": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00375": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00376": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00377": {
+    "gt": "Tooth Loss",
+    "pred": "Tooth Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00378": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00379": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00380": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00381": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00382": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00383": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00384": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00385": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00386": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00387": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00388": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00389": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00390": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00391": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00392": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00393": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00394": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00395": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00396": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00397": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00398": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00399": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00400": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00402": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00401": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00403": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00404": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00405": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00406": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00407": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00408": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00409": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00411": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00410": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00412": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00413": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00416": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00414": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00415": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00417": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00418": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00420": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00419": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00421": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00422": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00423": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00424": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00425": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00426": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00427": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00428": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00429": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00430": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00431": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00432": {
+    "gt": "Pulpitis",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00433": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00434": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00435": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00436": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00437": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00438": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00439": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00440": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00441": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00442": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00443": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00444": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00445": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00446": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00447": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00448": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00449": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00450": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00451": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00452": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00453": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00454": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00455": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00456": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00457": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00458": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00459": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00460": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00461": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00462": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00463": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00464": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00465": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00466": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00467": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00468": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00469": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00470": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00472": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00471": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00473": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00474": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00475": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00476": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00477": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00478": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00479": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00480": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00481": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00482": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00483": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00484": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00485": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00486": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00487": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00489": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00488": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00490": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00491": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00492": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00493": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00494": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00495": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00496": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00497": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00498": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00499": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00500": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00502": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00501": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00503": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00504": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00505": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00506": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00507": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00508": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00509": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00511": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00510": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00512": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00513": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00514": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00515": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00516": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00517": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00518": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00519": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00520": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00521": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00522": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00523": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00524": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00525": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00526": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00527": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00528": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00529": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00530": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00531": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00533": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00532": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00534": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00535": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00536": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00537": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00538": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00539": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00540": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00541": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00542": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00543": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00544": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00545": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00546": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00547": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00548": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00549": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00550": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00551": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00552": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00553": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00554": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00555": {
+    "gt": "Dental Caries",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00556": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00557": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00558": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00559": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00560": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00561": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00562": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00563": {
+    "gt": "Dental Caries",
+    "pred": "Class III Malocclusion",
+    "correct": 0,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00564": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00566": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00565": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00568": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00567": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00569": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00570": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00571": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00572": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00573": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00574": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00575": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00576": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00577": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00578": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00579": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00580": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00581": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  },
+  "code_cls_00582": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00583": {
+    "gt": "Pulpitis",
+    "pred": "Pulpitis",
+    "correct": 1,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00584": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00585": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00586": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00587": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00588": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00591": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Loss"
+  },
+  "code_cls_00590": {
+    "gt": "Dental Caries",
+    "pred": "Gingivitis",
+    "correct": 0,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00589": {
+    "gt": "Class III Malocclusion",
+    "pred": "Class III Malocclusion",
+    "correct": 1,
+    "raw_prediction": "Class III Malocclusion"
+  },
+  "code_cls_00592": {
+    "gt": "Dental Caries",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00593": {
+    "gt": "Pulpitis",
+    "pred": "Tooth Structure Loss",
+    "correct": 0,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00594": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Tooth Structure Loss",
+    "correct": 1,
+    "raw_prediction": "Tooth Structure Loss"
+  },
+  "code_cls_00595": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00596": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00597": {
+    "gt": "Gingivitis",
+    "pred": "Gingivitis",
+    "correct": 1,
+    "raw_prediction": "Gingivitis"
+  },
+  "code_cls_00598": {
+    "gt": "Dental Caries",
+    "pred": "Pulpitis",
+    "correct": 0,
+    "raw_prediction": "Pulpitis"
+  },
+  "code_cls_00599": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": "Dental Caries"
+  }
+}

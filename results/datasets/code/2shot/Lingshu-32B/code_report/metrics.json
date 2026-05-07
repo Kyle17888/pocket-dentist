@@ -1,0 +1,18 @@
+{
+  "total_samples": 600,
+  "bleu": {
+    "mean": 0.173,
+    "std": 0.052,
+    "median": 0.181
+  },
+  "meteor": {
+    "mean": 0.301,
+    "std": 0.069,
+    "median": 0.298
+  },
+  "cosine_similarity": {
+    "mean": 0.0,
+    "std": 0.0,
+    "median": 0.0
+  }
+}

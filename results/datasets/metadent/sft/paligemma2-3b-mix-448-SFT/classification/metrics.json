@@ -1,0 +1,16 @@
+{
+  "accuracy": 0.184,
+  "f1_weighted": 0.003,
+  "precision_weighted": 0.004,
+  "recall_weighted": 0.002,
+  "total_samples": 261,
+  "per_source": {
+    "": {
+      "count": 261,
+      "precision_weighted": 0.004,
+      "recall_weighted": 0.002,
+      "f1_weighted": 0.003,
+      "accuracy": 0.184
+    }
+  }
+}

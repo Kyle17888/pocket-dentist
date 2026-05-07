@@ -1,0 +1,9 @@
+{
+  "accuracy": 0.194,
+  "f1_weighted": 0.167,
+  "f1_macro": 0.09,
+  "precision_weighted": 0.423,
+  "recall_weighted": 0.194,
+  "total_samples": 31,
+  "unmapped_predictions": 2
+}

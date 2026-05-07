@@ -1,0 +1,1982 @@
+{
+  "code_cls_00007": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00002": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00006": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00009": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00010": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00015": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00016": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00017": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00019": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00020": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00022": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00027": {
+    "gt": "Class III Malocclusion",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00028": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00046": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00048": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00049": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00050": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00053": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00054": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00055": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00056": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00057": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00059": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00061": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00062": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00064": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00065": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00066": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00069": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00067": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00073": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00075": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00076": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00077": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00079": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00080": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00081": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00082": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00083": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00084": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00085": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00086": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00088": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00089": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00092": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00093": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00094": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00095": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00096": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00097": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00098": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00099": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00101": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00102": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00107": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00111": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00114": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00115": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00116": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00117": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00126": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00133": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00134": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00136": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00139": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00140": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00141": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00142": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00143": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00146": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00150": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00151": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00153": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00157": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00158": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00159": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00163": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00164": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00169": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00170": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00171": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00172": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00174": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00175": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00176": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00178": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00180": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00182": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00183": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00184": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00187": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00189": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00190": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00191": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00192": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00193": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00194": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00195": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00199": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00204": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00205": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00206": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00207": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00208": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00209": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00210": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00211": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00212": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00213": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00214": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00215": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00216": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00217": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00222": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00223": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00226": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00227": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00229": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00230": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00231": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00236": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00241": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00245": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00260": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00265": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00268": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00272": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00273": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00283": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00284": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00288": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00292": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00300": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00301": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00302": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00303": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00304": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00305": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00306": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00318": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00319": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00320": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00321": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00330": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00335": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00336": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00337": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00338": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00340": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00344": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00348": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00349": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00350": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00352": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00353": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00355": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00356": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00367": {
+    "gt": "Tooth Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00381": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00382": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00383": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00384": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00386": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00387": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00388": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00389": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00390": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00391": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00392": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00393": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00394": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00395": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00396": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00398": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00399": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00400": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00402": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00403": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00405": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00406": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00408": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00409": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00411": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00412": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00413": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00415": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00416": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00418": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00419": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00420": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00421": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00422": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00423": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00424": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00428": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00431": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00434": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00436": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00437": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00438": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00439": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00440": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00441": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00442": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00444": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00445": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00446": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00447": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00449": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00448": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00450": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00451": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00452": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00453": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00454": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00455": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00456": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00457": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00458": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00460": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00461": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00464": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00462": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00463": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00465": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00466": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00467": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00468": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00469": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00471": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00472": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00473": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00474": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00475": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00476": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00477": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00478": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00479": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00480": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00481": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00482": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00483": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00487": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00488": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00489": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00490": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00491": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00492": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00493": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00495": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00494": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00497": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00496": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00498": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00499": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00500": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00501": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00502": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00503": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00504": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00505": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00506": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00507": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00508": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00509": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00510": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00511": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00512": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00513": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00514": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00515": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00516": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00517": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00518": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00519": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00520": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00521": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00522": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00523": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00524": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00525": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00526": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00527": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00528": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00529": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00530": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00533": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00534": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00535": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00536": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00537": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00538": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00539": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00540": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00541": {
+    "gt": "Gingivitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00543": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00544": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00547": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00548": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00549": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00550": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00551": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00553": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00554": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00557": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00558": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00559": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00560": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00564": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00568": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00569": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00570": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00574": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00575": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00576": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00577": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00578": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00579": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00581": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00583": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00587": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00588": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00590": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00591": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00592": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00593": {
+    "gt": "Pulpitis",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00594": {
+    "gt": "Tooth Structure Loss",
+    "pred": "Dental Caries",
+    "correct": 0,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00595": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00598": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  },
+  "code_cls_00599": {
+    "gt": "Dental Caries",
+    "pred": "Dental Caries",
+    "correct": 1,
+    "raw_prediction": " Dental Caries"
+  }
+}

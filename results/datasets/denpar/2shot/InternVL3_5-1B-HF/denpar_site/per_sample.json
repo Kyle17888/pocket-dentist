@@ -1,0 +1,1202 @@
+{
+  "denpar_site_413": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_156": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_148": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1285": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_504": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_887": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_930": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_474": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_203": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1253": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_896": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_149": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_511": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1144": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_131": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_542": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_244": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_183": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_143": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_184": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_109": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_100": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_984": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_643": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_716": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1140": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1059": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_975": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1048": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_389": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_177": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_946": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_993": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_580": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_583": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_134": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_365": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_495": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_854": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_298": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_567": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_74": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_885": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1027": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1221": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_286": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_108": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_240": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_394": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1042": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_468": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_258": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1007": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_150": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_633": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_549": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_337": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1201": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1112": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_22": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_270": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_544": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_201": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_657": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_152": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_764": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1141": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_87": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_630": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1177": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_18": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_167": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_611": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_786": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_472": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_641": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_884": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_852": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_859": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_666": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_125": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1065": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_54": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1137": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1231": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_938": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_266": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_675": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_907": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_231": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_804": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_139": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1071": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_890": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_430": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_106": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_441": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1223": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_358": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_590": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1088": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_138": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_913": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_715": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_233": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_340": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_35": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_338": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_539": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_976": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_892": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1278": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_51": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1078": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_973": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_431": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_998": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_677": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1194": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_485": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_5": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_68": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1079": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_782": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_107": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_756": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1224": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_797": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_613": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_893": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_473": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_521": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_682": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_811": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_190": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_810": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1082": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_624": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_904": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_570": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_178": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_531": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_483": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1271": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_915": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_103": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_622": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_372": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_881": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_695": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_851": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_281": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_545": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_327": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_166": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_245": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_663": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_459": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_269": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_988": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_808": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_784": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_301": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_537": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_558": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1036": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_530": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_799": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_769": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1086": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_736": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_944": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_228": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_961": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1121": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1251": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_448": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_44": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_687": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_81": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1227": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_469": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1258": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_411": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1084": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1064": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1211": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_947": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_458": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1242": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1113": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1229": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_361": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1241": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_163": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1098": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_757": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_168": {
+    "gt": "Right",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  },
+  "denpar_site_1000": {
+    "gt": "Anterior",
+    "pred": "Left",
+    "correct": 0,
+    "raw_prediction": "Left"
+  }
+}

@@ -1,0 +1,30 @@
+# COde Pipeline Global Configuration
+# ===================================
+# COde dataset evaluation pipeline.
+# Tasks: 6-class single-label classification + diagnostic report generation
+
+data:
+  # Image root directory (JSONL image paths are relative to this)
+  image_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output"
+  test_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/test.jsonl"
+  train_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output/train.jsonl"
+
+inference:
+  max_new_tokens: 1024      # Enough for diagnostic reports
+  temperature: 0.0          # Deterministic output
+  seed: 42
+
+output_dir: "kyle-paper/benchmark-code"
+
+# API model configurations
+api_models:
+  gpt-4o-mini:
+    served_model_name: "gpt-4o-mini"
+    pricing:
+      input_per_1m: 0.150
+      output_per_1m: 0.600
+  gemini-2.5-flash:
+    served_model_name: "gemini-2.5-flash"
+    pricing:
+      input_per_1m: 0.300
+      output_per_1m: 2.500

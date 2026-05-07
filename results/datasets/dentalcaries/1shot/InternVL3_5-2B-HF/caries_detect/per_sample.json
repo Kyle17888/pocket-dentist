@@ -1,0 +1,3770 @@
+{
+  "caries_test_00000": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00010": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00009": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00006": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00002": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00011": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00004": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00003": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00012": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00007": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00008": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00005": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00013": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00015": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00016": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00014": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00017": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00020": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00019": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00018": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00021": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00022": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00023": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00024": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00026": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00029": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00025": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00031": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00028": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00027": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00030": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00032": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00034": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00035": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00033": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00037": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00038": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00036": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00040": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00042": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00039": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00041": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00045": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00044": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00047": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00046": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00043": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00050": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00049": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00048": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00052": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00051": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00054": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00053": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00055": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00057": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00056": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00059": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00058": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00061": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00062": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00064": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00063": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00060": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00067": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00065": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00066": {
+    "gt": "Yes",
+    "pred": "No",
+    "correct": 0,
+    "raw_prediction": "No"
+  },
+  "caries_test_00068": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00070": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00069": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00071": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00073": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00072": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00078": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00077": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00076": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00075": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00082": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00081": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00079": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00080": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00086": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00083": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00085": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00084": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00088": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00091": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00087": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00089": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00092": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00093": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00094": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00090": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00095": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00097": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00096": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00098": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00100": {
+    "gt": "Yes",
+    "pred": "No",
+    "correct": 0,
+    "raw_prediction": "No"
+  },
+  "caries_test_00102": {
+    "gt": "Yes",
+    "pred": "No",
+    "correct": 0,
+    "raw_prediction": "No"
+  },
+  "caries_test_00101": {
+    "gt": "Yes",
+    "pred": "No",
+    "correct": 0,
+    "raw_prediction": "No"
+  },
+  "caries_test_00099": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00105": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00104": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00103": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00108": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00106": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00107": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00109": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00112": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00110": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00111": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00116": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00115": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00113": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00118": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00114": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00119": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00121": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00117": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00122": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00120": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00123": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00125": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00127": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00124": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00126": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00128": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00129": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00131": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00130": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00132": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00133": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00134": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00138": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00136": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00137": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00135": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00139": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00140": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00141": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00144": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00143": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00142": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00146": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00145": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00148": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00147": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00149": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00151": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00152": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00153": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00155": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00150": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00156": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00157": {
+    "gt": "Yes",
+    "pred": "No",
+    "correct": 0,
+    "raw_prediction": "No"
+  },
+  "caries_test_00154": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00159": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00158": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00160": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00162": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00161": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00163": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00165": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00164": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00166": {
+    "gt": "Yes",
+    "pred": "No",
+    "correct": 0,
+    "raw_prediction": "No"
+  },
+  "caries_test_00168": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00170": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00167": {
+    "gt": "Yes",
+    "pred": "No",
+    "correct": 0,
+    "raw_prediction": "No"
+  },
+  "caries_test_00171": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00172": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00176": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00169": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00173": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00174": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00177": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00178": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00175": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00181": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00180": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00179": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00183": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00182": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00184": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00187": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00186": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00185": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00188": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00190": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00191": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00189": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00195": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00192": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00198": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00193": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00194": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00196": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00201": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00197": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00200": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00204": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00199": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00202": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00203": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00205": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00207": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00206": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00208": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00209": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00211": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00210": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00213": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00214": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00212": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00218": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00216": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00217": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00215": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00221": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00219": {
+    "gt": "Yes",
+    "pred": "No",
+    "correct": 0,
+    "raw_prediction": "No"
+  },
+  "caries_test_00220": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00222": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00223": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00227": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00224": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00225": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes."
+  },
+  "caries_test_00226": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00230": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00228": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes."
+  },
+  "caries_test_00229": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00235": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00234": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00232": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No."
+  },
+  "caries_test_00236": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00231": {
+    "gt": "Yes",
+    "pred": "Yes",
+    "correct": 1,
+    "raw_prediction": "Yes."
+  },
+  "caries_test_00233": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00237": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00238": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00239": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00240": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00241": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00244": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00243": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00242": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00246": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00247": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00245": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00249": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00251": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00250": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00248": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00252": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00253": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00254": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00255": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00256": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00257": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00258": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00259": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00260": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00261": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00262": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00263": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00264": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00265": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00266": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00267": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00268": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00269": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00270": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00271": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00272": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00273": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00275": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00276": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00277": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00278": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00279": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00280": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00281": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00282": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00283": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00284": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00285": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00286": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00287": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00288": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00289": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00290": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00291": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes."
+  },
+  "caries_test_00293": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00294": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00295": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00296": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00297": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00298": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00299": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00300": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00301": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00302": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00303": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00304": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00305": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00306": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00307": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00308": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00309": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00310": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00311": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00312": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00313": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00314": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00315": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00316": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00317": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00318": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00319": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00321": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00320": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00322": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00323": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00324": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00325": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00326": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00327": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00328": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00329": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00330": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00331": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00332": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00333": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00334": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00335": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00336": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00337": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00338": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00339": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00340": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00341": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00342": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00343": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00344": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00346": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00347": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00345": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00348": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00350": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00351": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00352": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00353": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00354": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00355": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00356": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00357": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00358": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00359": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00360": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00361": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00362": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00363": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00364": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00365": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00367": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00368": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00369": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00370": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00371": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00372": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00373": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00374": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00375": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00376": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00377": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00378": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00379": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00380": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00381": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00382": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00383": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00384": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00385": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00386": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00387": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00388": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00389": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00390": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00391": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00392": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00393": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00394": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00395": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00396": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00397": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00398": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00399": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00400": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00401": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00402": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00403": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00404": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00405": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00406": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00407": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00408": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00409": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00410": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00411": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00412": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00413": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00414": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00415": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00416": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00417": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00418": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00419": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00420": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00421": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00422": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00423": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00425": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00426": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00427": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00428": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00429": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00430": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00431": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00433": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00432": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00434": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00435": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00436": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00437": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00438": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00439": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00440": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00441": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00443": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00444": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00442": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00445": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00446": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00447": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00448": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00449": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00451": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00450": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00453": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00454": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00452": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00455": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00456": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00457": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00458": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00459": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00460": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00461": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00462": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00466": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00463": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00464": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00465": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00467": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00468": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00469": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00470": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00471": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00473": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00472": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00475": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00476": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00474": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00477": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00478": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00479": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00480": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00482": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00483": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00484": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00485": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00486": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00487": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00488": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00489": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00491": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00490": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00492": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00493": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00495": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00494": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00496": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00497": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00498": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00499": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00501": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00502": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00503": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00504": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00505": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00506": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00507": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00509": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00511": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00510": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00508": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00512": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00513": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00514": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00515": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00517": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00516": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00519": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00518": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00520": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00521": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00522": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00523": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00001": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No{\"sentence_boundary_start_token\":[\"\"],\"sentence_boundary_end_token\":[\"]}Türkiyeşırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırır"
+  },
+  "caries_test_00526": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00525": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00524": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00528": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00527": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00529": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00074": {
+    "gt": "Yes",
+    "pred": "No",
+    "correct": 0,
+    "raw_prediction": "Noın açıklama kısmı için kullanılırız:\n\nİşte gözükürük veya kırmızılığı gözümük gibi diğer diğer gözükürük veya kırmızılığı gözümük gibi diğer gözükürük veya kırmızılığı gözümük gibi diğer gözükürük veya kırmızılığı gözümük gibi diğer gözükürük veya kırmızılığı gözümük gibi diğer gözükürük veya kırm"
+  },
+  "caries_test_00530": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00533": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00531": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00534": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00532": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00535": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00536": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00537": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00540": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00538": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00539": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00541": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00543": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00542": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00544": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00546": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00548": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00547": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00549": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00550": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00551": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00552": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00553": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00554": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00555": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes."
+  },
+  "caries_test_00556": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00557": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00558": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00559": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00560": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00561": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00562": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00563": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00564": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00565": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00566": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00567": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00568": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00569": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00570": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00571": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00572": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00573": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00575": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00574": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00576": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00578": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00577": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00579": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00580": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes."
+  },
+  "caries_test_00583": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00581": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00582": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00584": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00585": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00586": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00587": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00588": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00589": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00591": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00594": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00593": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes."
+  },
+  "caries_test_00595": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00596": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00597": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00599": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00598": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes."
+  },
+  "caries_test_00600": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00601": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00602": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00603": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00604": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00605": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes."
+  },
+  "caries_test_00606": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00608": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00607": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00609": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00610": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00612": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00611": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00613": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00614": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00615": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00616": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00617": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00618": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00619": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00620": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00621": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00622": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00623": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "No"
+  },
+  "caries_test_00625": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00624": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Yes"
+  },
+  "caries_test_00274": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "Noın ÖzetişleriŞişırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırır"
+  },
+  "caries_test_00292": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Nooutcome:boolean>true,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:fal"
+  },
+  "caries_test_00349": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "Noın Özetişşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşş"
+  },
+  "caries_test_00366": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "Noın Özetişşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşş"
+  },
+  "caries_test_00424": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Nooutcome:boolean>true,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:fal"
+  },
+  "caries_test_00481": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Nooutcome:boolean>true,No:boolean:false,Yes:boolean:false,No:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:fals"
+  },
+  "caries_test_00500": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "Noın ÖzetişleriŞişırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırır"
+  },
+  "caries_test_00545": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "Noın Özetişşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşş"
+  },
+  "caries_test_00590": {
+    "gt": "No",
+    "pred": "Yes",
+    "correct": 0,
+    "raw_prediction": "Nooutcome:boolean>true,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:false,No:boolean:false,Yes:boolean:fal"
+  },
+  "caries_test_00592": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "Noın Özetiİşlem SüreciŞüküküzümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümürümü"
+  },
+  "caries_test_00626": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "NoQUESTION WRITE SAME HEADER THEN WRITE ANSWERING SECTION BELOW NAME THE SPECIFIC TYPE OF DECAY FOUND USING BINORMAL DIAGRAM METHODOLOGY WHEN FIND SPECIFIC TYPE WRITE HOW MANY MILLIMETERS ABOVE ROAD LINE USING BINORMAL DIAGRAM METHODOLOGY THEN WRITE THE LEVEL USING BINORMAL DIAGRAM METHODOLOGY CLASS"
+  },
+  "caries_test_00627": {
+    "gt": "No",
+    "pred": "No",
+    "correct": 1,
+    "raw_prediction": "Noın açıklama kısmı şu şekildedir:\n\nİşte konuya daha uzlaşmış bir açıklama sağlıyoruz:\n\nŞükürümürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürürü"
+  }
+}

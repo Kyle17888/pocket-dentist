@@ -1,0 +1,12 @@
+# vLLM config for MedMO-8B-Next (BRAR baseline)
+# Copied from: configs/metadent/llms/MedMO-8B-Next/vllm.yaml
+
+CUDA_VISIBLE_DEVICES: '0'
+model: MBZUAI/MedMO-8B-Next
+served_model_name: "MedMO-8B-Next"
+port: 8002
+trust_remote_code: true
+max_model_len: 16384
+gpu_memory_utilization: 0.9
+max_num_seqs: 16
+seed: 42

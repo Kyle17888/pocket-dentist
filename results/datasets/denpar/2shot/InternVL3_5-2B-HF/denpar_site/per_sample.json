@@ -1,0 +1,1202 @@
+{
+  "denpar_site_474": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n确定这张口腔颌面全景片（IOD）捕获的解剖区域。\n\n类别：\n- Anterior: incisors and canines — 狭窄的牙齿，只有一个根管，牙齿形态狭窄。\n- Left: 牙龈腭弓牙齿颊侧牙龈腭弓牙齿颊侧牙龈腭弓牙齿颊侧牙"
+  },
+  "denpar_site_887": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightDisclaimer:Limited-time AI assistant. Opinion/action-based questions/preferences/rendered are MACHINE GENERATED AND INTENDED FOR INFORMATION PURPOSE ONLY. NOT SUBSTITUTE FOR PERSONAL MEDICAL CONS"
+  },
+  "denpar_site_148": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_413": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"Evidence:\", \"\"\n\n\"Detailed Instructions:\", \"\")]\n\n\n\n\"The tooth morphology:\"\n\"The tooth morphology:\"\n\"The tooth morphology:\"\n\"The tooth morphology:\"\n\"The toot"
+  },
+  "denpar_site_1285": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightDisclaimer:Limited-time AI assistant. Opinion/action-based questions/preferences/rendered are MACHINE GENERATED AND INTENDED FOR EDUCATIONAL PURPOSE ONLY. NOT SUBSTITUTE FOR PERSONAL MEDICAL CONS"
+  },
+  "denpar_site_156": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_504": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Answer: Right\n                                                                                                                                              "
+  },
+  "denpar_site_930": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_203": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Thought]The teeth in the radiograph are posterior teeth, premolars and molars, with tooth pulp chambers and roots that are wider and longer. Tooth enamel thickness and pulp chamber/ape"
+  },
+  "denpar_site_896": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_511": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user:this dental image is an intraoral periapical radiograph.what is the anatomical region,this dental image is an intraoral periapical radiograph.what is the anat"
+  },
+  "denpar_site_1253": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"Evidence:\", \"\"\n\n\"Detailed Instructions:\", \"\")]\n\n\n\n\"The tooth morphology, tooth sequence, and anatomical landmarks such as dental arch curvature and tooth m"
+  },
+  "denpar_site_1144": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n请你帮我做个牙齿影像分析。这是一项口腔颌面外科专科医师资格考试笔试真题,\n\n\n\n\"\"\"\n\n\n好的，请帮我做个牙齿影像分析。\n\n\n\n\n\n\n\n\n\n\n\"\"\n我现在看到了一张牙齿的牙周膜龈片影像,\n\n\n\n\"\"\"\n\n\n我现在看到了一张牙齿牙龈影像。"
+  },
+  "denpar_site_149": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_131": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_542": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "AnteriorTürkiyeŞırınırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırır"
+  },
+  "denpar_site_244": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs\"]\n\n\n\n\n\n\n.output\n:[\"Right\"]\n.output\n\n\n\"Intraoral periapical radiographs\"]\n\n\n\n\n\n\n.output\n:[\"Right\"]\n.output\n\n\n\"Intraoral pe"
+  },
+  "denpar_site_143": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Righ"
+  },
+  "denpar_site_183": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_184": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_109": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_100": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:\"\"\"\nDemonstratează înțelesul pentru acest caz și să înceată să fie înțeleată pentru căți să îți să îți să îți să îți să îți să îți să îți să îți să îți să îți să îți să îți să îți să îț"
+  },
+  "denpar_site_984": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_643": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_716": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:\"\"\"\n\"Determine the anatomical region of this periapical radiograph.\"\n\nCategories:\n- Anterior: incisors and canines — narrow, single-rooted teeth with incisal edges.\n- Left: posterior te"
+  },
+  "denpar_site_1059": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_975": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightDisclaimer:Limited-time AI assistant. Opinion/action-based questions/preferences/rendered are MACHINE GENERATED AND INTENDED FOR INFORMATION PURPOSE ONLY. NOT SUBSTITUTE FOR PERSONAL MEDICAL CONS"
+  },
+  "denpar_site_1140": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs\"]\n\n\n\n\n\n\n.output\nRight\n\n\noutput: Right\ncontext: [\"categories\",\"categories\",\"categories\",\"categories\",\"categories\",\"categor"
+  },
+  "denpar_site_1048": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_389": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n]\n\n\n\n\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\ncaretaker\n\n\n\n\ncaretaker\n\n\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\ncaretaker\n\n\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\ncaretaker\n\n\n"
+  },
+  "denpar_site_177": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_946": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Righ"
+  },
+  "denpar_site_993": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_580": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_583": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "Rightướngไปที่หน้าร่างด้านม้าสุนัขโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอิงตัวโดยอ"
+  },
+  "denpar_site_134": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_365": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_495": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_854": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_885": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightDisclaimer:Limited-time AI assistant. Opinion/action-based queries will be attempted. Scientific/disclaimer-based queries/results/output/question/values/concepts/prompts/errors/report/discussion/"
+  },
+  "denpar_site_74": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_567": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_298": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user:this dental image is an oro-anthro-maxillary cephalometric radiograph.it is intraoral.applied Buccolingual Kilovoltage.For this cephalometric dentition.it is "
+  },
+  "denpar_site_1027": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_1221": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_286": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"Evidence:\", \"\"\n\n\"Detailed Instructions:\", \"\")]\n\n\n\n\"The tooth morphology, tooth sequence, and anatomical context are:\",\n\"If tooth morphology ...\"\n\n\"The anat"
+  },
+  "denpar_site_108": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n请你帮我做个牙齿影像分析。这是一项口腔颌面外科专科医师资格考试笔试真题,\n\n\n\n\"\"\"\n\n\n好的，请帮我翻译:\n\n\n\n\"\"\"\n\n\n好的，请帮我翻译:\n\n\n\n\"\"\"\n\n\n好的，请帮我翻译:\n\n\n\n\"\"\"\n\n\n好的，请帮我翻译:\n\n\n\n\"\"\""
+  },
+  "denpar_site_1042": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"Evidence:\", \"}\"],\"observation_type\":{\"category\":\"category_map_category_map_category_map_category\"},\"observation_category_map_category_map_category_map_cate"
+  },
+  "denpar_site_394": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct scan ct_np.png\n    \nTASK: Detect pneumonia\n    \nCONTEXT: Ct_np.png is a ct_np.png\n    \nCATEGORY DETAILS: Chest\n    \nCATEGORY LEVEL ERRO"
+  },
+  "denpar_site_240": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs\"]\n\nExplanation: Tooth morphology, tooth sequence, and dental arch curvature are examined. Teeth are posterior teeth, prem"
+  },
+  "denpar_site_468": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"For tooth morphology, canal/root canal filling/restoration/appearance/selective dentistry/referrals/history/control/pre-operative/post-operative/periapical"
+  },
+  "denpar_site_258": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_150": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_1007": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs\"]\n\n\n\n\n\n\n.output\nRight\n\n\noutput: Right\ncontext: [\"categories\",\"categories\",\"categories\",\"categories\",\"categories\",\"categor"
+  },
+  "denpar_site_633": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_337": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs\"]\n\n\n\n\n\n\n.output\n:[\"Right\"]\n.output\n\n\n\"Intraoral periapical radiographs\"]\n\n\n\n\n\n\n.output\n:[\"Right\"]\n.output\n\n\n\"Intraoral pe"
+  },
+  "denpar_site_549": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_1201": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_1112": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"Evidence:\", \"\"\n\n\"Detailed Instructions:\", \"\")}]}}]\")\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\""
+  },
+  "denpar_site_22": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_270": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct"
+  },
+  "denpar_site_544": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n请你帮我做个牙龈疾病的诊断好吗？\n\n我现在每天都想去健身房撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸撸"
+  },
+  "denpar_site_201": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_657": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:\"\"\"\n\"Determine the anatomical region of this periapical radiograph.\"\n\nCategories:\n- Anterior: incisors and canines — narrow, single-rooted teeth with incisal edges.\n- Left: posterior te"
+  },
+  "denpar_site_152": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_764": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n确定这张牙龈periapical口腔放射照片捕获的解剖区域。\n\n类别：\n- Anterior: incisors and canines —狭窄的牙齿，只有一个根部，牙齿形态狭窄。\n- Left:患者颌骨牙齿序列的颊侧牙齿(premons"
+  },
+  "denpar_site_1141": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"Evidence:\", \"\"\n\n\"Determine the anatomical region of this periapical radiograph.\",\"answer\":\"\"Evidence:\"\", \"\"\n\n\"Determine the anatomical region of this peria"
+  },
+  "denpar_site_87": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_18": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_1177": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Reply #\n|[-------|# -------|# -------|\n|[Question]|[Describe occlusal morphology]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n"
+  },
+  "denpar_site_630": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_167": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:\"\"\"\nDetermine the anatomical region of this periapical radiograph.\n\nCategories:\n- Anterior: incisors and canines — narrow, single-rooted teeth with incisal edges.\n- Left: posterior teet"
+  },
+  "denpar_site_611": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "Right: posterior teeth(from the patient´s anatomical rtgd rdgd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd"
+  },
+  "denpar_site_1": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_786": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "Right: posterior teeth(from the patient´s anatomical rtgd rdgd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd"
+  },
+  "denpar_site_472": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n确定这张牙龈periapical口腔放射照片捕获的解剖区域。\n\n类别：\n- Anterior: incisors and canines —狭窄的牙齿，只有一个根部，牙齿末端呈锯齿状。\n- Left:患者颌骨左侧牙齿臼齿(premonsu"
+  },
+  "denpar_site_884": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_641": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_852": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_859": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n#{prompt:'category':'category_names'}\n\n#{category_names:[\"Anterior\",\"Left\",\"Right\"],\"messages\":[{\"role\":\"system\",\"content\":\"\"},{\"role\":\"assist"
+  },
+  "denpar_site_666": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_125": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Thought]The teeth in the radiograph are posterior teeth, as they are premolars/arabic molars, and the tooth sequence/order/rules/rules/rules/rules/rules/rules/rules/rules/rules/rules/r"
+  },
+  "denpar_site_1065": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_1231": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Observation/# Reply|\n|--|--|\n|[Question]牙齿龋坏了吗？牙齿龋坏了吗？牙齿龋坏了吗？|[Reply]|\n\n\nAnswer: []\n\n\n\n    \n    \n\n    \n    \n\n    \n    \n\n    \n   "
+  },
+  "denpar_site_54": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs\"]\n\nExplanation: Tooth morphology, tooth sequence, and dental arch curvature are examined. Teeth are posterior teeth, prem"
+  },
+  "denpar_site_938": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Thought]The teeth in the radiograph are posterior teeth, premolars and molars, with pulp chambers and roots, and toothpaste/fluids trapped in dentinosuspensions/aperture dentinosuspens"
+  },
+  "denpar_site_1137": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user:this dental radiograph is an intraoral periapical radiograph.What is the anatomical region this dental radiograph is?\n\nCategories:\nMesiodental: Teeth with cus"
+  },
+  "denpar_site_266": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_675": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"Evidence:\", \"\"\n\n\"Detailed Instructions:\", \"\")]\n\n\n\n\"The tooth morphology, tooth sequence, and anatomical context are:\",\n\"If tooth morphology ...\"\n\n\"The anat"
+  },
+  "denpar_site_907": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Righ"
+  },
+  "denpar_site_231": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_804": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "Right: posterior teeth(from the patient´s anatomical rtgd rdgd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd"
+  },
+  "denpar_site_139": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs\"]\n\n\n\n\n\n\n.output\n:[\"Right\"]\n.output\n\n\n\"Intraoral periapical radiographs\"]\n\n\n\n\n\n\n.output\n:[\"Right\"]\n.output\n\n\n\"Intraoral pe"
+  },
+  "denpar_site_1071": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "Right: posterior teeth(from the patient´s anatomical rtgd rdgd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd"
+  },
+  "denpar_site_890": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Thought]The teeth in the radiograph are posterior teeth, premolars/arbitrary molars, with pulp chambers and root canals. Tooth morphology and tooth-root-root-root-root-root-root-root-r"
+  },
+  "denpar_site_430": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightDisclaimer:I apologize, but I cannot determine the anatomical region of this periapical radiograph. Tooth morphology and anatomical landmarks are insufficient for conclusively determining whether"
+  },
+  "denpar_site_106": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:Limited Teeth Detected;multiple-root,reservoir,reservoir,reservoir,reservoir,reservoir,reservoir,reservoir,reservoir,reservoir,reservoir,reservoir,reservoir,reservoir,reservoir,reservoi"
+  },
+  "denpar_site_441": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese:[\"Anterior\",\"Left\",\"Right\"]\"]أضف إلى الاتجاهات المطلوبة أو أضف إلى الاتجاهات المطلوبة أو أضف إلى الاتجاهات المطلوبة أو أضف إلى الات"
+  },
+  "denpar_site_1223": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs can image teeth and gums,腭腔,pseudo-rootés,resultados preliminares,enunciados escritos,resistencia física,resistencia físi"
+  },
+  "denpar_site_590": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_358": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"Evidence:\", \"}\"],\"observation_type\":{\"category\":\"CATEGORY_NAME\",\"difficulty\":\"NORMAL\",\"subcategory\":\"CATEGORY_NAME\",\"subcategory_description\":\"\",\"category_"
+  },
+  "denpar_site_1088": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_138": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_715": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Answer: Right\"})]]]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_233": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_340": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightDisclaimer:Limited-time AI assistant. Opinion/action-based questions/preferences/assertions cannot be addressed.✕Reply: Right✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕"
+  },
+  "denpar_site_913": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "AnteriorTürkiyeŞırınırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırırır"
+  },
+  "denpar_site_338": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_35": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_539": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n#{prompt:'category':'category_names'}\n\n#{category_names:[\"Anterior\",\"Left\",\"Right\"],\"messages\":[{\"role\":\"system\",\"content\":\"\"},{\"role\":\"assist"
+  },
+  "denpar_site_976": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_892": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Righ"
+  },
+  "denpar_site_1278": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Answer: Right\"})]]]]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_51": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user:this dental image is an intraoral periapical radiograph.what is the anatomical region,this dental image is an intraoral periapical radiograph.what is the anat"
+  },
+  "denpar_site_1078": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:\"\"\"\n\"Determine the anatomical region of this periapical radiograph.\"\n\nCategories:\n- Anterior: incisors and canines — narrow, single-rooted teeth with incisal edges.\n- Left: posterior te"
+  },
+  "denpar_site_973": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightDisclaimer:Limited-time AI assistant. Opinion/action/opportunity/tendency/expansion/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit"
+  },
+  "denpar_site_431": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_998": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Thought]The teeth in the radiograph are posterior teeth, as they are premolars/arcsolars/jawners/root-canines/root-mschers/root-mschers/root-mschers/root-mschers/root-mschers/root-msch"
+  },
+  "denpar_site_677": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct_scan_report_template_page_content_paragraph_two_paragraph_two_page_two_page_two_page_two_page_two_page_two_page_two_page_two_page_two_p"
+  },
+  "denpar_site_1194": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_485": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_5": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"Evidence:\", \"}\"],\"observation_type\":{\"category\":\"CATEGORY_NAME\",\"difficulty\":\"NORMAL\",\"subcategory\":\"CATEGORY DIFFERING ATTRIBUTE GROUP \",\"difficulty_level"
+  },
+  "denpar_site_1079": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs\"]\n\nuser\n\n\nProvide a clinically-significant pathology/findings/findings/findings/findings/significance/significance/signif"
+  },
+  "denpar_site_68": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs can image teeth and gums,腭腔,pseudo-rootés,resultados adicionais podem estar disponíveis quando outras técnicas são utiliz"
+  },
+  "denpar_site_782": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct scan ct_np.png\n    \nTASK DETAILS INPUT FORMAT TYPE INPUT DETAILS INPUT FORMAT TYPE INPUT DETAILS FORMAT EXAMPLE IMAGE EXAMPLE IMAGE FOR"
+  },
+  "denpar_site_107": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_756": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightDisclaimer:Limited-time AI assistant. Opinion/action-based queries cannot be fulfilled.Disclaimer:Limited-time AI assistant. Opinion/action-based queries cannot be fulfilled.The correct answer is"
+  },
+  "denpar_site_1224": {
+    "gt": "Left",
+    "pred": "Left",
+    "correct": 1,
+    "raw_prediction": "RightDisclaimer:Limited-time AI assistant. Opinion/action-based queries will not surpass licensed clinicians.Qualifications/noteworthy achievements/left/right/recommend/noteworthy achievements/left/ri"
+  },
+  "denpar_site_797": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_613": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "Right: posterior teeth(from the patient´s anatomical rtgd rdgd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd"
+  },
+  "denpar_site_893": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Thought]The teeth in the radiograph are posterior teeth, premolars and molars, with pulp chambers and root canals. Tooth morphology and tooth-root-root-root-root-root-root-root-root-ro"
+  },
+  "denpar_site_473": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_521": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese:[\"Anterior\",\"Left\",\"Right\"]\"]أضف إلى الاتجاهات المعرفية الجديدة أو المعرفة الجديدة التي يقدمها السيركوريكيلين؟ يقدم السيركوريكيلين "
+  },
+  "denpar_site_811": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Answer: Right\"})]]]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_682": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_190": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_810": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_624": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_1082": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct"
+  },
+  "denpar_site_904": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:Determine the anatomical region of this periapical radiograph.The tooth morphology, tooth sequence, and anatomical context are examined.Here, teeth morphology are jaws jaws jaws jaws ja"
+  },
+  "denpar_site_178": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_570": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_531": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n确定这张牙龈periapical口腔放射照片捕获的解剖区域。\n\n类别：\n- Anterior: incisors and canines —狭窄的牙齿，只有一个根部，牙齿形态狭窄。\n- Left:患者颌骨牙齿（臼齿/premolars）从"
+  },
+  "denpar_site_483": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Answer: Right\"})]]]]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_1271": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese:[\"Anterior\",\"Left\",\"Right\"]\"]أضف إلى الاتجاهات المعرفية الجديدة أو المعرفة الجديدة التي يقدمها السيركوريكيلين؟ يقدم السيركوريكيلين "
+  },
+  "denpar_site_915": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_103": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct scan ct_np.png\n    \nTASK DETAILS INPUT FORMAT TYPE INPUT DETAILS INPUT FORMAT TYPE INPUT DETAILS FORMAT EXAMPLE IMAGE EXAMPLE IMAGE FOR"
+  },
+  "denpar_site_622": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_372": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_881": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_695": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_851": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nEvaluate the dental radiograph and classify the teeth龋蚀(corrosion/removing enamel/concerns) status.Whitelist the following options:Treated,Treated&Warranted,M"
+  },
+  "denpar_site_281": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_545": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n}}}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_327": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct"
+  },
+  "denpar_site_166": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n#{prompt:'category':'category_names'}\n\n#{category_names:[\"Anterior\",\"Left\",\"Right\"],\"messages\":[{\"role\":\"system\",\"content\":\"\"},{\"role\":\"assist"
+  },
+  "denpar_site_245": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_459": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_663": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs\"]\n\nExplanation: Tooth morphology, tooth sequence, and anatomical context are examined. Teeth morphology: Teeth morphology"
+  },
+  "denpar_site_269": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_988": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n确定这张牙龈periapical口腔放射照片捕获的解剖区域。\n\n类别：\n- Anterior: incisors and canines —狭窄的牙齿，只有一个根部，牙齿末端呈锯齿状。\n- Left:患者颌骨左侧牙齿臼齿(premonsu"
+  },
+  "denpar_site_808": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "Anterior特别声明:]不允许擅自更改代码！请勿修改！[/LastErrorErrorMessage] [/ErrorMsg][/ErrorMsgStackTrace][/ErrorMsgStackTraceLastErrorErrorMessage][/ErrorMsgStackTraceLastErrorErrorMessageStackTrace][/ErrorMsgStackTrace"
+  },
+  "denpar_site_301": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_784": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user:id:xvxwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwjwj"
+  },
+  "denpar_site_537": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightDisclaimer:Limited-time AI assistant. Opinion/action/opportunity/tendency/expansion/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit/exploit"
+  },
+  "denpar_site_558": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_1036": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"Evidence:\", \"\"\n\n\"Detailed Instructions:\", \"\")}]}}]\")\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\"])\""
+  },
+  "denpar_site_530": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_799": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Answer: Right\n                                                                                                                                              "
+  },
+  "denpar_site_1086": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_736": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_769": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_944": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n请你帮我做个牙齿影像分析。这是一项口腔颌面外科专科医师资格考试笔试真题,\n\n\n\n\"\"\"\n\n\n好的，请帮我翻译:\n\n\n\n\"\"\"\n\n\n好的，请帮我翻译:\n\n\n\n\"\"\"\n\n\n好的，请帮我翻译:\n\n\n\n\"\"\"\n\n\n好的，请帮我翻译:\n\n\n\n\"\"\""
+  },
+  "denpar_site_228": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Answer: Right\"})!]}}]\")])])])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]\"]))])]"
+  },
+  "denpar_site_961": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_1121": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Answer: Right\"})]]]]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_1251": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct rxvt wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb wb w"
+  },
+  "denpar_site_448": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Righ"
+  },
+  "denpar_site_44": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_687": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n确定这张牙龈periapical口腔放射照片捕获的解剖区域。\n\n类别：\n- Anterior: incisors and canines —狭窄的牙齿，只有一个根部，牙齿末端呈锯齿状。\n- Left:患者颌骨左侧牙齿臼齿(premonsu"
+  },
+  "denpar_site_81": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_1227": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_469": {
+    "gt": "Right",
+    "pred": "Right",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user\nProvide a pneumonia ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct qxrx ct"
+  },
+  "denpar_site_1258": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\"Evidence:\", \"}\"],\"observation_type\":{\"category\":\"category_map_category_map_category_map_category\"}}]}\"Evidence:[{}]\"],\"observation_type\":{\"category\":\"categ"
+  },
+  "denpar_site_411": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs can image teeth and gums,腭腔,pseudo-rootés,resultados,posición,posición,posición,posición,posición,posición,posición,posic"
+  },
+  "denpar_site_1064": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "Anterior../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../"
+  },
+  "denpar_site_1084": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user:this dental image is an oro-anthro-maxillary cephalometric radiograph.it is intraoral.applied alginate dams.intraoral.applied alginate dams.intraoral.applied "
+  },
+  "denpar_site_1211": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_947": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Answer: Right\"})]]]]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_458": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_1242": {
+    "gt": "Left",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Right\n\nAssistant: Righ"
+  },
+  "denpar_site_1113": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n确定这张牙龈periapical口腔放射照片捕获的解剖区域。\n\n类别：\n- Anterior: incisors and canines —狭窄的牙齿，只有一个根部，牙齿末端呈锯齿状。\n- Left:患者颌骨左侧牙齿臼齿(premonsu"
+  },
+  "denpar_site_1229": {
+    "gt": "Anterior",
+    "pred": "Anterior",
+    "correct": 1,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\n\n\n\"Intraoral periapical radiographs\"]\n\n\n\n\n\n\n.output\nRight\n\n\noutput: Right\nQUESTION: Which teeth are fractured?\nOPTIONS:\n- Tooth #\n ANSWER: Tooth #\nQUESTION: "
+  },
+  "denpar_site_361": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[Final Answer] Right\n:user:this dental image is an intraoral periapical radiograph.what is the anatomical region,this dental image is an intraoral periapical radiograph.what is the anat"
+  },
+  "denpar_site_1241": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n|# Question|# Answer|# Explanation|#\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n"
+  },
+  "denpar_site_163": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_1098": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]Please answer in chinese :\"\n\n\n\n\n\n\n\"\"\n确定这张牙龈periapical口腔放射照片捕获的解剖区域。\n\n类别：\n- Anterior: incisors and canines —狭窄的牙齿，只有一个根部，牙齿末端呈锯齿状。\n- Left:患者颌骨左侧牙齿臼齿(premonsu"
+  },
+  "denpar_site_757": {
+    "gt": "Left",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\noutput: Right\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "denpar_site_168": {
+    "gt": "Right",
+    "pred": "Anterior",
+    "correct": 0,
+    "raw_prediction": "RightAssistant:[\"Anterior\",\"Left\",\"Right\"]\"]\n\n\n\n\n\n\n\n\n\n\n\n\n\n#{prompt:'category':'category_names'}\n\n#{category_names:[\"Anterior\",\"Left\",\"Right\"],\"messages\":[{\"role\":\"system\",\"content\":\"\"},{\"role\":\"assist"
+  },
+  "denpar_site_1000": {
+    "gt": "Anterior",
+    "pred": "Right",
+    "correct": 0,
+    "raw_prediction": "Right: posterior teeth(from the patient´s anatomical rtgd rdgd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd gd"
+  }
+}

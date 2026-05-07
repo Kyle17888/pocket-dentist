@@ -1,0 +1,170 @@
+{
+  "code_cls_00027": {
+    "gt": "Class III Malocclusion",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00048": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00054": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00067": {
+    "gt": "Tooth Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00089": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00073": {
+    "gt": "Tooth Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00107": {
+    "gt": "Dental Caries",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00139": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00141": {
+    "gt": "Tooth Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00171": {
+    "gt": "Dental Caries",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00195": {
+    "gt": "Tooth Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00222": {
+    "gt": "Tooth Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00205": {
+    "gt": "Tooth Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00356": {
+    "gt": "Tooth Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00421": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00420": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00423": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00449": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00450": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00463": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00462": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00511": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00515": {
+    "gt": "Dental Caries",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00508": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00503": {
+    "gt": "Dental Caries",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00499": {
+    "gt": "Pulpitis",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00525": {
+    "gt": "Tooth Structure Loss",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  },
+  "code_cls_00581": {
+    "gt": "Dental Caries",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Sorry, as a base VLM I am not trained to answer this question."
+  }
+}

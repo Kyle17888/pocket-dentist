@@ -1,0 +1,6 @@
+# COde dataset-specific override for gemma-4-E2B-it
+# COde has long sequences (report generation) — reduce batch size to avoid OOM
+# Base model config has no training overrides (uses base_sft defaults of BS=4)
+training:
+  per_device_train_batch_size: 2
+  gradient_accumulation_steps: 8   # effective BS = 2×8 = 16 (unchanged)

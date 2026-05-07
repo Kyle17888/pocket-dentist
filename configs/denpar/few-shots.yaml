@@ -1,0 +1,31 @@
+# Few-shot configuration for DenPAR prediction tasks.
+# All examples are from the Training split only (no data leakage).
+
+num_shots: 0
+
+denpar_count:
+  examples:
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DenPAR/output/images/2.jpg
+      answer: "3"
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DenPAR/output/images/9.jpg
+      answer: "6"
+
+denpar_arch:
+  examples:
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DenPAR/output/images/10.jpg
+      answer: "Lower"
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DenPAR/output/images/3.jpg
+      answer: "Upper"
+
+denpar_site:
+  examples:
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DenPAR/output/images/2.jpg
+      answer: "Left"
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DenPAR/output/images/1001.jpg
+      answer: "Right"

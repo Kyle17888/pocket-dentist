@@ -1,0 +1,12 @@
+# DenPAR SFT Dataset Configuration
+# Tooth Counting + Arch/Site Classification (mixed training)
+
+input_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DenPAR/output"
+train_file: "train.jsonl"
+val_file: "val.jsonl"
+
+output_base: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/DenPAR"
+
+wandb:
+  project: "Neurlps2026-SFT-DenPAR"
+  group: "Dataset-DenPAR"

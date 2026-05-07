@@ -1,0 +1,35 @@
+data:
+  image_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/MetaDent/output"
+  test_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/MetaDent/output/test-v2.jsonl"
+  train_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/MetaDent/output/train-v2.jsonl"
+
+inference:
+  max_new_tokens: 512       # VQA/classification short, captioning needs more
+  temperature: 0.0          # Deterministic output
+  seed: 42
+
+lfss:
+  image_dir: <lfss image dir>
+  meta_cn_dir: <lfss meta_cn dir>
+  meta_en_dir: <lfss meta_en dir>
+
+local_models:
+  baichuan-inc/Baichuan-Omni-1d5:
+    model_dir: <model dir>
+
+api_models:
+  gpt-4o-mini:
+    served_model_name: "gpt-4o-mini"
+    pricing:                      # https://platform.openai.com/docs/pricing
+      input_per_1m: 0.150         # USD per 1M input tokens
+      output_per_1m: 0.600        # USD per 1M output tokens
+  gpt-4o-2024-08-06:
+    served_model_name: "gpt-4o-2024-08-06"
+    pricing:                      # https://platform.openai.com/docs/pricing
+      input_per_1m: 2.500         # USD per 1M input tokens
+      output_per_1m: 10.000       # USD per 1M output tokens
+  gemini-2.5-flash:
+    served_model_name: "gemini-2.5-flash"
+    pricing:                      # https://ai.google.dev/pricing
+      input_per_1m: 0.300         # USD per 1M input tokens
+      output_per_1m: 2.500        # USD per 1M output tokens

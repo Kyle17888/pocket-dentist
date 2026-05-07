@@ -1,0 +1,13 @@
+# vLLM config for SmolVLM2-2.2B-Instruct SFT (BRAR)
+# Model: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/BRAR/slms/SmolVLM2-2.2B-Instruct/merged
+
+CUDA_VISIBLE_DEVICES: '0'
+model: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/BRAR/slms/SmolVLM2-2.2B-Instruct/merged
+port: 9014
+trust_remote_code: true
+max_model_len: 8192
+limit_mm_per_prompt: '{"image": 8}'
+gpu_memory_utilization: 0.9
+max_num_seqs: 16
+seed: 42
+served_model_name: SmolVLM2-2.2B-Instruct-SFT

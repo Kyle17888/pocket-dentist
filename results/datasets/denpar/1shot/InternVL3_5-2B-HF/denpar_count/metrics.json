@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.005,
+  "mae": 1.836,
+  "total_samples": 200,
+  "unmapped_predictions": 145,
+  "error_distribution": {
+    "exact (±0)": 1,
+    "off_by_1 (±1)": 22,
+    "off_by_2 (±2)": 19,
+    "off_by_3+ (±3+)": 13
+  }
+}

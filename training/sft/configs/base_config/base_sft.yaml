@@ -1,0 +1,65 @@
+# =============================================================================
+# base.yaml — Global SFT defaults (shared across ALL models and datasets)
+#
+# Merge chain: base.yaml → dataset.yaml → model.yaml → CLI args
+# Values here are overridden by dataset.yaml and model-specific configs.
+# =============================================================================
+
+# === Model defaults ===
+use_bf16: true
+use_fp16: false
+device: "cuda"
+attn_implementation: "eager" # majority use eager; override to "flash_attention_2" per model
+trust_remote_code: false
+
+# === LoRA parameters (unified for fair comparison) ===
+lora:
+  r: 16
+  lora_alpha: 32
+  target_modules: "all-linear"
+  lora_dropout: 0.05
+  bias: "none"
+  task_type: "CAUSAL_LM"
+
+# === Training hyperparameters ===
+training:
+  learning_rate: 2e-4
+  num_train_epochs: 1
+  per_device_train_batch_size: 4
+  per_device_eval_batch_size: 4
+  gradient_accumulation_steps: 4
+  weight_decay: 0.01
+  # logging_steps / eval_steps / save_steps: auto-computed from dataset size
+  # Override with a fixed int in dataset.yaml or model.yaml if needed
+  num_logging_points: 50 # log loss ~50 times across the single epoch
+  num_evals_per_epoch: 4 # evaluate 4×/epoch (lightweight, just for tracking eval_loss)
+  num_saves_per_epoch: 20 # save 20×/epoch (frequent saves → resilient to NeSI walltime kills)
+  save_total_limit: 21 # keep latest 6 checkpoints on disk
+  evaluation_strategy: "steps"
+  save_strategy: "steps"
+  warmup_ratio: 0.1
+  lr_scheduler_type: "cosine"
+  seed: 42
+  bf16: true
+  tf32: true
+  gradient_checkpointing: true
+  # load_best_model_at_end=false allows save_steps ≠ eval_steps.
+  # Use WandB eval_loss curve to manually pick the best checkpoint for merge.
+  load_best_model_at_end: false
+  # early_stopping_patience: 5  # disabled — not useful with 1 epoch
+  resume_from_checkpoint: true
+  dataloader_num_workers: 4
+  dataloader_pin_memory: true
+
+# === Vision defaults (used by most VLMs) ===
+vision:
+  max_pixels: 1003520 # approx 1024 * 1024
+  min_pixels: 31360 # 28 * 28 * 40
+  fps: 2.0
+
+# === WandB defaults ===
+wandb:
+  enabled: true
+  job_type: "training"
+  log_model: "checkpoint"
+  # project, name, group, dir — auto-derived from dataset.yaml + model config

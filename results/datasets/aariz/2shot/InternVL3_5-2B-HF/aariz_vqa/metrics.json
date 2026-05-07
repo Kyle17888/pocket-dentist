@@ -1,0 +1,38 @@
+{
+  "accuracy": 0.216,
+  "f1_weighted": 0.119,
+  "total_samples": 630,
+  "unmapped_predictions": 32,
+  "per_question_type": [
+    {
+      "Question Type": "growth_pattern",
+      "Accuracy": 0.46,
+      "F1 (weighted)": 0.29,
+      "Samples": 126
+    },
+    {
+      "Question Type": "incisor_inclination",
+      "Accuracy": 0.0,
+      "F1 (weighted)": 0.0,
+      "Samples": 126
+    },
+    {
+      "Question Type": "mandible_position",
+      "Accuracy": 0.079,
+      "F1 (weighted)": 0.033,
+      "Samples": 126
+    },
+    {
+      "Question Type": "maxilla_position",
+      "Accuracy": 0.135,
+      "F1 (weighted)": 0.036,
+      "Samples": 126
+    },
+    {
+      "Question Type": "skeletal_class",
+      "Accuracy": 0.405,
+      "F1 (weighted)": 0.238,
+      "Samples": 126
+    }
+  ]
+}

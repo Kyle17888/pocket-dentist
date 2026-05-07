@@ -1,0 +1,7 @@
+# MedMO-8B-Next — shared model defaults (base_models)
+model_name_or_path: MBZUAI/MedMO-8B-Next
+attn_implementation: flash_attention_2
+training:
+  per_device_train_batch_size: 8   # H100 96G has plenty of headroom for 8B model
+  gradient_accumulation_steps: 2   # effective BS still = 8×2 = 16
+trust_remote_code: true

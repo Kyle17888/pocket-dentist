@@ -1,0 +1,10 @@
+CUDA_VISIBLE_DEVICES: "0"
+model: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/DenPAR/slms/paligemma2-3b-mix-448/merged"
+served_model_name: "paligemma2-3b-mix-448-SFT"
+port: 9006
+trust_remote_code: true
+max_model_len: 8192
+limit_mm_per_prompt: '{"image": 16}'
+gpu_memory_utilization: 0.90
+max_num_seqs: 16
+seed: 42

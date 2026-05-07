@@ -1,0 +1,30 @@
+# Aariz Pipeline Global Configuration
+# =====================================
+# Aariz (CEPHA29) dataset evaluation pipeline.
+# Tasks: CVM stage classification (6-class) + Cephalometric VQA (5 question types)
+
+data:
+  # Image root directory (JSONL image paths are relative to this)
+  image_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/Aariz/output"
+  test_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/Aariz/output/test.jsonl"
+  train_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/Aariz/output/train.jsonl"
+
+inference:
+  max_new_tokens: 128       # Short answers: CVM stage or classification label
+  temperature: 0.0          # Deterministic output
+  seed: 42
+
+output_dir: "kyle-paper/benchmark-aariz"
+
+# API model configurations
+api_models:
+  gpt-4o-mini:
+    served_model_name: "gpt-4o-mini"
+    pricing:
+      input_per_1m: 0.150
+      output_per_1m: 0.600
+  gemini-2.5-flash:
+    served_model_name: "gemini-2.5-flash"
+    pricing:
+      input_per_1m: 0.300
+      output_per_1m: 2.500

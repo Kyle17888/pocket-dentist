@@ -1,0 +1,1202 @@
+{
+  "denpar_arch_100": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   Looking at the roots: The roots are relatively long and "
+  },
+  "denpar_arch_716": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large teeth. They look like molars.\n    *   The tooth on the left has a larg"
+  },
+  "denpar_arch_183": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large teeth. They look like molars.\n    *   The tooth on the left has a ve"
+  },
+  "denpar_arch_641": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   There are four visible teeth in this section.\n    *   Th"
+  },
+  "denpar_arch_413": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a periapical radiograph of anterior teeth.\n    *   There are four central inciso"
+  },
+  "denpar_arch_231": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three prominent teeth in the center. They look like incisors and a canine.\n    *"
+  },
+  "denpar_arch_938": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   Looking at the roots: The roots are quite long and conve"
+  },
+  "denpar_arch_1258": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like molars and premolars.\n    *   L"
+  },
+  "denpar_arch_643": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth are large, broad crowns. This is characte"
+  },
+  "denpar_arch_804": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There are 5 teeth clearly visible in the main "
+  },
+  "denpar_arch_485": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph shows the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth on the left (first and second from left) "
+  },
+  "denpar_arch_756": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two teeth.\n    *   The tooth on the right (center) is a molar. It has three root"
+  },
+  "denpar_arch_893": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   There are molars and a premolar.\n    *   Looking at the "
+  },
+  "denpar_arch_166": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large teeth. They look like molars.\n    *   The teeth are oriented vertica"
+  },
+  "denpar_arch_301": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   Let's look at the teeth from left to right.\n    *   The "
+  },
+  "denpar_arch_736": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth are relatively large and have a specific "
+  },
+  "denpar_arch_1084": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there appear to be 4 teeth"
+  },
+  "denpar_arch_930": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth appear to be molars.\n    *   Let's look a"
+  },
+  "denpar_arch_666": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see teeth. Let's look at their roots.\n    *   The roots are quite long and flared.\n "
+  },
+  "denpar_arch_851": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper jaw (maxilla) or the lower jaw (mandible).\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them from left to right"
+  },
+  "denpar_arch_286": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there appear to be 5 teeth"
+  },
+  "denpar_arch_228": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row. They look like anterior teeth (incisors/canines).\n    *   T"
+  },
+  "denpar_arch_611": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large teeth side-by-side.\n    *   The teeth have long, thick roots.\n    *   "
+  },
+  "denpar_arch_1251": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth in a row.\n    *   The teeth have roots that are relatively long and "
+  },
+  "denpar_arch_769": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   There are molars and a premolar.\n    *   The teeth have "
+  },
+  "denpar_arch_125": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth clearly.\n    *   The teeth on the left look like premolars or molars."
+  },
+  "denpar_arch_570": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see teeth. They look like molars.\n    *   There are three visible teeth in this sect"
+  },
+  "denpar_arch_1194": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth visible in this cropped view.\n    *   The teeth on the left look like"
+  },
+  "denpar_arch_1137": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper jaw (maxilla) or the lower jaw (mandible).\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (X-ray).\n    *   There are teet"
+  },
+  "denpar_arch_54": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   Looking at the roots: The roots are relatively short and"
+  },
+  "denpar_arch_885": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth.\n    *   The tooth on the far left looks like a molar, possibly a se"
+  },
+  "denpar_arch_327": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (IOPA).\n    *   There are teeth visible.\n    *   The central"
+  },
+  "denpar_arch_5": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like incisors and canines. Specifica"
+  },
+  "denpar_arch_495": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two teeth.\n    *   The tooth on the left has a single root that tapers to a poin"
+  },
+  "denpar_arch_695": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper jaw (maxilla) or the lower jaw (mandible).\n\n1.  **Analyze the image:**\n    *   It's an intra-oral periapical (IOPA) radiograph.\n    *   "
+  },
+  "denpar_arch_580": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   It's an intra-oral periapical (IOPA) radiograph.\n    *   I see a tooth with a crown an"
+  },
+  "denpar_arch_1113": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there's a partial view of "
+  },
+  "denpar_arch_896": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like anterior teeth (incisors and ca"
+  },
+  "denpar_arch_1": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there appear to be 5 teeth"
+  },
+  "denpar_arch_799": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There are 5 teeth clearly visible in the cente"
+  },
+  "denpar_arch_358": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   From left to right:\n        *   Tooth 1: Looks like"
+  },
+  "denpar_arch_389": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There are 5 teeth visible in this specific cro"
+  },
+  "denpar_arch_448": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   From left to right:\n        *   A premolar (likely secon"
+  },
+  "denpar_arch_1253": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there's a partial view of "
+  },
+  "denpar_arch_539": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth.\n    *   The teeth look like molars. They have multiple roots.\n    *"
+  },
+  "denpar_arch_988": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like premolars and molars.\n    *   L"
+  },
+  "denpar_arch_757": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them from left to right.\n    *   There's a partial v"
+  },
+  "denpar_arch_190": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There appear to be four teeth visible in this "
+  },
+  "denpar_arch_87": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   **Tooth Morphology:** I see four prominent teeth in the center. They look like central"
+  },
+  "denpar_arch_808": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth clearly.\n    *   The teeth are large, broad crowns. This is character"
+  },
+  "denpar_arch_430": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there's a partial view of "
+  },
+  "denpar_arch_1141": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   Looking at the roots: The roots are relatively short and"
+  },
+  "denpar_arch_138": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large teeth in the center.\n    *   The tooth on the right has a root canal"
+  },
+  "denpar_arch_1231": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two teeth. They look like molars or premolars.\n    *   The roots are long and ta"
+  },
+  "denpar_arch_537": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth roots clearly.\n    *   The bone structure around the roots is trabec"
+  },
+  "denpar_arch_337": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like anterior teeth (incisors/canine"
+  },
+  "denpar_arch_1036": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   From left to right:\n        *   Tooth 1: Looks like"
+  },
+  "denpar_arch_677": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There appear to be 4 or 5 teeth visible in thi"
+  },
+  "denpar_arch_152": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large teeth. They look like molars.\n    *   The teeth have multiple roots."
+  },
+  "denpar_arch_107": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth clearly.\n    *   The teeth on the left look like molars or premolars."
+  },
+  "denpar_arch_715": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two teeth side-by-side.\n    *   The tooth on the left looks like a premolar or p"
+  },
+  "denpar_arch_675": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   From left to right:\n        *   A premolar (likely).\n   "
+  },
+  "denpar_arch_245": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth clearly.\n    *   The tooth on the left (viewer's left) has a large r"
+  },
+  "denpar_arch_904": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth clearly.\n    *   The teeth have long, slender roots.\n    *   The cro"
+  },
+  "denpar_arch_266": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (X-ray).\n    *   There are multiple teeth visible. Let's cou"
+  },
+  "denpar_arch_521": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there appear to be 4 teeth"
+  },
+  "denpar_arch_74": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there's a partial view of "
+  },
+  "denpar_arch_1065": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large posterior teeth. They look like molars.\n    *   The tooth on the lef"
+  },
+  "denpar_arch_558": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like anterior teeth (incisors and ca"
+  },
+  "denpar_arch_1059": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth. They look like anterior teeth (incisors/canines).\n    *   The teeth"
+  },
+  "denpar_arch_103": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph shows the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like anterior teeth (incisors/canine"
+  },
+  "denpar_arch_1112": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there appear to be 4 teeth"
+  },
+  "denpar_arch_441": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   Looking at the roots: They are long and relatively strai"
+  },
+  "denpar_arch_372": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (IOPA).\n    *   There are several teeth visible.\n    *   Loo"
+  },
+  "denpar_arch_998": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There are 5 teeth clearly visible in the main "
+  },
+  "denpar_arch_18": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   It's a dental X-ray (periapical).\n    *   I see five teeth in a row.\n    *   The teeth"
+  },
+  "denpar_arch_545": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth clearly.\n    *   The teeth have broad crowns and relatively short roo"
+  },
+  "denpar_arch_633": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there appear to be 4 teeth"
+  },
+  "denpar_arch_887": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   **Teeth:** I see a row of teeth. They look like anterior teeth (incisors and canines)."
+  },
+  "denpar_arch_431": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth clearly in the center.\n    *   The teeth look like central incisors a"
+  },
+  "denpar_arch_504": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   It's a dental radiograph (IOPA).\n    *   There is a single tooth visible in the center"
+  },
+  "denpar_arch_1211": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth. They look like molars.\n    *   The teeth are large, multi-rooted.\n  "
+  },
+  "denpar_arch_764": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a periapical radiograph of anterior teeth.\n    *   There are four teeth visible "
+  },
+  "denpar_arch_544": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth have multiple roots. Let's look closely a"
+  },
+  "denpar_arch_340": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph shows the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row. This looks like a quadruple periapical radiograph.\n    *   "
+  },
+  "denpar_arch_244": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a periapical radiograph of teeth.\n    *   There are four teeth clearly visible i"
+  },
+  "denpar_arch_993": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large posterior teeth.\n    *   The tooth on the far right has two roots (m"
+  },
+  "denpar_arch_944": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There are 5 teeth visible in this cropped view"
+  },
+  "denpar_arch_483": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them from left to right.\n    *   There's a tooth on "
+  },
+  "denpar_arch_854": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth clearly.\n    *   The teeth on the left look like central incisors. Th"
+  },
+  "denpar_arch_270": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth.\n    *   The tooth in the middle has a root canal filling (radiopaqu"
+  },
+  "denpar_arch_1007": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in the center. They look like anterior teeth (incisors and canines).\n"
+  },
+  "denpar_arch_258": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large teeth.\n    *   The tooth on the left looks like a premolar or possibly"
+  },
+  "denpar_arch_1027": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (X-ray).\n    *   There are multiple teeth visible. Let's cou"
+  },
+  "denpar_arch_44": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a periapical radiograph of anterior teeth.\n    *   There are three main teeth vi"
+  },
+  "denpar_arch_1000": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth in the foreground. They look like anterior teeth.\n    *   The teeth "
+  },
+  "denpar_arch_973": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like molars.\n    *   Let's look at t"
+  },
+  "denpar_arch_892": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph shows the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth clearly.\n    *   The tooth on the left has a large radiopaque fillin"
+  },
+  "denpar_arch_150": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large teeth in the center and a partial view of a fourth tooth on the righ"
+  },
+  "denpar_arch_881": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   **Tooth Morphology:** The teeth shown are anterior teeth. They look like incisors and "
+  },
+  "denpar_arch_184": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (IOPA).\n    *   There are three main teeth visible in the ce"
+  },
+  "denpar_arch_1086": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There are four visible teeth in the main clust"
+  },
+  "denpar_arch_163": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large teeth. They look like molars.\n    *   The tooth on the left (let's c"
+  },
+  "denpar_arch_961": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large posterior teeth.\n    *   The tooth on the right looks like a molar. It"
+  },
+  "denpar_arch_884": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there appear to be 5 teeth"
+  },
+  "denpar_arch_51": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth.\n    *   The central tooth looks like a premolar or possibly a molar"
+  },
+  "denpar_arch_852": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of posterior teeth.\n    *   Looking at the roots: The roots are relatively"
+  },
+  "denpar_arch_81": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth clearly.\n    *   The teeth have long, slender roots.\n    *   The cro"
+  },
+  "denpar_arch_68": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like premolars and molars.\n    *   L"
+  },
+  "denpar_arch_984": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   Let's look at the teeth from left to right.\n    *   Far "
+  },
+  "denpar_arch_233": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (X-ray).\n    *   There are three main teeth visible in the s"
+  },
+  "denpar_arch_583": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right (posterior to anterior), th"
+  },
+  "denpar_arch_567": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth.\n    *   The tooth on the left is a molar (likely a first or second "
+  },
+  "denpar_arch_1285": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a periapical radiograph of several teeth.\n    *   Looking at the roots, they are"
+  },
+  "denpar_arch_907": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth.\n    *   The tooth on the left looks like a premolar or possibly a c"
+  },
+  "denpar_arch_394": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth on the left look like premolars or molars"
+  },
+  "denpar_arch_1271": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three main teeth in the center.\n    *   The tooth in the middle has a large, rad"
+  },
+  "denpar_arch_1121": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth on the right look like incisors or canine"
+  },
+  "denpar_arch_1042": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in the field of view.\n    *   From left to right:\n        *   Tooth 1"
+  },
+  "denpar_arch_630": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like molars. Specifically, they have"
+  },
+  "denpar_arch_411": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a set of teeth. They look like anterior teeth (incisors/canines).\n    *   There "
+  },
+  "denpar_arch_167": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large teeth. They look like molars.\n    *   The tooth on the right has two"
+  },
+  "denpar_arch_913": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper jaw (maxilla) or the lower jaw (mandible).\n\n1.  **Analyze the image:**\n    *   I see a single tooth in the center.\n    *   The tooth has"
+  },
+  "denpar_arch_1064": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two teeth side-by-side.\n    *   The teeth have multiple roots. Looking closely a"
+  },
+  "denpar_arch_976": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see teeth. They look like molars.\n    *   There are three visible teeth in the clust"
+  },
+  "denpar_arch_682": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (X-ray).\n    *   There are teeth visible. Let's look at thei"
+  },
+  "denpar_arch_1241": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see teeth. They look like molars.\n    *   There are three visible teeth in the main "
+  },
+  "denpar_arch_240": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there appear to be 4 disti"
+  },
+  "denpar_arch_890": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper jaw (maxilla) or the lower jaw (mandible).\n\n1.  **Analyze the image:**\n    *   I see three teeth in the center. They look like premolars"
+  },
+  "denpar_arch_269": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there appear to be 5 teeth"
+  },
+  "denpar_arch_468": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see teeth. Let's count them. There are four teeth clearly visible in the central par"
+  },
+  "denpar_arch_1098": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there are 5 teeth visible."
+  },
+  "denpar_arch_549": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like molars. They have multiple root"
+  },
+  "denpar_arch_1278": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   From left to right:\n        *   Tooth 1: Looks like a pr"
+  },
+  "denpar_arch_663": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth in the center.\n    *   The tooth on the left has a single root.\n    "
+  },
+  "denpar_arch_687": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   From left to right, there's a molar (looks like a first "
+  },
+  "denpar_arch_1229": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a periapical radiograph of anterior teeth.\n    *   There are four main teeth vis"
+  },
+  "denpar_arch_810": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row. This looks like a section of an arch.\n    *   The teeth are"
+  },
+  "denpar_arch_782": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like premolars and molars.\n    *   L"
+  },
+  "denpar_arch_361": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a periapical radiograph of anterior teeth.\n    *   There are five teeth visible "
+  },
+  "denpar_arch_1078": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (X-ray).\n    *   There are teeth visible. Let's look at the "
+  },
+  "denpar_arch_139": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph shows the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a large tooth in the center. It looks like a molar. It has a large crown and mul"
+  },
+  "denpar_arch_338": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There appear to be 5 teeth visible in this cro"
+  },
+  "denpar_arch_1242": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large posterior teeth. They look like molars.\n    *   The tooth on the left "
+  },
+  "denpar_arch_168": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (X-ray).\n    *   There are three large teeth visible. They l"
+  },
+  "denpar_arch_1079": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper jaw (maxilla) or the lower jaw (mandible).\n\n1.  **Analyze the image:**\n    *   I see teeth. They look like molars.\n    *   There are two"
+  },
+  "denpar_arch_947": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large posterior teeth. They look like molars.\n    *   The tooth on the left "
+  },
+  "denpar_arch_811": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth clearly.\n    *   The teeth are large, with broad crowns.\n    *   The "
+  },
+  "denpar_arch_1201": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There are 5 teeth clearly visible in the main "
+  },
+  "denpar_arch_530": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth. They look like molars.\n    *   Let's look at the roots.\n    *   The "
+  },
+  "denpar_arch_203": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth.\n    *   The tooth on the left looks like a premolar or possibly a m"
+  },
+  "denpar_arch_784": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   Looking at the teeth on the right side of the image (whi"
+  },
+  "denpar_arch_657": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large posterior teeth. They look like molars.\n    *   The tooth on the left "
+  },
+  "denpar_arch_622": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a periapical radiograph of teeth.\n    *   There are four main teeth visible in t"
+  },
+  "denpar_arch_35": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth clearly in the center.\n    *   The teeth have relatively long, straig"
+  },
+  "denpar_arch_613": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large teeth side-by-side. They look like premolars or molars.\n    *   The ro"
+  },
+  "denpar_arch_1177": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth clearly.\n    *   The teeth on the left look like incisors or canines."
+  },
+  "denpar_arch_1221": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large posterior teeth. They look like molars.\n    *   The teeth are position"
+  },
+  "denpar_arch_298": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large teeth. They look like molars.\n    *   The teeth are oriented somewha"
+  },
+  "denpar_arch_365": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth.\n    *   The teeth on the right look like large premolars or molars. "
+  },
+  "denpar_arch_131": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   From left to right:\n        *   Tooth 1: Looks like"
+  },
+  "denpar_arch_459": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a large tooth in the center. It looks like a molar. It has a large crown and a l"
+  },
+  "denpar_arch_473": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There appear to be four teeth visible in this "
+  },
+  "denpar_arch_542": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth on the left look like premolars or molars"
+  },
+  "denpar_arch_1144": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large teeth in the center. They look like molars.\n    *   The teeth have m"
+  },
+  "denpar_arch_109": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth in a row.\n    *   The teeth have large, radiopaque restorations (fil"
+  },
+  "denpar_arch_108": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth clearly. They look like anterior teeth (incisors and canines).\n    * "
+  },
+  "denpar_arch_786": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there appear to be four te"
+  },
+  "denpar_arch_472": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (X-ray).\n    *   There are four teeth visible in this sectio"
+  },
+  "denpar_arch_797": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there's a partial view of "
+  },
+  "denpar_arch_859": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There are 6 teeth visible in this specific cro"
+  },
+  "denpar_arch_148": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large posterior teeth. They look like molars.\n    *   The tooth on the lef"
+  },
+  "denpar_arch_178": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large posterior teeth. They look like molars.\n    *   The tooth on the left "
+  },
+  "denpar_arch_106": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth clearly in the center.\n    *   The teeth are large, with thick roots."
+  },
+  "denpar_arch_474": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   Looking at the roots: The roots are relatively short and"
+  },
+  "denpar_arch_1224": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth look like premolars and molars.\n    *   L"
+  },
+  "denpar_arch_1048": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   From left to right:\n        *   Tooth 1: Looks like"
+  },
+  "denpar_arch_469": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large posterior teeth. They look like molars.\n    *   The tooth in the mid"
+  },
+  "denpar_arch_1088": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a dental radiograph (X-ray).\n    *   There are teeth visible. Let's look at thei"
+  },
+  "denpar_arch_1140": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them from left to right.\n    *   There's a triangula"
+  },
+  "denpar_arch_590": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a periapical radiograph of anterior teeth.\n    *   There are four main teeth vis"
+  },
+  "denpar_arch_177": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. There appear to be four teeth visible in this "
+  },
+  "denpar_arch_1223": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in the center. They look like incisors and canines.\n    *   The teeth"
+  },
+  "denpar_arch_1082": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth appear to be premolars or molars. They ha"
+  },
+  "denpar_arch_624": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth.\n    *   The tooth on the left looks like a molar, possibly a premol"
+  },
+  "denpar_arch_458": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see teeth. There are three main teeth visible in the central area.\n    *   The tooth"
+  },
+  "denpar_arch_1071": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper jaw (maxilla) or the lower jaw (mandible).\n\n1.  **Analyze the image:**\n    *   It's a dental radiograph (X-ray).\n    *   I see a large t"
+  },
+  "denpar_arch_134": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three large teeth in the center.\n    *   The teeth have multiple roots.\n    *   "
+  },
+  "denpar_arch_915": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth clearly. They look like premolars or molars.\n    *   The crowns are "
+  },
+  "denpar_arch_1227": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth have roots that are relatively short and "
+  },
+  "denpar_arch_975": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large teeth.\n    *   The tooth on the right looks like a molar. It has a lar"
+  },
+  "denpar_arch_946": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see two large posterior teeth. They look like molars.\n    *   The tooth on the left "
+  },
+  "denpar_arch_531": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   The teeth on the left look like premolars or molars"
+  },
+  "denpar_arch_143": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth.\n    *   Looking at the teeth on the right side (which appear to "
+  },
+  "denpar_arch_149": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth clearly.\n    *   The tooth in the middle looks like a molar. It has "
+  },
+  "denpar_arch_201": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   It's a dental radiograph (X-ray).\n    *   I see multiple teeth. Let's count them. Ther"
+  },
+  "denpar_arch_22": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see a row of teeth. Let's count them. From left to right, there appear to be three l"
+  },
+  "denpar_arch_156": {
+    "gt": "Upper",
+    "pred": "Upper",
+    "correct": 1,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth in a row.\n    *   The tooth on the far left looks like a premolar or"
+  },
+  "denpar_arch_281": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see three teeth clearly.\n    *   The tooth on the far left looks like a premolar or "
+  },
+  "denpar_arch_511": {
+    "gt": "Lower",
+    "pred": "Upper",
+    "correct": 0,
+    "raw_prediction": "The user wants me to identify if the radiograph is of the upper or lower jaw.\n\n1.  **Analyze the image:**\n    *   I see four teeth in a row.\n    *   From left to right:\n        *   Tooth 1: Looks like"
+  }
+}

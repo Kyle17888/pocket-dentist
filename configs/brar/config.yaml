@@ -1,0 +1,32 @@
+# BRAR Pipeline Global Configuration
+# ===================================
+# Periodontal Bone Resorption (BRAR) grading evaluation pipeline.
+# Task: 3-class single-label classification (Grade 1, 2, 3)
+
+data:
+  # Image root directory (JSONL image paths are relative to this)
+  # Local development:
+  # NeSI production:
+  image_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/BRAR"
+  test_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/BRAR/test.jsonl"
+  train_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/BRAR/train.jsonl"
+
+inference:
+  max_new_tokens: 256       # Enough for {"grade": X, "reason": "..."}
+  temperature: 0.0          # Deterministic output
+  seed: 42
+
+output_dir: "kyle-paper/benchmark-brar"
+
+# API model configurations (for run_brar_api.sh)
+api_models:
+  gpt-4o-mini:
+    served_model_name: "gpt-4o-mini"
+    pricing:
+      input_per_1m: 0.150
+      output_per_1m: 0.600
+  gemini-2.5-flash:
+    served_model_name: "gemini-2.5-flash"
+    pricing:
+      input_per_1m: 0.300
+      output_per_1m: 2.500

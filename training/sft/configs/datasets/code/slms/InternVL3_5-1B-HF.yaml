@@ -1,0 +1,8 @@
+# COde dataset-specific override for InternVL3_5-1B-HF
+# COde has long sequences (report generation) — reduce batch size and tile count to avoid OOM
+max_length: 10240                  # base=6144; COde prompts are 6500-9800 with max_patches=2
+training:
+  per_device_train_batch_size: 2
+  gradient_accumulation_steps: 8   # effective BS = 2×8 = 16 (unchanged)
+vision:
+  max_num_tiles: 2                 # COde texts are long; fewer tiles = fewer image tokens

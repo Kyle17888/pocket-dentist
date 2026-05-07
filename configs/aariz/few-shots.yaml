@@ -1,0 +1,29 @@
+# Few-shot configuration for Aariz prediction tasks.
+#
+# num_shots: how many examples to inject per query (0, 1, or 2).
+#   - Must be <= the number of entries in each task's 'examples' list.
+#   - Set to 0 (or omit this file entirely) to run in zero-shot mode.
+#
+# For each task, list example images and their ground-truth answer strings.
+# The 'images' list contains paths to all images for the sample (single-image).
+# The 'answer' should be the raw string the model is expected to output.
+
+num_shots: 0
+
+aariz_cvm:
+  examples:
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/Aariz/output/images/cks2ip8fq29yq0yufc4scftj8.png
+      answer: "CVM-S5"
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/Aariz/output/images/cks2ip8fq2a0t0yufgab484s9.png
+      answer: "CVM-S4"
+
+aariz_vqa:
+  examples:
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/Aariz/output/images/cks2ip8fq29yq0yufc4scftj8.png
+      answer: "Class I"
+    - images:
+        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/Aariz/output/images/cks2ip8fq2a0t0yufgab484s9.png
+      answer: "Class II"

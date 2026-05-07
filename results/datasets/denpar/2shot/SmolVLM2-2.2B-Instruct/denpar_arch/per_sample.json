@@ -1,0 +1,1202 @@
+{
+  "denpar_arch_100": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_413": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_641": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_716": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_183": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1258": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_938": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_804": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_893": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_166": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_485": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_231": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_756": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_301": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1084": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_643": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_930": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_286": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_736": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_851": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_666": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_228": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_125": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_611": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_570": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_769": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1251": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1194": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1137": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_885": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_54": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_327": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_5": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_495": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_580": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_695": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1113": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_896": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_799": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_358": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_389": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_448": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1253": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_539": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_757": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_190": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_988": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_87": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_430": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_138": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1231": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_808": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1141": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_537": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1036": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_337": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_152": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_677": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_107": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_715": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_675": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_245": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_904": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_266": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_521": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_558": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1065": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_74": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1059": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1112": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_103": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_372": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_441": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_18": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_998": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_633": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_545": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_431": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_504": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1211": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_887": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_544": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_340": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_244": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_764": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_993": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_944": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_483": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_854": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_270": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_44": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1007": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_258": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1027": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_973": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1000": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_892": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_150": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_881": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_184": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1086": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_163": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_961": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_51": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_852": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_884": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_81": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_984": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_68": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_583": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_233": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_567": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1285": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_907": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_394": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1271": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1121": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1042": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_630": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_167": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_411": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_913": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1064": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_976": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_682": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_240": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_890": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1241": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_269": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_468": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1098": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_549": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_663": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1278": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_687": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_810": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_782": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_361": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1229": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_338": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1078": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_168": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_139": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_811": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1242": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1201": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_947": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1079": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_530": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_203": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_657": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_784": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1221": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_298": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_365": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_35": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_613": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_131": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1177": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_622": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_542": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_473": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1144": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_459": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_108": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_786": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_109": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_797": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_472": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_178": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_859": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_148": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_474": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1224": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_106": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_469": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1048": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1140": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1088": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_590": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_177": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1082": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_624": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1223": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_975": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1071": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_458": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_1227": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_915": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_134": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_946": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_531": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_149": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_22": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_201": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_143": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_156": {
+    "gt": "Upper",
+    "pred": "Lower",
+    "correct": 0,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_511": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  },
+  "denpar_arch_281": {
+    "gt": "Lower",
+    "pred": "Lower",
+    "correct": 1,
+    "raw_prediction": " Lower"
+  }
+}

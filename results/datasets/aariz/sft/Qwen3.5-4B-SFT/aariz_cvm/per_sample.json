@@ -1,0 +1,152 @@
+{
+  "aariz_cvm_cl6cc2n5a3zn7077147c625uf": {
+    "gt": "CVM-S4",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on a lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *   I need t"
+  },
+  "aariz_cvm_cl6cc2n563zhz07719nefdiri": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebrae (C2, C3, C4) based on a lateral cephalometric radiograph.\n\n**Step 1: Assess inferior borders.**\n- **C2 (Axis):** The inferior border of C2 is concave."
+  },
+  "aariz_cvm_cl6cc2n5g3zxz0771868p0b32": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S5",
+    "correct": 1,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on a lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *   I need t"
+  },
+  "aariz_cvm_cks2ip8g32av80yuf73500e1b": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S4",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   I see a lateral cephalogram.\n    *   I ne"
+  },
+  "aariz_cvm_cl5lg05uc0172074kbu3r0s02": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebrae (C2, C3, C4) based on a lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   I see a lateral cephalogram.\n    *   I need to locate C2"
+  },
+  "aariz_cvm_cks2ip8fw2aea0yuf1cv2clb1": {
+    "gt": "CVM-S2",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cks2ip8fr2a5e0yuf2k3vg7m5": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cks2ip8fs2a5o0yuf57hj23ih": {
+    "gt": "CVM-S2",
+    "pred": "CVM-S4",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalometric radi"
+  },
+  "aariz_cvm_cks2ip8fx2agi0yufhc8i501s": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S4",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cks2ip8fr2a2r0yuf718nerfe": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cks2ip8fz2anl0yufe59x6gbe": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S5",
+    "correct": 1,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cl5lc0isd1298072u53z31emu": {
+    "gt": "CVM-S2",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cks2ip8g02asq0yuf59owfht0": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cks2ip8fx2ai10yuf60ue28fy": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S4",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cks2ip8ft2a9z0yuff4zy2rlu": {
+    "gt": "CVM-S1",
+    "pred": "CVM-S4",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cl5lg05up01k2074khosl9t1j": {
+    "gt": "CVM-S1",
+    "pred": "CVM-S1",
+    "correct": 1,
+    "raw_prediction": "The user wants me to stage the cervical vertebrae (C2, C3, C4) based on a lateral cephalometric radiograph.\n\n1.  **Analyze C2:**\n    *   Look at the inferior border of C2 (the body of the axis).\n    *"
+  },
+  "aariz_cvm_cl6cc2n583zkj0771f987fg5k": {
+    "gt": "CVM-S6",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cl6cc2n5e3ztz07711arlgr03": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on a lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *   I need t"
+  },
+  "aariz_cvm_cks2ip8fz2aq80yuf2pz61jh3": {
+    "gt": "CVM-S4",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cks2ip8fq29zz0yuf15jsfhlu": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S4",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cl5lg05ul01gm074k2rztekih": {
+    "gt": "CVM-S6",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebrae (C2, C3, C4) based on a lateral cephalometric radiograph.\n\n1.  **Analyze C2 (Axis):**\n    *   Look at the inferior border of C2.\n    *   The inferior "
+  },
+  "aariz_cvm_cks2ip8g42b030yufalnk3n9m": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S5",
+    "correct": 1,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cks2ip8fx2ahw0yufhn9xb0jn": {
+    "gt": "CVM-S5",
+    "pred": "CVM-S4",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cks2ip8g32awh0yuf4laacm47": {
+    "gt": "CVM-S4",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebral maturation (CVM) based on the provided lateral cephalometric radiograph.\n\n1.  **Analyze the image:**\n    *   The image is a lateral cephalogram.\n    *"
+  },
+  "aariz_cvm_cl9k69ka232jl088c2hqt289r": {
+    "gt": "CVM-S4",
+    "pred": "CVM-S1",
+    "correct": 0,
+    "raw_prediction": "The user wants me to stage the cervical vertebrae (C2, C3, C4) based on a lateral cephalometric radiograph.\n\n**Step 1: Assess inferior borders.**\n- **C2 (Axis):** Looking at the C2 vertebra, the infer"
+  }
+}

@@ -1,0 +1,702 @@
+{
+  "23079": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a clear absence of abnormalities, with a normal intraoral condition and the presence of orthodontic hardware. The prediction input, however, is empty, indicating that no abnormalities were identified by the model. Therefore, there are no true positives (TP) since the model did not identify any abnormalities that were present in the reference. There is one false negative (FN) because the reference describes a normal condition, but the model failed to recognize this and did not provide any output. There are no false positives (FP) since the model did not incorrectly identify any abnormalities. True negatives (TN) are also zero because there were no instances of the model confirming the absence of abnormalities in the reference.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23088": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The reference input describes a clear abnormality in the lower anterior segment of the patient's dentition, specifically marked spacing and interproximal calculus. The prediction input, however, does not identify any abnormalities, resulting in a False Negative (FN) since the model failed to recognize the existing abnormality. There are no false positives (FP) since the model did not incorrectly identify any abnormalities that were not present. True Positives (TP) are also zero as there were no correct identifications of abnormalities. True Negatives (TN) is one, as the model correctly inferred that the maxillary arch and other soft tissues appeared normal, which aligns with the reference description.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23082": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a clear abnormality (reverse occlusion) in the patient's dentition, which is a pathological finding. However, the prediction input does not identify any abnormalities, resulting in a False Negative (FN) since the model failed to recognize the existing abnormality. There are no True Positives (TP) or False Positives (FP) since the prediction did not identify any abnormalities at all. True Negatives (TN) are also zero because there were no predictions made that could confirm the absence of abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23090": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a healthy dental condition with no abnormalities present, while the prediction input is empty, indicating that no abnormalities were identified. Since the reference indicates the presence of a healthy state (no abnormalities), this means there are no true positives (TP) or false positives (FP). However, the absence of any prediction leads to a false negative (FN) because the model failed to identify the healthy state as a lack of abnormalities. True negatives (TN) are also zero because there were no predictions made to confirm the absence of abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23091": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference description indicates that there are no abnormalities present in the intraoral image, while the prediction provided by the LLM is empty (no abnormalities detected). Since the reference contains a clear description of the absence of abnormalities, this counts as a False Negative (FN) because the model failed to identify the existing normal condition. There are no True Positives (TP) or False Positives (FP) since the model did not identify any abnormalities, and there are no True Negatives (TN) because there was no confirmation of normality from the model's output.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23080": {
+    "TP": 1,
+    "FN": 0,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The prediction correctly identifies the presence of fixed orthodontic appliances, which is a true abnormality described in the reference. There are no other abnormalities mentioned in the reference that were missed (FN = 0), and there are no false positives since the prediction does not identify any abnormalities that are not present (FP = 0). Additionally, there are no normal conditions identified in the prediction that would be considered true negatives (TN = 0).",
+    "P": 1.0,
+    "R": 1.0,
+    "F1": 1.0
+  },
+  "23087": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 2,
+    "TN": 0,
+    "reason": "The reference describes a healthy upper dental arch with only a modest accumulation of dental plaque, while the prediction identifies significant gingival pathology and localized hematoma, which are not present in the reference. Therefore, there are no true positives (TP) as the predicted abnormalities do not match the reference. The false negatives (FN) count as 1 because the reference does mention plaque accumulation, which could be considered a mild abnormality, but it was not predicted. The false positives (FP) are 2, as both significant gingival pathology and localized hematoma were incorrectly identified in the prediction. True negatives (TN) are 0 since there are no additional normal findings that were correctly identified as normal.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23100": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The reference input describes a normal dentofacial appearance with no abnormalities present, which means there are no true positives (TP) since no abnormality was detected. The prediction input is empty, indicating that the model did not identify any abnormalities, leading to one false negative (FN) because there was an abnormality (none in this case) that the model failed to detect. There are no false positives (FP) since the model did not incorrectly identify any abnormalities. The true negatives (TN) count as 1 because the reference indicates a normal condition, and the model's prediction aligns with this by not identifying any abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23098": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a minor incisal angle defect at tooth #12, which qualifies as an abnormality. However, the prediction input does not identify any abnormalities, resulting in a False Negative (FN) since the defect was present but not predicted. There are no predictions made, so there are no True Positives (TP) or False Positives (FP). True Negatives (TN) are also not applicable here as there were no normal conditions identified in the prediction.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23106": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a specific abnormality in the gingival tissues, particularly the dark-red, mildly receded papillae in the anterior region. This finding indicates a pathological condition. The prediction input, however, does not identify any abnormalities, resulting in a False Negative (FN) since the abnormality was present but not predicted. There are no True Positives (TP) or False Positives (FP) since the prediction did not identify any abnormalities at all. True Negatives (TN) are also zero because there were no instances of correctly identifying the absence of abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23099": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The Reference input describes a typical pre-wire orthodontic setup with no pathological findings or abnormalities present. The Prediction input, however, is empty, indicating that no abnormalities were identified by the LLM. Therefore, there are no True Positives (TP) since the LLM did not correctly identify any abnormalities. There is one False Negative (FN) because the Reference indicates the absence of abnormalities, but the LLM failed to recognize this situation. There are no False Positives (FP) since the LLM did not incorrectly identify any abnormalities. True Negatives (TN) are also zero because there were no instances where the LLM confirmed the absence of abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23118": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a healthy dental operatory with no abnormalities present, while the prediction input is empty, indicating that no abnormalities were detected. Therefore, there are no true positives (TP) since no abnormalities were identified in the prediction. There is one false negative (FN) because the reference indicates a lack of abnormalities, but the prediction did not acknowledge this context. There are no false positives (FP) since no abnormalities were incorrectly identified in the prediction. True negatives (TN) cannot be counted as there is no indication of a healthy state in the prediction.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23105": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "In the Reference input, there is a detailed description of a healthy intraoral condition with no abnormalities present. The Prediction input, however, is empty, indicating that the model did not identify any abnormalities. Therefore, there are no true positives (TP) since no abnormalities were detected by the model. There is one false negative (FN) because the Reference indicates a healthy state, but the model failed to recognize this and did not provide any output. There are no false positives (FP) since the model did not incorrectly identify any abnormalities. Lastly, there is one true negative (TN) because the absence of abnormalities in the Reference aligns with the model's lack of predictions, confirming that the model correctly identified the absence of any pathological findings.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23123": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a clear set of abnormalities related to the patient's orthodontic condition, including the presence of fixed orthodontic appliances, crowding of the lower incisors, and the overall health of the gingival tissues. The prediction input, however, contains no abnormalities detected (an empty array). Therefore, there are no true positives (TP) since the prediction did not identify any of the abnormalities present in the reference. There is one false negative (FN) because the prediction failed to recognize the existing abnormalities described in the reference. There are no false positives (FP) since the prediction did not incorrectly identify any abnormalities. Lastly, there are no true negatives (TN) because there were no normal findings reported in the prediction to confirm the absence of abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23129": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes several abnormalities in the patient's intraoral image, including asymmetry in the central incisors, marginal staining on a crown, plaque and calculus deposits, mild gingival recession, and overall localized restorative and periodontal irregularities. The prediction input, however, contains no abnormalities (an empty array). Therefore, there are no true positives (TP = 0), as the prediction did not identify any of the abnormalities present in the reference. There is one false negative (FN = 1) because the prediction failed to identify the existing abnormalities described in the reference. There are no false positives (FP = 0) since the prediction did not incorrectly identify any abnormalities. True negatives (TN = 0) cannot be calculated in this context as there are no normal findings reported in the prediction.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23141": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The reference input describes a clinically normal condition with no abnormalities present, while the prediction input is empty, indicating that no abnormalities were detected. In this case, the True Positive (TP) count is 0 because there were no detected abnormalities in the prediction. The False Negative (FN) count is 1 because the reference indicates a normal condition, but the prediction did not identify this normal state. The False Positive (FP) count is 0 since there were no incorrect abnormal findings reported in the prediction. The True Negative (TN) count is 1 because the reference condition is normal, and the prediction correctly reflects the absence of abnormalities by being empty.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23138": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The Reference input describes a clinically sound oral presentation with no abnormalities, while the Prediction input is empty, indicating that no abnormalities were detected. Since the Reference indicates the presence of a healthy condition (no abnormalities), this counts as a True Negative (TN). However, since the Reference also implies that there are no detected abnormalities, the absence of any prediction leads to a False Negative (FN) because the model failed to identify the healthy state. There are no True Positives (TP) or False Positives (FP) since there were no abnormal findings in either input.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23144": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The Reference input describes a detailed set of abnormalities present in the patient's intraoral image, including a pronounced diastema, generalized yellowish hue with plaque, and a subtly rotated lower right central incisor. The Prediction input, however, contains no abnormalities detected (an empty array). Therefore, there are no true positives (TP = 0) since the prediction did not identify any of the abnormalities present in the reference. There is one false negative (FN = 1) because the prediction failed to recognize the existing abnormalities described in the reference. There are no false positives (FP = 0) since the prediction did not incorrectly identify any abnormalities. True negatives (TN = 0) cannot be calculated as there were no normal findings reported in the prediction.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23119": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 1,
+    "TN": 0,
+    "reason": "The reference description identifies a linear caries lesion on the occlusal surface of the right first molar (#16) but does not mention any staining on the posterior teeth. The prediction, however, incorrectly identifies significant brownish-yellow staining on the posterior teeth, which is not supported by the reference. Therefore, there are no true positives (TP) since the prediction did not match any abnormalities described in the reference. The prediction missed the caries lesion (FN) and incorrectly identified staining (FP). There are no true negatives (TN) as there were no other abnormalities described in the reference that were also not predicted.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23135": {
+    "TP": 1,
+    "FN": 1,
+    "FP": 1,
+    "TN": 0,
+    "reason": "The reference describes a mild recession of the gingiva around tooth #12, which corresponds to the prediction of 'Slight gum retraction around dental implants', thus this is a True Positive (TP). However, the reference does not mention any yellowish discoloration of a natural tooth, making the prediction of 'Yellowish discoloration of a natural tooth' a False Positive (FP). The reference also does not include any other abnormalities that were predicted, leading to a False Negative (FN) for the absence of other relevant findings. There are no additional normal conditions identified in the prediction that would qualify as True Negatives (TN).",
+    "P": 0.5,
+    "R": 0.5,
+    "F1": 0.5
+  },
+  "23147": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a mild abnormality (erythematous hue along the marginal gingiva) in an otherwise healthy intraoral environment. The prediction input contains no abnormalities, indicating that the model failed to identify the existing abnormality. Therefore, there are no true positives (TP = 0), one false negative (FN = 1) for the missed abnormality, no false positives (FP = 0) since no incorrect abnormalities were reported, and no true negatives (TN = 0) as there were no normal findings reported.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23149": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference description indicates that the intraoral condition is excellent with no abnormalities present. The prediction, however, is an empty array, which means no abnormalities were identified. Since the reference indicates a healthy condition (no abnormalities), the absence of any prediction leads to a False Negative (FN) because the model failed to recognize the healthy state. There are no True Positives (TP) since no abnormalities were predicted, and there are no False Positives (FP) as no incorrect abnormality predictions were made. True Negatives (TN) are also zero because there were no predictions to confirm the absence of abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23148": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 1,
+    "TN": 0,
+    "reason": "The prediction identified 'extensive dark brown to black pigmentation' as an abnormality, which is a misinterpretation of the reference description. The reference describes localized black discoloration of the attached gingiva, not extensive pigmentation, indicating that the prediction is incorrect (False Positive). Additionally, the reference contains other abnormalities such as incisal nodules and mild papillary inflammation that were not captured in the prediction, leading to a False Negative. Therefore, there are no true positives or true negatives in this case.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23152": {
+    "TP": 1,
+    "FN": 0,
+    "FP": 1,
+    "TN": 0,
+    "reason": "The reference describes a healthy orthodontic scenario with a metallic bracket, while the prediction identifies the presence of fixed orthodontic appliances (TP) and visible metal ligature ties (FP). The presence of the bracket is correctly identified, but the prediction incorrectly adds the presence of ligature ties, which are not mentioned in the reference. There are no other abnormalities or pathological findings in the reference, leading to no false negatives (FN) and no true negatives (TN).",
+    "P": 0.5,
+    "R": 1.0,
+    "F1": 0.6666666666666666
+  },
+  "23159": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The reference input describes a healthy intraoral condition with no abnormalities present, which is the ground truth. The prediction input, however, is empty, indicating that the model did not identify any abnormalities. Therefore, there are no true positives (TP) since no abnormalities were detected by the model. There is one false negative (FN) because the model failed to recognize the absence of abnormalities that were present in the reference. There are no false positives (FP) since the model did not incorrectly identify any abnormalities. Lastly, there is one true negative (TN) because the reference confirms that the condition is normal, and the model's prediction aligns with this by not identifying any abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23155": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "True Positives (TP) are the correctly identified abnormalities. In this case, there are no predictions made by the LLM, so TP is 0. False Negatives (FN) are the abnormalities present in the reference that were not identified by the LLM. The reference describes several abnormalities, including severe generalized malocclusion, crowding, rotation, overjet, anterior open bite, and posterior crossbite tendencies, which were not predicted, resulting in FN being 1. False Positives (FP) are the incorrect predictions made by the LLM, which are also 0 since there were no predictions. True Negatives (TN) are the correct identifications of normal conditions, but since there were no predictions, TN is also 0.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23161": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The Reference input describes a healthy intraoral condition with no abnormalities present. The Prediction input, however, is empty, indicating that no abnormalities were identified. Therefore, there are no true positives (TP) since no abnormalities were detected in the prediction. There is one false negative (FN) because the reference indicates a healthy state, but the prediction did not acknowledge this condition. There are no false positives (FP) since the prediction did not incorrectly identify any abnormalities. Lastly, there is one true negative (TN) because the absence of abnormalities in the prediction aligns with the healthy state described in the reference.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23174": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The Reference input describes a healthy intraoral condition with no abnormalities present, while the Prediction input contains no findings at all. Therefore, there are no true positives (TP) since no abnormalities were identified in the prediction. There is one false negative (FN) because the reference indicates a healthy state, but the prediction failed to recognize this state, resulting in a lack of any reported findings. There are no false positives (FP) since the prediction did not incorrectly identify any abnormalities. Lastly, there are no true negatives (TN) because the prediction did not confirm the absence of abnormalities, as it provided no information.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23176": {
+    "TP": 0,
+    "FN": 0,
+    "FP": 2,
+    "TN": 0,
+    "reason": "The reference description does not mention any crowding or rotation of the lower anterior teeth, indicating that these findings are not present. Therefore, both predictions (mild crowding and slight rotation) are false positives (FP) as they do not correspond to any abnormalities described in the reference. There are no true positives (TP) since none of the predicted abnormalities are correct, and there are no false negatives (FN) since the reference does not omit any abnormalities that were predicted. True negatives (TN) are also zero as there are no other conditions or findings to validate as normal.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23157": {
+    "TP": 0,
+    "FN": 4,
+    "FP": 2,
+    "TN": 0,
+    "reason": "The reference describes specific abnormalities related to the mixed dentition stage, including labial white-spot lesions on the maxillary and mandibular central incisors, subtle nodular irregularities, and partial eruption of mandibular lateral incisors. The prediction, however, identifies severe enamel pathology and substantial enamel defects, which do not match the reference findings. Therefore, there are no true positives (TP = 0) as none of the predicted abnormalities align with the reference. The four abnormalities described in the reference (white-spot lesions, nodular irregularities, partial eruption of lateral incisors, and incisal wear) are not captured in the prediction, leading to four false negatives (FN = 4). The two predicted abnormalities (severe enamel pathology and substantial enamel defects) are not present in the reference, resulting in two false positives (FP = 2). There are no true negatives (TN = 0) since the reference does not indicate any normal findings that were correctly identified as such.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23187": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 3,
+    "TN": 0,
+    "reason": "The reference description indicates a healthy oral condition with no abnormalities, while the prediction identifies three abnormalities: presence of dental implants, mild erythema of the surrounding mucosa, and presence of a white, powdery substance. Since the reference does not mention any of these findings, all three predictions are false positives (FP). Additionally, the reference does not indicate any abnormalities that the prediction could have missed, resulting in one false negative (FN) for the absence of any true positive findings. Therefore, TP is 0, FN is 1, FP is 3, and TN is 0.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23175": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 1,
+    "TN": 0,
+    "reason": "The reference description indicates a well-maintained oral environment with no abnormalities, while the prediction incorrectly identifies the presence of dental jewelry (gold grillz) as an abnormality. Since there are no actual abnormalities present in the reference, the prediction is a false positive (FP). Additionally, the absence of any identified abnormalities in the prediction leads to a false negative (FN) since the reference did not mention any abnormalities. Therefore, TP is 0, FN is 1, FP is 1, and TN is 0.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23169": {
+    "TP": 0,
+    "FN": 2,
+    "FP": 2,
+    "TN": 0,
+    "reason": "The reference describes a generally healthy tongue with only a mild white coating and bite marks, indicating no serious pathology. The prediction identifies a 'white, patchy coating on the tongue' and 'thickened lateral edges of the tongue' as abnormalities. Since the reference does not support these findings, both predictions are false positives (FP). Additionally, the reference does not mention any significant abnormalities that would correspond to the predictions, leading to two false negatives (FN) as the reference does not acknowledge any of the predicted conditions.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23165": {
+    "TP": 0,
+    "FN": 2,
+    "FP": 2,
+    "TN": 0,
+    "reason": "The reference describes specific abnormalities: a short, taut lingual frenulum and misaligned lower teeth. The prediction identifies 'Macroglossia' and 'Elongated uvula' as abnormalities, which do not match any of the reference findings. Therefore, there are no true positives (TP = 0) since none of the predicted abnormalities are correct. The two predicted abnormalities that are not found in the reference lead to two false negatives (FN = 2) because the reference abnormalities were not predicted. Additionally, the two incorrect predictions result in two false positives (FP = 2) since they are not present in the reference. There are no true negatives (TN = 0) as there are no correct identifications of normal conditions.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23191": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The reference input describes a healthy oral condition with no abnormalities present, while the prediction input is empty, indicating that no abnormalities were detected. In this case, the absence of predicted abnormalities (FP = 0) and the presence of a healthy condition in the reference (TN = 1) leads to a False Negative (FN = 1) because the reference indicates that there should be no abnormalities, but the prediction did not identify any. Therefore, the confusion matrix values are TP = 0, FN = 1, FP = 0, and TN = 1.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23185": {
+    "TP": 1,
+    "FN": 0,
+    "FP": 1,
+    "TN": 0,
+    "reason": "The reference describes a typical orthodontic scenario with a maxillary arch protrusion as the only notable abnormality. The prediction identifies the presence of a fixed orthodontic appliance, which is indeed present in the reference. Therefore, this counts as a True Positive (TP). However, the prediction does not mention the maxillary arch protrusion, which is a significant abnormality, leading to a False Negative (FN) for that specific detail. The prediction also includes a general statement about the fixed orthodontic appliance, which is true but does not capture the full context of the reference, resulting in a False Positive (FP) since it does not address the specific abnormality described. There are no other abnormalities mentioned in the reference that the prediction could have identified, leading to a True Negative (TN) count of 0.",
+    "P": 0.5,
+    "R": 1.0,
+    "F1": 0.6666666666666666
+  },
+  "23189": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The reference description indicates that there are no abnormalities present in the patient's intraoral image, describing a healthy and aesthetically pleasing lower facial and neck region. The prediction, however, returned an empty array, indicating that no abnormalities were detected. Therefore, there is one false negative (FN) because the reference indicates a healthy state, but the prediction did not identify any abnormalities, which could imply a missed detection of a healthy state. There are no true positives (TP) or false positives (FP) since the prediction did not identify any abnormalities at all. The true negative (TN) is counted as 1 because the reference confirms the absence of abnormalities, and the prediction's lack of findings aligns with this, suggesting that the prediction correctly identified the absence of abnormalities, even though it did not explicitly state it.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23216": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a scenario where the patient's oral condition is normal, with no pathological findings or abnormalities present. The prediction input, however, is empty, indicating that no abnormalities were detected. In this case, there is one true abnormality (the absence of any pathological findings) that was not predicted (FN = 1). Since there are no predictions made, there are no true positives (TP = 0) or false positives (FP = 0). True negatives (TN) are also not applicable here as there are no predictions to confirm the absence of abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23217": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "In the reference input, there is a detailed description of a healthy oral cavity with no abnormalities present. The prediction input, however, is empty, indicating that no abnormalities were identified. Therefore, there are no true positives (TP) since no abnormalities were predicted correctly. There is one false negative (FN) because the reference indicates a healthy state, but the prediction did not acknowledge this state. There are no false positives (FP) since no abnormalities were incorrectly identified. Lastly, there is one true negative (TN) because the absence of predicted abnormalities aligns with the healthy state described in the reference.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23204": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The reference input describes a healthy oral cavity with no abnormalities present, while the prediction input is empty, indicating no detected abnormalities. Therefore, there are no true positives (TP) since no abnormalities were identified in the prediction. There is one false negative (FN) because the reference indicates the presence of healthy structures that were not identified as such in the prediction. There are no false positives (FP) since the prediction did not incorrectly identify any abnormalities. The true negatives (TN) count as 1 because the reference confirms the absence of abnormalities, which aligns with the prediction's lack of findings.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23214": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a specific dental abnormality, including misalignment of the lower dental arch and the labial inclination of tooth #42. The prediction input, however, contains no abnormalities detected (an empty array). Therefore, there are no true positives (TP) since the prediction did not identify any abnormalities that were present in the reference. There is one false negative (FN) because the prediction failed to identify the documented abnormalities in the reference. There are no false positives (FP) since the prediction did not incorrectly identify any abnormalities. True negatives (TN) are not applicable in this context as there were no normal findings reported in the prediction.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23209": {
+    "TP": 1,
+    "FN": 2,
+    "FP": 2,
+    "TN": 0,
+    "reason": "True Positives (TP): The prediction correctly identifies 'Severe gingival inflammation' which aligns with the reference description of inflamed and swollen gingival tissues. False Negatives (FN): The reference describes additional abnormalities such as 'extensive mandibular recession' and 'localized plaque accumulation on tooth #43', which were not captured in the prediction. False Positives (FP): The prediction includes 'Irregular and swollen gingival margin' and 'Plaque deposits along gingival sulcus', which are not explicitly mentioned in the reference description, leading to incorrect assumptions about the gingival margin and plaque location. True Negatives (TN): There are no true negatives as all identified abnormalities in the prediction either do not match or are not present in the reference.",
+    "P": 0.3333333333333333,
+    "R": 0.3333333333333333,
+    "F1": 0.3333333333333333
+  },
+  "23221": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a well-fitted lingual metal orthodontic appliance with no pathological findings or abnormalities. The prediction input is empty, indicating that no abnormalities were identified. Therefore, there are no true positives (TP) since the prediction did not identify the existing condition. There is one false negative (FN) because the reference describes a condition that was not detected in the prediction. There are no false positives (FP) since the prediction did not incorrectly identify any abnormalities. True negatives (TN) cannot be counted as there are no normal conditions identified in the prediction.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23228": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 1,
+    "TN": 0,
+    "reason": "The reference description indicates a generally healthy dentition with no evident carious lesions or fractures, while the prediction identifies a fracture on the maxillary right lateral incisor. Since the reference does not mention any abnormalities, the prediction is incorrect, leading to a False Positive (FP). Additionally, the reference does not acknowledge any fractures, which means the prediction fails to identify an existing abnormality, resulting in a False Negative (FN). There are no true positives (TP) or true negatives (TN) since there are no correct identifications of abnormalities or healthy states.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23252": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a dental model with no abnormalities, indicating a healthy dentition and proper orthodontic treatment. The prediction input, however, is empty, meaning no abnormalities were identified by the LLM. Therefore, there are no true positives (TP) since no abnormalities were detected, and one false negative (FN) exists because the reference indicates a normal condition that was not acknowledged in the prediction. There are no false positives (FP) since the prediction did not incorrectly identify any abnormalities, and true negatives (TN) cannot be counted as there were no predictions made.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23254": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a healthy intraoral condition with no abnormalities present, while the prediction input is empty, indicating that no abnormalities were detected. Therefore, there are no true positives (TP) since no abnormalities were identified in the prediction. There is one false negative (FN) because the reference indicates a healthy state, but the prediction failed to recognize this state. There are no false positives (FP) since no abnormalities were incorrectly identified in the prediction. True negatives (TN) cannot be counted as there are no predictions made to confirm the absence of abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23232": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 1,
+    "TN": 0,
+    "reason": "The prediction identified 'Extensive gingival hyperpigmentation' as an abnormality, which does not accurately reflect the reference description. The reference notes localized black discoloration and pigment deposition on the attached gingiva, not extensive hyperpigmentation. Therefore, the prediction is a False Positive (FP). Additionally, the reference describes incisal defects on teeth #11 and #21, which were not mentioned in the prediction, resulting in a False Negative (FN). There are no true positives (TP) or true negatives (TN) since the prediction did not correctly identify any of the abnormalities described in the reference.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23247": {
+    "TP": 2,
+    "FN": 1,
+    "FP": 1,
+    "TN": 0,
+    "reason": "The reference describes two main abnormalities: the yellowish hue of the teeth (consistent with enamel hypoplasia) and the irregular contour of the teeth (notably the labial inclination of tooth #12 and the nodular prominences on the incisal edges of #11 and #12). The prediction correctly identifies the yellowish-brown discoloration (TP) and the irregular contour of teeth (TP). However, it fails to mention the specific labial inclination of tooth #12 and the nodular prominences, which are part of the reference description, leading to a False Negative (FN). The prediction's description of 'significant yellowish-brown discoloration' is broader than the reference's 'yellowish hue,' but it is still considered a True Positive (TP) since it captures the essence of the abnormality. The prediction also includes a general statement about irregular contour, which is accurate but does not specify the details provided in the reference, leading to a False Positive (FP) as it does not match the specific findings in the reference.",
+    "P": 0.6666666666666666,
+    "R": 0.6666666666666666,
+    "F1": 0.6666666666666666
+  },
+  "23224": {
+    "TP": 0,
+    "FN": 3,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The reference description does not mention any brownish discoloration, surface irregularities, slight gingival recession, or translucent enamel, which are all noted in the prediction. Therefore, all three predictions (brownish discoloration, slight gingival recession, and translucent enamel) are false negatives (FN) since they do not match the reference findings. There are no true positives (TP) as none of the predicted abnormalities were present in the reference. There are no false positives (FP) since the reference does not indicate any abnormalities that were incorrectly identified by the prediction. The only true negative (TN) is the absence of any other abnormalities not mentioned in the reference, which aligns with the overall healthy condition described.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23255": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "In the Reference input, there is a clear description of a healthy oral cavity with no abnormalities present. The Prediction input, however, is empty, indicating that no abnormalities were identified. Therefore, there are no true positives (TP) since no abnormalities were predicted correctly. There is one false negative (FN) because the Reference indicates the presence of a healthy oral cavity, but the prediction did not identify any abnormalities, missing the opportunity to confirm the absence of issues. There are no false positives (FP) since no abnormalities were incorrectly identified in the prediction. Lastly, there is one true negative (TN) because the absence of predicted abnormalities aligns with the healthy status described in the Reference.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23245": {
+    "TP": 3,
+    "FN": 3,
+    "FP": 2,
+    "TN": 0,
+    "reason": "True Positives (TP) are the abnormalities correctly identified by the prediction: 'Significant periodontal inflammation', 'Visible bleeding at gum margins', and 'Malalignment of teeth'. False Negatives (FN) are the abnormalities present in the reference but not identified in the prediction: 'Severe plaque and calculus', 'Severe gingival recession', and 'Proclined appearance of upper canines'. False Positives (FP) are the abnormalities identified in the prediction but not present in the reference: 'Extensive extrinsic staining' and 'Rotated lower central incisors'. True Negatives (TN) are not applicable here as there are no normal findings identified in the prediction.",
+    "P": 0.6,
+    "R": 0.5,
+    "F1": 0.5454545454545454
+  },
+  "23270": {
+    "TP": 0,
+    "FN": 0,
+    "FP": 1,
+    "TN": 1,
+    "reason": "The reference description indicates that all observed intraoral structures are within normal limits, with no signs of abnormalities such as lesions, discoloration, or pathological findings. The prediction, however, identifies an 'irregular white patch on lower gingiva/buccal mucosa,' which is not supported by the reference description. Therefore, this prediction is a false positive (FP). Since there are no actual abnormalities in the reference, there are no true positives (TP) or false negatives (FN). The true negatives (TN) are counted as the absence of any abnormalities in the reference, which confirms the normal condition described.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23259": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 3,
+    "TN": 0,
+    "reason": "The reference description indicates that there are no abnormalities present in the patient's intraoral image, while the prediction identifies three abnormalities: a metallic object, minor texture changes on the chin skin, and visible green hair. Since the reference does not support any of these findings, all three predictions are considered false positives (FP). Additionally, the absence of any identified abnormalities in the reference leads to one false negative (FN) since the prediction failed to recognize the lack of abnormalities. Therefore, there are no true positives (TP) or true negatives (TN) in this case.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23279": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The Reference input describes a normal intraoral image with no abnormalities present, while the Prediction input is empty, indicating that no abnormalities were detected. In this case, the absence of predicted abnormalities (FP = 0) aligns with the absence of actual abnormalities (TN = 1). However, since the Reference indicates a normal condition and the Prediction does not provide any findings, we have a False Negative (FN = 1) because the model failed to identify the normal state as a valid output. Therefore, the confusion matrix reflects that there were no true positives (TP = 0) and one false negative.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23257": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 1,
+    "TN": 0,
+    "reason": "The prediction identified a pathological finding on the mandibular second premolar, which is not supported by the reference description. The reference does not mention any pathological findings on the second premolar, indicating that the prediction is incorrect (False Positive). Additionally, the reference describes various abnormalities, including crowding and wear on other teeth, which were not captured in the prediction, leading to a False Negative for those findings. Therefore, there are no true positives or true negatives in this case.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23285": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes several abnormalities, including labial plaque, gingival pigmentation, slight gingival recession, and misalignment of the mandibular central incisor. However, the prediction input contains no abnormalities, resulting in a False Negative (FN) for the one abnormality present in the reference. There are no True Positives (TP) or False Positives (FP) since the prediction did not identify any abnormalities. True Negatives (TN) are also not applicable here as there were no normal findings reported in the prediction.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23287": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "In the Reference input, there is a detailed description of a healthy oral condition with no abnormalities present. The Prediction input, however, is empty, indicating that no abnormalities were identified. Therefore, there are no true positives (TP) since no abnormalities were predicted correctly. There is one false negative (FN) because the Reference indicates a healthy state, but the prediction did not identify any abnormalities, which could imply a missed opportunity to confirm the healthy status. There are no false positives (FP) since no abnormalities were incorrectly identified in the prediction. Lastly, there is one true negative (TN) because the absence of predicted abnormalities aligns with the healthy condition described in the Reference.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23274": {
+    "TP": 0,
+    "FN": 3,
+    "FP": 2,
+    "TN": 0,
+    "reason": "The reference description indicates that the gingival tissues are healthy, pink, and free of inflammation, contradicting the prediction of inflammation and a red spot on the gingival margin. Therefore, the predictions of inflammation (TP) and the red spot (TP) are false negatives (FN) since they do not match the reference. The use of a periodontal probe is mentioned in both the reference and prediction, but it is not classified as an abnormality in the reference, leading to a false positive (FP). Thus, there are no true positives (TP) or true negatives (TN) since all predictions are either false negatives or false positives.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23275": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 2,
+    "TN": 0,
+    "reason": "The reference description indicates a normal, healthy dentition and oral soft tissue architecture with no abnormal findings. The prediction identifies two abnormalities: yellowish discoloration of lower anterior teeth and a yellowish, granular substance near the mouth. Since the reference does not mention any abnormalities, both predictions are considered false positives (FP). Additionally, there are no true positives (TP) since no actual abnormalities were present in the reference. The false negative (FN) is counted as 1 because the prediction failed to identify any abnormalities that were present in the reference, which is none, leading to a count of 1 for FN.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23286": {
+    "TP": 1,
+    "FN": 0,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The prediction correctly identifies the presence of fixed orthodontic appliances, which is a true positive (TP) since the reference description confirms the presence of orthodontic brackets and an archwire. There are no false negatives (FN) as all relevant abnormalities were captured in the reference. There are no false positives (FP) since the prediction does not identify any abnormalities that are not present in the reference. True negatives (TN) are not applicable in this context as there are no other conditions or abnormalities to assess.",
+    "P": 1.0,
+    "R": 1.0,
+    "F1": 1.0
+  },
+  "23289": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The reference input describes a stable and healthy mandibular dentition with only expected orthodontic hardware and a protective cotton roll present. The prediction input is empty, indicating that no abnormalities were identified. Since the reference contains a description of a healthy state (which can be considered a true negative), we have one true negative (TN). However, the absence of any prediction means that the one abnormality noted in the reference (the presence of orthodontic hardware and a cotton roll) was not identified, resulting in one false negative (FN). There are no true positives (TP) or false positives (FP) since the prediction did not identify any abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23288": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 2,
+    "TN": 0,
+    "reason": "The reference description does not mention any erythematous lesions or discoloration on the lower molars, indicating that the prediction of these abnormalities is incorrect. Therefore, both predictions are false positives (FP). The reference does highlight crowding and calculus accumulation, which the prediction fails to identify, resulting in one false negative (FN) for the crowding and calculus. There are no true positives (TP) or true negatives (TN) since the predictions do not align with the reference findings.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23295": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a healthy oral cavity with no abnormalities present, while the prediction input is empty, indicating that no abnormalities were detected. Since the reference indicates the presence of a healthy state (no abnormalities), the absence of any predictions leads to a False Negative (FN) because the model failed to identify the healthy state as a lack of abnormalities. There are no True Positives (TP) since no abnormalities were predicted, and there are no False Positives (FP) since no incorrect abnormality predictions were made. True Negatives (TN) cannot be counted as there is no classification of negative cases in the prediction.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23296": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "In the reference input, there is a detailed description of a normal oral cavity with no abnormalities present. The prediction input, however, is empty, indicating that no abnormalities were identified by the model. Therefore, there are no true positives (TP) since no abnormalities were predicted correctly. There is one false negative (FN) because the reference indicates a normal condition, but the model failed to predict any abnormalities, which means it did not recognize the absence of abnormalities. There are no false positives (FP) since the model did not incorrectly identify any abnormalities. Lastly, there is one true negative (TN) because the reference confirms the absence of abnormalities, and the model's prediction (though empty) aligns with this by not indicating any abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23308": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The Reference input describes a well-maintained oral environment with no abnormalities present, indicating a true negative (TN) scenario. The Prediction input, however, contains no abnormalities detected (empty array), which means it failed to identify the absence of abnormalities, resulting in a false negative (FN). There are no true positives (TP) or false positives (FP) since there were no detected abnormalities in either input.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23304": {
+    "TP": 1,
+    "FN": 0,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The reference describes a tongue piercing as the sole abnormality, which is correctly identified in the prediction. Therefore, there is 1 True Positive (TP) for the tongue piercing. There are no False Negatives (FN) since the prediction did not miss any abnormalities described in the reference. There are no False Positives (FP) because the prediction did not identify any abnormalities that were not present in the reference. Lastly, there is 1 True Negative (TN) as the remaining oral structures were described as normal and were not incorrectly identified as abnormal.",
+    "P": 1.0,
+    "R": 1.0,
+    "F1": 1.0
+  },
+  "23297": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 1,
+    "reason": "The reference input describes a normal intraoral image with no abnormalities, while the prediction input is empty, indicating no detected abnormalities. Therefore, there are no true positives (TP) since no abnormalities were identified in the prediction. There is one false negative (FN) because the reference indicates the absence of abnormalities, but the prediction did not confirm this absence. There are no false positives (FP) since the prediction did not incorrectly identify any abnormalities. Lastly, there is one true negative (TN) because the reference confirms the absence of abnormalities, and the prediction also did not identify any, even though it was empty.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23300": {
+    "TP": 1,
+    "FN": 1,
+    "FP": 1,
+    "TN": 0,
+    "reason": "The reference describes significant swelling of the upper lip as the only abnormality, which corresponds to the prediction of 'Significant diffuse swelling of the upper lip' (TP). However, the reference does not mention erythema of the upper lip, making the prediction of 'Erythema of the upper lip' a false positive (FP). The prediction fails to identify the absence of any other abnormalities, leading to a false negative (FN) for the lack of additional findings. There are no true negatives (TN) since all findings in the prediction are either true or false abnormalities.",
+    "P": 0.5,
+    "R": 0.5,
+    "F1": 0.5
+  },
+  "23309": {
+    "TP": 0,
+    "FN": 1,
+    "FP": 0,
+    "TN": 0,
+    "reason": "The reference input describes a well-maintained orthodontic situation with no pathological findings or abnormalities, while the prediction input is empty. Therefore, there are no true positives (TP) since no abnormalities were predicted. There is one false negative (FN) because the reference contains a detailed description of the patient's oral condition, which should have been recognized as normal but was not predicted. There are no false positives (FP) since no abnormalities were incorrectly identified in the prediction. True negatives (TN) are also zero because there were no predictions made to confirm the absence of abnormalities.",
+    "P": 0.0,
+    "R": 0.0,
+    "F1": 0.0
+  },
+  "23322": {
+    "TP": 1,
+    "FN": 1,
+    "FP": 2,
+    "TN": 0,
+    "reason": "The reference describes significant discoloration of the lower right teeth, which aligns with the prediction of 'Significant discoloration of teeth' (TP). However, the reference does not mention any signs of wear or decay, nor does it indicate visible gaps between teeth, leading to one false negative (FN) for the wear and potential decay prediction and two false positives (FP) for the wear and potential decay and visible gaps predictions. There are no true negatives (TN) since all predictions were related to abnormalities that were either misidentified or not present.",
+    "P": 0.3333333333333333,
+    "R": 0.5,
+    "F1": 0.4
+  }
+}

@@ -1,0 +1,73 @@
+{"id": "dr_cls_test_0000", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0002", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity, Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0006", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0005", "task": "dr_classification", "source": "DR", "ground_truth": "Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0013", "task": "dr_classification", "source": "DR", "ground_truth": "Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0010", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity, Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0008", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0001", "task": "dr_classification", "source": "DR", "ground_truth": "Implant", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0015", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0004", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity, Implant", "prediction": "Implant, Cavity", "failed": false}
+{"id": "dr_cls_test_0012", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Implant", "failed": false}
+{"id": "dr_cls_test_0011", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0007", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Implant, Impacted Tooth", "failed": false}
+{"id": "dr_cls_test_0009", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0014", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Cavity, Fillings, Impacted Tooth, Implant", "failed": false}
+{"id": "dr_cls_test_0003", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity, Fillings, Impacted Tooth, Implant", "prediction": "Cavity, Fillings, Impacted Tooth, Implant", "failed": false}
+{"id": "dr_cls_test_0018", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0019", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity, Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0023", "task": "dr_classification", "source": "DR", "ground_truth": "Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0026", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0027", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0030", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0016", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0020", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0022", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Implant, Fillings", "failed": false}
+{"id": "dr_cls_test_0021", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0024", "task": "dr_classification", "source": "DR", "ground_truth": "Impacted Tooth, Implant", "prediction": "Implant, Cavity", "failed": false}
+{"id": "dr_cls_test_0031", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0017", "task": "dr_classification", "source": "DR", "ground_truth": "Impacted Tooth", "prediction": "Impacted Tooth, Implant", "failed": false}
+{"id": "dr_cls_test_0034", "task": "dr_classification", "source": "DR", "ground_truth": "Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0032", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0028", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Implant, Cavity, Fillings", "failed": false}
+{"id": "dr_cls_test_0040", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0037", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0035", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0036", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0038", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0043", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0044", "task": "dr_classification", "source": "DR", "ground_truth": "Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0041", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0039", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0042", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0045", "task": "dr_classification", "source": "DR", "ground_truth": "Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0025", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Impacted Tooth, Implant", "prediction": "Cavity, Fillings, Impacted Tooth, Implant", "failed": false}
+{"id": "dr_cls_test_0029", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Cavity, Fillings, Impacted Tooth, Implant", "failed": false}
+{"id": "dr_cls_test_0048", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0051", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0054", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0056", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity, Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0046", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0047", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0057", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0050", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Implant, Fillings", "failed": false}
+{"id": "dr_cls_test_0033", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Cavity, Fillings, Impacted Tooth, Implant", "failed": false}
+{"id": "dr_cls_test_0052", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0049", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "Impacted Tooth, Implant", "failed": false}
+{"id": "dr_cls_test_0063", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0064", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0067", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0060", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0061", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Implant, Fillings", "failed": false}
+{"id": "dr_cls_test_0062", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0068", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0058", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "Implant, Cavity, Fillings", "failed": false}
+{"id": "dr_cls_test_0066", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity, Fillings", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0065", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Fillings, Implant", "failed": false}
+{"id": "dr_cls_test_0055", "task": "dr_classification", "source": "DR", "ground_truth": "Cavity, Fillings, Implant", "prediction": "Cavity, Fillings, Impacted Tooth, Implant", "failed": false}
+{"id": "dr_cls_test_0072", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0070", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0053", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Cavity, Fillings, Impacted Tooth, Implant", "failed": false}
+{"id": "dr_cls_test_0059", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Implant", "prediction": "Cavity, Fillings, Impacted Tooth, Implant", "failed": false}
+{"id": "dr_cls_test_0069", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings, Impacted Tooth", "prediction": "None", "failed": false}
+{"id": "dr_cls_test_0071", "task": "dr_classification", "source": "DR", "ground_truth": "Fillings", "prediction": "Implant, Cavity, Fillings", "failed": false}

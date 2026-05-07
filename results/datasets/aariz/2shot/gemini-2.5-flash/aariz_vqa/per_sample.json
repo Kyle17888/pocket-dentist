@@ -1,0 +1,3368 @@
+{
+  "aariz_vqa_growth_pattern_cl5lg05ul01g6074k007y5xhr": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lc0isc127g072u23n3bcec": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5a3zmb0771c09946yc": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5d3zsr07713tm19sg1": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05uq01ka074k6w2h75zi": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05ul01gq074kb4xm8mml": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05uj01cy074kbtgnglzs": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fz2ap40yufh17426v6": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g62b6w0yuffpy96gut": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n543ze30771b77f8w7c": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05ul01ga074kg2k84v0q": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fz2anl0yufe59x6gbe": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g32av80yuf73500e1b": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fx2ahw0yufhn9xb0jn": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks7w6yay4sp00yrp1ebg8fol": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g32avx0yuf1buw82up": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n583zkj0771f987fg5k": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8ft2a9z0yuff4zy2rlu": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6wmcdb73jj7078v1gli680d": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5j40330771cc2g7f0w": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5e3zt707713do898o3": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n533zcf0771haz16bs6": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05uf019m074k8q27h7oy": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fy2amm0yufgnfi05dg": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fq29zz0yuf15jsfhlu": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5i400n07711x137ebf": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g42b030yufalnk3n9m": {
+    "gt": "Normodivergent",
+    "pred": "Hyperdivergent",
+    "correct": 0,
+    "raw_prediction": "Hyperdivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5i400v07716nw212c7": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n563zgz07711kqk3i2n": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fy2ak90yuf23jt2wlv": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fy2ald0yufglun6tq4": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fr2a2r0yuf718nerfe": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lc0ise12bw072u5qa90f12": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05uc016m074k8tltapbp": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fq29zp0yuf7cxd3bz2": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g02asq0yuf59owfht0": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fq2a1d0yuf82ote2y7": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n563zhz07719nefdiri": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fr2a4p0yuffc5t82n9": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5c3zq307710nkfeili": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5i40170771hcl7317r": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5k404r07716yihau93": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5g3zxz0771868p0b32": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks7u9tyg5z7j0ytobkyxce57": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5j403707710edvgs8s": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05ue0182074k2efjh49e": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fz2aqd0yufezrmgjit": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5a3znf07711dy51kgx": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fy2ajz0yufh35h14xu": {
+    "gt": "Hyperdivergent",
+    "pred": "Hyperdivergent",
+    "correct": 1,
+    "raw_prediction": "Hyperdivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5a3zn7077147c625uf": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n583zkz07711zi95vxl": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lc0ise12bs072u9zb31kau": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5c3zqj0771b9mufcmq": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05un01hm074k3dwy9l5q": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g02arh0yufgha87gam": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g72bas0yuf5i1scd3h": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2six6b2eqx0yuf8xmh1f10": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5e3ztz07711arlgr03": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lc0isc127k072u64uvg8es": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05ur01lm074kaznu2ncg": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6wmcdbc3jnz078vcwqp3d1w": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fx2agi0yufhc8i501s": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05uh01c6074k074j7dur": {
+    "gt": "Hyperdivergent",
+    "pred": "Hyperdivergent",
+    "correct": 1,
+    "raw_prediction": "Hyperdivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g42b0d0yufb9vwfwlc": {
+    "gt": "Normodivergent",
+    "pred": "Hyperdivergent",
+    "correct": 0,
+    "raw_prediction": "Hyperdivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fz2aq80yuf2pz61jh3": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g32aw20yufcvum9zg4": {
+    "gt": "Hyperdivergent",
+    "pred": "Hyperdivergent",
+    "correct": 1,
+    "raw_prediction": "Hyperdivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05ud017a074k37pdhlni": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fz2aqi0yufd759dhwz": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5a3zm70771dmr4caqp": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5f3zvj07715mbf4a7g": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fy2al80yuf9w4x9x27": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl8ka1gfb2y2z072w022ffi7y": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5d3zrb0771f52b2jhf": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05uc016y074kh0952gjo": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5e3zuj0771bvv7a7q5": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Based on the lateral cephalometric radiograph, the patient exhibits a **Hypodivergent** vertical growth pattern.\n\nKey indicators for this assessment include:\n1.  **Flat Mandibular Plane:**"
+  },
+  "aariz_vqa_growth_pattern_cl9k69ka232k1088c6lhg4wkj": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05ug01b2074kf0h42t6e": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05uc0172074kbu3r0s02": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8ft2abx0yufa6de8q13": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6wmcdb93jkj078v7cqudjqy": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g42b0s0yuf23y8917i": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lc0isd128w072u4hvg4n8y": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g62b7b0yuffrlb7xa1": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5k405307716g0393xo": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n543zdr077179ho1mzo": {
+    "gt": "Normodivergent",
+    "pred": "Hyperdivergent",
+    "correct": 0,
+    "raw_prediction": "Hyperdivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05ue018u074kaazdbrpb": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5e3zu307715qgbc4ac": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n573zj30771fol8em9g": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05ul01gm074k2rztekih": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5k404j077178t4h37u": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n563zhn07718obeej9s": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks7u9tyf5z5g0yto3kvl0waz": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5b3zo7077152xt362j": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8ft2aa90yuf097z2qmt": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl5lg05up01jy074kdce33nfb": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl9k69ka232jl088c2hqt289r": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fz2ao00yuf0p085exq": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5k404707716zx8argc": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5b3znn0771fdwy7nyp": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fz2anv0yufdoup0vpn": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fy2aju0yuf8lqu1038": {
+    "gt": "Hyperdivergent",
+    "pred": "UNMAPPED",
+    "correct": 0,
+    "raw_prediction": "Based on the visual assessment of the lateral cephalometric radiograph:\n\n1.  **Mandibular Plane Angle:** The angle of the mandibular plane (the lower border of the mandible) appears relatively flat"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g32awh0yuf4laacm47": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl9k69ka132it088cbdvd3m3w": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g42aze0yuffg2368n3": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fr2a5e0yuf2k3vg7m5": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cl6cc2n5j402j07718tm88003": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks7u9tyf5z5l0yto9w6200ja": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fp29yl0yuf6ry9266i": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fw2aea0yuf1cv2clb1": {
+    "gt": "Normodivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8g32ax10yufafcahymx": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fx2ai10yuf60ue28fy": {
+    "gt": "Hypodivergent",
+    "pred": "Hypodivergent",
+    "correct": 1,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_growth_pattern_cks2ip8fs2a5o0yuf57hj23ih": {
+    "gt": "Hyperdivergent",
+    "pred": "Hypodivergent",
+    "correct": 0,
+    "raw_prediction": "Hypodivergent"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5a3zmb0771c09946yc": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fz2anv0yufdoup0vpn": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05ue0182074k2efjh49e": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g72bas0yuf5i1scd3h": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fz2ap40yufh17426v6": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fw2aek0yufd5l89lt6": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05uh01c6074k074j7dur": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl9k69ka232jl088c2hqt289r": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05uc016m074k8tltapbp": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5c3zqj0771b9mufcmq": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5e3zt707713do898o3": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05ue018u074kaazdbrpb": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl9k69ka132it088cbdvd3m3w": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lc0ise12bs072u9zb31kau": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fq2a1d0yuf82ote2y7": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8ft2aa90yuf097z2qmt": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g52b3u0yuf558g4ihc": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n533zcf0771haz16bs6": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g32aw20yufcvum9zg4": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fx2ai10yuf60ue28fy": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8ft2a9z0yuff4zy2rlu": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5b3zo7077152xt362j": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks7u9tyg5z7j0ytobkyxce57": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g42aze0yuffg2368n3": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5a3znf07711dy51kgx": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5b3znn0771fdwy7nyp": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05up01jy074kdce33nfb": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2six6b2eqx0yuf8xmh1f10": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05ud017a074k37pdhlni": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g42b030yufalnk3n9m": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6wmcdbc3jnz078vcwqp3d1w": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8ft2abx0yufa6de8q13": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05uc0172074kbu3r0s02": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g02asq0yuf59owfht0": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lc0ise12bw072u5qa90f12": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6wmcdb93jkj078v7cqudjqy": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05ul01g6074k007y5xhr": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n583zkz07711zi95vxl": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g02arm0yufhgwvdwo2": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5e3zu307715qgbc4ac": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fr2a2r0yuf718nerfe": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5j402707714bsofzwr": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fq29zz0yuf15jsfhlu": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n563zhn07718obeej9s": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g62b7b0yuffrlb7xa1": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g32awh0yuf4laacm47": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fp29yl0yuf6ry9266i": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lc0isd128w072u4hvg4n8y": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fy2ald0yufglun6tq4": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fx2ahw0yufhn9xb0jn": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5j402j07718tm88003": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fr2a5e0yuf2k3vg7m5": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05ul01ga074kg2k84v0q": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5i40170771hcl7317r": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g62b6w0yuffpy96gut": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5e3ztz07711arlgr03": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fq2a040yufdl20fomx": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fz2aqd0yufezrmgjit": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g32ax10yufafcahymx": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5k405307716g0393xo": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05uj01cy074kbtgnglzs": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g42b0d0yufb9vwfwlc": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl8ka1gfb2y2z072w022ffi7y": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05uc0162074kcqzl2n56": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fz2ao00yuf0p085exq": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5a3zn7077147c625uf": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fr2a3g0yufgxtf43y5": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5j403707710edvgs8s": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05up01k2074khosl9t1j": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5j40330771cc2g7f0w": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05ug01b2074kf0h42t6e": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n563zhz07719nefdiri": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks7u9tyf5z5g0yto3kvl0waz": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05ur01lm074kaznu2ncg": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5j403f077130hn0lfh": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lc0isd1298072u53z31emu": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fq29zp0yuf7cxd3bz2": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g02arh0yufgha87gam": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n563zgz07711kqk3i2n": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5i400n07711x137ebf": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fy2al80yuf9w4x9x27": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fy2ak90yuf23jt2wlv": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fx2agi0yufhc8i501s": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl9k69ka232k1088c6lhg4wkj": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n543zdr077179ho1mzo": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n543ze30771b77f8w7c": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fy2amm0yufgnfi05dg": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05ul01gm074k2rztekih": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fr2a4p0yuffc5t82n9": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g12auy0yufg7dscg3r": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05uc016y074kh0952gjo": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5k404707716zx8argc": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6wmcdb63jhb078vdwe74a4v": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5k404j077178t4h37u": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5d3zsr07713tm19sg1": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks7u9tyf5z5l0yto9w6200ja": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5c3zq307710nkfeili": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lg05ul01gq074kb4xm8mml": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lc0isc127g072u23n3bcec": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5a3zm70771dmr4caqp": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl5lc0isc127k072u64uvg8es": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n583zkj0771f987fg5k": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5g3zxz0771868p0b32": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8fs2a5o0yuf57hj23ih": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5f3zvj07715mbf4a7g": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g62b7l0yufg4h03k4a": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g12auj0yuf0ivx85x6": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n573zj30771fol8em9g": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cl6cc2n5k404r07716yihau93": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g32avx0yuf1buw82up": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks7w6yay4sp00yrp1ebg8fol": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_incisor_inclination_cks2ip8g42b0s0yuf23y8917i": {
+    "gt": "Retroclined",
+    "pred": "Proclined",
+    "correct": 0,
+    "raw_prediction": "Proclined"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n533zcf0771haz16bs6": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fr2a4p0yuffc5t82n9": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05ud017a074k37pdhlni": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lc0ise12bs072u9zb31kau": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8ft2aa90yuf097z2qmt": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05uc016y074kh0952gjo": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05ul01gq074kb4xm8mml": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g62b7l0yufg4h03k4a": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5j402j07718tm88003": {
+    "gt": "Prognathic",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g52b3u0yuf558g4ihc": {
+    "gt": "Prognathic",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fs2a5o0yuf57hj23ih": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n543zdr077179ho1mzo": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5j403f077130hn0lfh": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fz2ap40yufh17426v6": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05un01hm074k3dwy9l5q": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fy2ald0yufglun6tq4": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl9k69ka132it088cbdvd3m3w": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lc0isd128w072u4hvg4n8y": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks7w6yay4sp00yrp1ebg8fol": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fx2ahw0yufhn9xb0jn": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n563zhz07719nefdiri": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fy2ak90yuf23jt2wlv": {
+    "gt": "Prognathic",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fq2a1d0yuf82ote2y7": {
+    "gt": "Prognathic",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5e3zt707713do898o3": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05ul01gm074k2rztekih": {
+    "gt": "Prognathic",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g02asq0yuf59owfht0": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5b3znn0771fdwy7nyp": {
+    "gt": "Prognathic",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g42b0s0yuf23y8917i": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05uc0172074kbu3r0s02": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6wmcdb73jj7078v1gli680d": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5c3zqj0771b9mufcmq": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lc0isc127k072u64uvg8es": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fp29yl0yuf6ry9266i": {
+    "gt": "Prognathic",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g32ax10yufafcahymx": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05uq01ka074k6w2h75zi": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6wmcdb93jkj078v7cqudjqy": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g62b6w0yuffpy96gut": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lc0isd1298072u53z31emu": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05up01jy074kdce33nfb": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8ft2a9z0yuff4zy2rlu": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5j403707710edvgs8s": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05ul01g6074k007y5xhr": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5i400v07716nw212c7": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n563zhn07718obeej9s": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fz2aqi0yufd759dhwz": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fq29zp0yuf7cxd3bz2": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5e3ztz07711arlgr03": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5f3zvj07715mbf4a7g": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g32av80yuf73500e1b": {
+    "gt": "Prognathic",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fq2a040yufdl20fomx": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fq29zz0yuf15jsfhlu": {
+    "gt": "Prognathic",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5a3zmb0771c09946yc": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5j402707714bsofzwr": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g42b030yufalnk3n9m": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n573zj30771fol8em9g": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g42aze0yuffg2368n3": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fr2a2r0yuf718nerfe": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5c3zq307710nkfeili": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8ft2abx0yufa6de8q13": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05uc016m074k8tltapbp": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fz2ao00yuf0p085exq": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5k404707716zx8argc": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lc0isc127g072u23n3bcec": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks7u9tyf5z5g0yto3kvl0waz": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g02arm0yufhgwvdwo2": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g12auy0yufg7dscg3r": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5k404r07716yihau93": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fy2amm0yufgnfi05dg": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g12auj0yuf0ivx85x6": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fz2anl0yufe59x6gbe": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g72bas0yuf5i1scd3h": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05ul01ga074kg2k84v0q": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fw2aek0yufd5l89lt6": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05uc0162074kcqzl2n56": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05ug01b2074kf0h42t6e": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5e3zu307715qgbc4ac": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5k404j077178t4h37u": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5d3zrb0771f52b2jhf": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fz2anv0yufdoup0vpn": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n583zkj0771f987fg5k": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fw2aea0yuf1cv2clb1": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05uj01cy074kbtgnglzs": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fy2aju0yuf8lqu1038": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5a3zm70771dmr4caqp": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5i400n07711x137ebf": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5d3zsr07713tm19sg1": {
+    "gt": "Prognathic",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05ur01lm074kaznu2ncg": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g32aw20yufcvum9zg4": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5a3znf07711dy51kgx": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fr2a5e0yuf2k3vg7m5": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8g32avx0yuf1buw82up": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05up01k2074khosl9t1j": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5j40330771cc2g7f0w": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl9k69ka232k1088c6lhg4wkj": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05uh01c6074k074j7dur": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks7u9tyg5z7j0ytobkyxce57": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fz2aq80yuf2pz61jh3": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6wmcdbc3jnz078vcwqp3d1w": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl9k69ka232jl088c2hqt289r": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05uf019m074k8q27h7oy": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fz2aqd0yufezrmgjit": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fy2al80yuf9w4x9x27": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fy2ajz0yufh35h14xu": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2ip8fx2ai10yuf60ue28fy": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_mandible_position_cks2six6b2eqx0yuf8xmh1f10": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl5lg05ue018u074kaazdbrpb": {
+    "gt": "Retrognathic",
+    "pred": "Retrognathic",
+    "correct": 1,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6wmcdb63jhb078vdwe74a4v": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n563zgz07711kqk3i2n": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n543ze30771b77f8w7c": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5i40170771hcl7317r": {
+    "gt": "Normal",
+    "pred": "Retrognathic",
+    "correct": 0,
+    "raw_prediction": "Retrognathic"
+  },
+  "aariz_vqa_mandible_position_cl6cc2n5e3zuj0771bvv7a7q5": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fz2aq80yuf2pz61jh3": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g12auy0yufg7dscg3r": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks7u9tyg5z7j0ytobkyxce57": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5c3zqj0771b9mufcmq": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05up01jy074kdce33nfb": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5k404j077178t4h37u": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5j402707714bsofzwr": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5j403707710edvgs8s": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5i400n07711x137ebf": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5j403f077130hn0lfh": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g32ax10yufafcahymx": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g32av80yuf73500e1b": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05ul01ga074kg2k84v0q": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n583zkz07711zi95vxl": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fq29zz0yuf15jsfhlu": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5a3znf07711dy51kgx": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05up01k2074khosl9t1j": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks7u9tyf5z5g0yto3kvl0waz": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05uf019m074k8q27h7oy": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g52b3u0yuf558g4ihc": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fw2aek0yufd5l89lt6": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05ul01gm074k2rztekih": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05un01hm074k3dwy9l5q": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05ur01lm074kaznu2ncg": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5a3zm70771dmr4caqp": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5k404707716zx8argc": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g02asq0yuf59owfht0": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fw2aea0yuf1cv2clb1": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05ul01g6074k007y5xhr": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05uq01ka074k6w2h75zi": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks7w6yay4sp00yrp1ebg8fol": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2six6b2eqx0yuf8xmh1f10": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fr2a3g0yufgxtf43y5": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fq2a1d0yuf82ote2y7": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fz2ap40yufh17426v6": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fs2a5o0yuf57hj23ih": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fr2a5e0yuf2k3vg7m5": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5e3zu307715qgbc4ac": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n563zhn07718obeej9s": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g62b7l0yufg4h03k4a": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lc0ise12bs072u9zb31kau": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lc0isd1298072u53z31emu": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05ue018u074kaazdbrpb": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g02arh0yufgha87gam": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lc0isc127g072u23n3bcec": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5k404r07716yihau93": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g32avx0yuf1buw82up": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fz2aqi0yufd759dhwz": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8ft2a9z0yuff4zy2rlu": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g02arm0yufhgwvdwo2": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g32aw20yufcvum9zg4": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n563zgz07711kqk3i2n": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fr2a2r0yuf718nerfe": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g42b0d0yufb9vwfwlc": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05ud017a074k37pdhlni": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fq29zp0yuf7cxd3bz2": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5c3zq307710nkfeili": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g12auj0yuf0ivx85x6": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5j402j07718tm88003": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05ul01gq074kb4xm8mml": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05ue0182074k2efjh49e": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n573zj30771fol8em9g": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n583zkj0771f987fg5k": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n543zdr077179ho1mzo": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5a3zmb0771c09946yc": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fx2ahw0yufhn9xb0jn": {
+    "gt": "Normal",
+    "pred": "Normal",
+    "correct": 1,
+    "raw_prediction": "Normal"
+  },
+  "aariz_vqa_maxilla_position_cl5lc0ise12bw072u5qa90f12": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g42aze0yuffg2368n3": {
+    "gt": "Normal",
+    "pred": "Normal",
+    "correct": 1,
+    "raw_prediction": "Normal"
+  },
+  "aariz_vqa_maxilla_position_cl9k69ka232k1088c6lhg4wkj": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lc0isd128w072u4hvg4n8y": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5i40170771hcl7317r": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fq2a040yufdl20fomx": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n533zcf0771haz16bs6": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05uh01c6074k074j7dur": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fz2anl0yufe59x6gbe": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fy2amm0yufgnfi05dg": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g42b030yufalnk3n9m": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6wmcdb93jkj078v7cqudjqy": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fz2anv0yufdoup0vpn": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05uc0172074kbu3r0s02": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05uc0162074kcqzl2n56": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fp29yl0yuf6ry9266i": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5g3zxz0771868p0b32": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n543ze30771b77f8w7c": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5e3zt707713do898o3": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6wmcdbc3jnz078vcwqp3d1w": {
+    "gt": "Retrognathic",
+    "pred": "Normal",
+    "correct": 0,
+    "raw_prediction": "Normal"
+  },
+  "aariz_vqa_maxilla_position_cl6wmcdb73jj7078v1gli680d": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lc0isc127k072u64uvg8es": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05uc016m074k8tltapbp": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5b3znn0771fdwy7nyp": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g32awh0yuf4laacm47": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks7u9tyf5z5l0yto9w6200ja": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05ug01b2074kf0h42t6e": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5j40330771cc2g7f0w": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5d3zsr07713tm19sg1": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5i400v07716nw212c7": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fz2aqd0yufezrmgjit": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g62b7b0yuffrlb7xa1": {
+    "gt": "Retrognathic",
+    "pred": "Normal",
+    "correct": 0,
+    "raw_prediction": "Normal"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g72bas0yuf5i1scd3h": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5k405307716g0393xo": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl8ka1gfb2y2z072w022ffi7y": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fy2al80yuf9w4x9x27": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5e3ztz07711arlgr03": {
+    "gt": "Normal",
+    "pred": "Normal",
+    "correct": 1,
+    "raw_prediction": "Normal"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5e3zuj0771bvv7a7q5": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8g62b6w0yuffpy96gut": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8ft2abx0yufa6de8q13": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6cc2n5f3zvj07715mbf4a7g": {
+    "gt": "Retrognathic",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cks2ip8fx2ai10yuf60ue28fy": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl5lg05uj01cy074kbtgnglzs": {
+    "gt": "Prognathic",
+    "pred": "Prognathic",
+    "correct": 1,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_maxilla_position_cl6wmcdb63jhb078vdwe74a4v": {
+    "gt": "Normal",
+    "pred": "Prognathic",
+    "correct": 0,
+    "raw_prediction": "Prognathic"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5k404j077178t4h37u": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05ud017a074k37pdhlni": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5j40330771cc2g7f0w": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fz2anv0yufdoup0vpn": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05uj01cy074kbtgnglzs": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05ue018u074kaazdbrpb": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fy2ald0yufglun6tq4": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fs2a5o0yuf57hj23ih": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lc0ise12bw072u5qa90f12": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5k404r07716yihau93": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n533zcf0771haz16bs6": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g32av80yuf73500e1b": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5c3zq307710nkfeili": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5e3ztz07711arlgr03": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6wmcdbc3jnz078vcwqp3d1w": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fy2amm0yufgnfi05dg": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6wmcdb93jkj078v7cqudjqy": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05ul01gm074k2rztekih": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks7u9tyf5z5l0yto9w6200ja": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks7w6yay4sp00yrp1ebg8fol": {
+    "gt": "Class III",
+    "pred": "Class III",
+    "correct": 1,
+    "raw_prediction": "Class III"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5g3zxz0771868p0b32": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05ue0182074k2efjh49e": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fz2ao00yuf0p085exq": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5b3zo7077152xt362j": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fy2ajz0yufh35h14xu": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05uc0162074kcqzl2n56": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lc0isc127k072u64uvg8es": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks7u9tyf5z5g0yto3kvl0waz": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl8ka1gfb2y2z072w022ffi7y": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05ul01gq074kb4xm8mml": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05uf019m074k8q27h7oy": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5e3zu307715qgbc4ac": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6wmcdb63jhb078vdwe74a4v": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5j403f077130hn0lfh": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fy2al80yuf9w4x9x27": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fw2aea0yuf1cv2clb1": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g12auy0yufg7dscg3r": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5j402707714bsofzwr": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5a3zn7077147c625uf": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n573zj30771fol8em9g": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5k404707716zx8argc": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05uc0172074kbu3r0s02": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5i400n07711x137ebf": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks7u9tyg5z7j0ytobkyxce57": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g32avx0yuf1buw82up": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fq29zz0yuf15jsfhlu": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g32awh0yuf4laacm47": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fx2ai10yuf60ue28fy": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8ft2abx0yufa6de8q13": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n563zhz07719nefdiri": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5i400v07716nw212c7": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05un01hm074k3dwy9l5q": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05ug01b2074kf0h42t6e": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5a3zm70771dmr4caqp": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g52b3u0yuf558g4ihc": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g42b0d0yufb9vwfwlc": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lc0isd128w072u4hvg4n8y": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g62b7l0yufg4h03k4a": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g42b030yufalnk3n9m": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fp29yl0yuf6ry9266i": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g02asq0yuf59owfht0": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fx2ahw0yufhn9xb0jn": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5a3zmb0771c09946yc": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n583zkz07711zi95vxl": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05uc016m074k8tltapbp": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05up01k2074khosl9t1j": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2six6b2eqx0yuf8xmh1f10": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fr2a2r0yuf718nerfe": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5k405307716g0393xo": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05uh01c6074k074j7dur": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g62b6w0yuffpy96gut": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lc0isc127g072u23n3bcec": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl9k69ka132it088cbdvd3m3w": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n543zdr077179ho1mzo": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5i40170771hcl7317r": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fy2ak90yuf23jt2wlv": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5e3zt707713do898o3": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05uc016y074kh0952gjo": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lc0isd1298072u53z31emu": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05ur01lm074kaznu2ncg": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g42b0s0yuf23y8917i": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5b3znn0771fdwy7nyp": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5f3zvj07715mbf4a7g": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05ul01g6074k007y5xhr": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fq29zp0yuf7cxd3bz2": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fz2anl0yufe59x6gbe": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g72bas0yuf5i1scd3h": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5c3zqj0771b9mufcmq": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g42aze0yuffg2368n3": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5e3zuj0771bvv7a7q5": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fr2a4p0yuffc5t82n9": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n583zkj0771f987fg5k": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n543ze30771b77f8w7c": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6wmcdb73jj7078v1gli680d": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fr2a3g0yufgxtf43y5": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05uq01ka074k6w2h75zi": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fq2a040yufdl20fomx": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5j402j07718tm88003": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n563zhn07718obeej9s": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fz2aqd0yufezrmgjit": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fq2a1d0yuf82ote2y7": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lg05up01jy074kdce33nfb": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fy2aju0yuf8lqu1038": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fz2aqi0yufd759dhwz": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl9k69ka232k1088c6lhg4wkj": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n563zgz07711kqk3i2n": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fr2a5e0yuf2k3vg7m5": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g12auj0yuf0ivx85x6": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fw2aek0yufd5l89lt6": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5a3znf07711dy51kgx": {
+    "gt": "Class I",
+    "pred": "Class III",
+    "correct": 0,
+    "raw_prediction": "Class III"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fz2aq80yuf2pz61jh3": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl6cc2n5d3zsr07713tm19sg1": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8fx2agi0yufhc8i501s": {
+    "gt": "Class II",
+    "pred": "Class II",
+    "correct": 1,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cl5lc0ise12bs072u9zb31kau": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g62b7b0yuffrlb7xa1": {
+    "gt": "Class I",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  },
+  "aariz_vqa_skeletal_class_cks2ip8g32aw20yufcvum9zg4": {
+    "gt": "Class III",
+    "pred": "Class II",
+    "correct": 0,
+    "raw_prediction": "Class II"
+  }
+}

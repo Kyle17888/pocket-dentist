@@ -1,0 +1,8 @@
+# Lingshu-32B — shared model defaults
+model_name_or_path: lingshu-medical-mllm/Lingshu-32B
+attn_implementation: flash_attention_2
+training:
+  gradient_accumulation_steps: 16    # effective BS = 1×16 = 16
+  per_device_eval_batch_size: 1
+  per_device_train_batch_size: 1     # COde has up to 13 images/sample, batch=2 causes OOM on H100
+trust_remote_code: true

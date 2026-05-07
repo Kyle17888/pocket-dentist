@@ -1,0 +1,13 @@
+# vLLM config for InternVL3_5-2B-HF (BRAR baseline)
+# Copied from: configs/metadent/slms/InternVL3_5-2B-HF/vllm.yaml
+
+CUDA_VISIBLE_DEVICES: '0'
+model: OpenGVLab/InternVL3_5-2B-HF
+served_model_name: "InternVL3_5-2B-HF"
+port: 9007
+trust_remote_code: true
+max_model_len: 16384
+limit_mm_per_prompt: '{"image": 8}'
+gpu_memory_utilization: 0.9
+max_num_seqs: 16
+seed: 42

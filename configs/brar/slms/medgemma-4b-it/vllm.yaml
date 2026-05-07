@@ -1,0 +1,12 @@
+# vLLM config for medgemma-4b-it (BRAR baseline)
+# Copied from: configs/metadent/slms/medgemma-4b-it/vllm.yaml
+
+CUDA_VISIBLE_DEVICES: '0'
+model: google/medgemma-4b-it
+served_model_name: "medgemma-4b-it"
+port: 9002
+trust_remote_code: true
+max_model_len: 16384
+gpu_memory_utilization: 0.9
+max_num_seqs: 16
+seed: 42

@@ -1,0 +1,12 @@
+# vLLM config for Lingshu-32B (BRAR baseline)
+# Copied from: configs/metadent/llms/Lingshu-32B/vllm.yaml
+
+CUDA_VISIBLE_DEVICES: '0'
+model: lingshu-medical-mllm/Lingshu-32B
+served_model_name: "Lingshu-32B"
+port: 8000
+trust_remote_code: true
+max_model_len: 20000
+gpu_memory_utilization: 0.9
+max_num_seqs: 8
+seed: 42
