@@ -1,0 +1,43 @@
+# ============================================================================
+# Pocket-Dentist / MetaDent Benchmark — Python Dependencies
+# ============================================================================
+#
+# Two conda environments share this file:
+#
+#   NeurlPS2026-benchmark (vLLM inference + evaluation)
+#     → pip install vllm>=0.8.5        # installs torch + transformers
+#     → pip install -r requirements.txt
+#
+#   NeurlPS2026-train (SFT training)
+#     → pip install torch==2.7.0 torchvision==0.22.0 --index-url .../cu126
+#     → pip install transformers==5.7.0 peft>=0.15.0 accelerate>=1.5.0
+#     → pip install flash-attn --no-build-isolation
+#     → pip install -r requirements.txt
+#
+# NOTE: torch, transformers, vllm, peft, accelerate, flash-attn are NOT
+# listed here — they are environment-specific (see above).
+# ============================================================================
+
+# --- Core ---
+numpy>=2.0
+pandas>=2.0
+PyYAML>=6.0
+tqdm>=4.60
+Pillow>=12.0
+ujson>=5.0
+json-repair>=0.40
+
+# --- Evaluation ---
+bert_score>=0.3.13
+scikit-learn>=1.5
+openai>=2.6.0
+nltk>=3.9.1
+sacrebleu>=2.4.0
+
+# --- Training (monitoring) ---
+wandb>=0.20
+
+# --- Training (model-specific) ---
+timm>=1.0              # InternVL2.5 vision encoder (DropPath)
+num2words>=0.5.13      # SmolVLM2 processor
+sentencepiece>=0.2.0   # InternVL2.5 tokenizer
