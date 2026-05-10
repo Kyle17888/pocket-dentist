@@ -118,6 +118,8 @@ All cases are from the SFT (LoRA) setting and selected from test-set predictions
 
 ![Classification — BRAR panoramic radiograph, Grade 2](assets/images/2_cls_primary_000223.jpg)
 
+**Question**: Grade the periodontal bone resorption severity (1, 2, or 3) based on this panoramic radiograph.
+
 **✅ Ground Truth**: `{"grade": 2}`
 
 **❌ Lingshu-32B (SFT)**: `{"grade": 3}`
@@ -132,6 +134,8 @@ All cases are from the SFT (LoRA) setting and selected from test-set predictions
 **Case ID: `23182`** · **Dataset: MetaDent**
 
 ![Captioning — Left lateral intraoral photograph](assets/images/3_cap_primary_23182.jpg)
+
+**Question**: Observe the clinical image and generate a vivid natural language description of the dental findings.
 
 **✅ Ground Truth** (excerpt):
 ```
@@ -163,6 +167,8 @@ using a mouth prop...
 **Case ID: `code_rpt_00529`** · **Dataset: COde**
 
 ![Report Generation — Intraoral photograph](assets/images/4_rpt_primary_00529.jpg)
+
+**Question**: Generate a complete diagnostic report based on the clinical images and patient information.
 
 **Patient Info**: 65-year-old female, chief complaint: follow-up for lower-left posterior tooth.
 

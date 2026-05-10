@@ -118,6 +118,8 @@ bash scripts/run_metadent_sft.sh --models Qwen3-VL-4B-Instruct
 
 ![分类 — BRAR 全景片 Grade 2](assets/images/2_cls_primary_000223.jpg)
 
+**问题**: 根据此全景 X 光片，评估牙周骨吸收严重程度（1、2 或 3 级）。
+
 **✅ Ground Truth**: `{"grade": 2}`
 
 **❌ Lingshu-32B (SFT)**: `{"grade": 3}`
@@ -132,6 +134,8 @@ bash scripts/run_metadent_sft.sh --models Qwen3-VL-4B-Instruct
 **案例 ID: `23182`** · **数据集: MetaDent**
 
 ![描述生成 — 左侧口内照](assets/images/3_cap_primary_23182.jpg)
+
+**问题**: 观察该临床图像，生成一段生动的自然语言描述。
 
 **✅ Ground Truth**（摘录）:
 ```
@@ -163,6 +167,8 @@ using a mouth prop...
 **案例 ID: `code_rpt_00529`** · **数据集: COde**
 
 ![报告生成 — 口内照](assets/images/4_rpt_primary_00529.jpg)
+
+**问题**: 根据临床图像和患者信息，生成完整的诊断报告。
 
 **患者信息**: 65 岁女性，主诉下左后牙复诊。
 
