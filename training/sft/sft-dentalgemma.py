@@ -27,7 +27,7 @@ from pathlib import Path
 from typing import Dict, List, Any, Optional
 
 # ---------------------------------------------------------------------------
-# Compatibility patch 1 — Gemma3 masking utils (torch < 2.6 on NeSI)
+# Compatibility patch 1 — Gemma3 masking utils (torch < 2.6 on HPC cluster)
 # ---------------------------------------------------------------------------
 def _patch_gemma3_masking_utils():
     try:
@@ -67,7 +67,7 @@ def _patch_gemma3_masking_utils():
 _patch_gemma3_masking_utils()
 
 # ---------------------------------------------------------------------------
-# Compatibility patch 2 — torch.load safety check bypass for NeSI torch 2.5.1
+# Compatibility patch 2 — torch.load safety check bypass for HPC cluster torch 2.5.1
 # ---------------------------------------------------------------------------
 def _patch_torch_load_check():
     _noop = lambda: None  # noqa: E731

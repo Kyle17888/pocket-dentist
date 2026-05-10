@@ -29,11 +29,11 @@ Usage:
   # Merge one checkpoint via merge_config.yaml
   python merge_lora.py --config merge_config.yaml
 
-NeSI Resource Requirements (CPU only, no GPU needed):
+HPC cluster Resource Requirements (CPU only, no GPU needed):
   - 1B-8B models:  --mem=64G  --time=1:00:00
   - 32B models:    --mem=128G --time=2:00:00
 
-  srun --account=uoa04670 --job-name=merge-lora \\
+  srun --account=<ACCOUNT> --job-name=merge-lora \\
     --partition=milan --cpus-per-task=8 --mem=128G --time=1:00:00 --pty bash
 """
 
@@ -46,7 +46,7 @@ import yaml
 import torch
 import gc
 
-SFT_ROOT = "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT"
+SFT_ROOT = "<MODEL_ROOT>"
 
 
 def load_config(yaml_path):

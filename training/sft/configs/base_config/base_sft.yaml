@@ -33,7 +33,7 @@ training:
   # Override with a fixed int in dataset.yaml or model.yaml if needed
   num_logging_points: 50 # log loss ~50 times across the single epoch
   num_evals_per_epoch: 4 # evaluate 4×/epoch (lightweight, just for tracking eval_loss)
-  num_saves_per_epoch: 20 # save 20×/epoch (frequent saves → resilient to NeSI walltime kills)
+  num_saves_per_epoch: 20 # save 20×/epoch (frequent saves → resilient to HPC cluster walltime kills)
   save_total_limit: 21 # keep latest 6 checkpoints on disk
   evaluation_strategy: "steps"
   save_strategy: "steps"

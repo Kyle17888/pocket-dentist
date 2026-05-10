@@ -1,13 +1,13 @@
 # DR SFT Dataset Configuration
 # Multi-label finding classification (Cavity, Fillings, Impacted Tooth, Implant)
 
-# NeSI paths (update for your environment)
-input_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DR/output"
+# HPC cluster paths (update for your environment)
+input_dir: "<DATA_ROOT>/DR/output"
 train_file: "train.jsonl"
 val_file: "val.jsonl"
 
 # Output base for model checkpoints
-output_base: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/DR"
+output_base: "<MODEL_ROOT>/DR"
 
 # WandB overrides
 wandb:

@@ -1,5 +1,5 @@
 CUDA_VISIBLE_DEVICES: "0"
-model: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/Aariz/slms/Qwen3.5-4B/merged"
+model: "<MODEL_ROOT>/Aariz/slms/Qwen3.5-4B/merged"
 served_model_name: "Qwen3.5-4B-SFT"
 port: 9009
 trust_remote_code: true

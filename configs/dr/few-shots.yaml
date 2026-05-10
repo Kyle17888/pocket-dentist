@@ -17,8 +17,8 @@ num_shots: 0
 dr_classification:
   examples:
     - images:
-        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DR/output/images/train/0127_jpg.rf.873a19147a4c590209b7223049148158.jpg
+        - <DATA_ROOT>/DR/output/images/train/0127_jpg.rf.873a19147a4c590209b7223049148158.jpg
       answer: "Cavity, Fillings, Impacted Tooth, Implant"
     - images:
-        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DR/output/images/train/0509_jpg.rf.3caceb5dbf28b366cf74910cae538326.jpg
+        - <DATA_ROOT>/DR/output/images/train/0509_jpg.rf.3caceb5dbf28b366cf74910cae538326.jpg
       answer: "Cavity, Fillings, Impacted Tooth, Implant"

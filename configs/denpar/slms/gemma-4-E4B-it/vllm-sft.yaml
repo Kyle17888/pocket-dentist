@@ -1,5 +1,5 @@
 CUDA_VISIBLE_DEVICES: "0"
-model: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/DenPAR/slms/gemma-4-E4B-it/merged"
+model: "<MODEL_ROOT>/DenPAR/slms/gemma-4-E4B-it/merged"
 served_model_name: "gemma-4-E4B-it-SFT"
 port: 9005
 trust_remote_code: true

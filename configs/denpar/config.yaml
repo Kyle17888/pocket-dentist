@@ -5,16 +5,16 @@
 
 data:
   # Image root directory (JSONL image paths are relative to this)
-  image_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DenPAR/output"
-  test_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DenPAR/output/test.jsonl"
-  train_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DenPAR/output/train.jsonl"
+  image_dir: "<DATA_ROOT>/DenPAR/output"
+  test_file: "<DATA_ROOT>/DenPAR/output/test.jsonl"
+  train_file: "<DATA_ROOT>/DenPAR/output/train.jsonl"
 
 inference:
   max_new_tokens: 128       # Short answers: number or label
   temperature: 0.0          # Deterministic output
   seed: 42
 
-output_dir: "kyle-paper/benchmark-denpar"
+output_dir: "benchmark-denpar"
 
 # API model configurations
 api_models:

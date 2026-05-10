@@ -1,6 +1,6 @@
 #!/bin/bash
 # ============================================================================
-# audit_results.sh — Audit benchmark results completeness on NeSI
+# audit_results.sh — Audit benchmark results completeness on HPC cluster
 #
 # Scans results/datasets/ to check predictions and metrics for all
 # 7 datasets × 4 settings × 15 models.

@@ -11,7 +11,7 @@
 #   bash scripts/audit_sft_status.sh
 # ============================================================================
 
-SFT_ROOT="/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT"
+SFT_ROOT="<MODEL_ROOT>"
 
 # All expected datasets
 DATASETS=(BRAR DR MetaDent Aariz COde DenPAR DentalCaries)

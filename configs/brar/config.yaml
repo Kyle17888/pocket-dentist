@@ -6,17 +6,17 @@
 data:
   # Image root directory (JSONL image paths are relative to this)
   # Local development:
-  # NeSI production:
-  image_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/BRAR"
-  test_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/BRAR/test.jsonl"
-  train_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/BRAR/train.jsonl"
+  # Production:
+  image_dir: "<DATA_ROOT>/BRAR"
+  test_file: "<DATA_ROOT>/BRAR/test.jsonl"
+  train_file: "<DATA_ROOT>/BRAR/train.jsonl"
 
 inference:
   max_new_tokens: 256       # Enough for {"grade": X, "reason": "..."}
   temperature: 0.0          # Deterministic output
   seed: 42
 
-output_dir: "kyle-paper/benchmark-brar"
+output_dir: "benchmark-brar"
 
 # API model configurations (for run_brar_api.sh)
 api_models:

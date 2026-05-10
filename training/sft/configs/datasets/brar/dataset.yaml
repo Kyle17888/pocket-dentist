@@ -3,10 +3,10 @@
 # Merged on top of base.yaml, overridden by model-specific configs.
 # =============================================================================
 
-input_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/BRAR"
+input_dir: "<DATA_ROOT>/BRAR"
 train_file: "train.jsonl"
 val_file: "val.jsonl"
-output_base: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/BRAR"
+output_base: "<MODEL_ROOT>/BRAR"
 
 wandb:
   project: "Neurlps2026-SFT-BRAR"

@@ -1,5 +1,5 @@
 CUDA_VISIBLE_DEVICES: "0"
-model: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/Aariz/slms/InternVL3_5-2B-HF/merged"
+model: "<MODEL_ROOT>/Aariz/slms/InternVL3_5-2B-HF/merged"
 served_model_name: "InternVL3_5-2B-HF-SFT"
 port: 9007
 trust_remote_code: true

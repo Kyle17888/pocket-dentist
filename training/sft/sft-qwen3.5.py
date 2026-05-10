@@ -33,7 +33,7 @@ warnings.filterwarnings("ignore", message=".*You are passing both.*")
 logging.getLogger("transformers.processing_utils").setLevel(logging.ERROR)
 
 # ---------------------------------------------------------------------------
-# Compatibility patch 1 — torch.load safety check bypass for NeSI torch 2.5.1
+# Compatibility patch 1 — torch.load safety check bypass for HPC cluster torch 2.5.1
 # ---------------------------------------------------------------------------
 def _patch_torch_load_check():
     _noop = lambda: None  # noqa: E731

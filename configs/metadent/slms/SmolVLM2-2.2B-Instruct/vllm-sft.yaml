@@ -1,5 +1,5 @@
 CUDA_VISIBLE_DEVICES: "0"
-model: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/MetaDent/slms/SmolVLM2-2.2B-Instruct/merged"
+model: "<MODEL_ROOT>/MetaDent/slms/SmolVLM2-2.2B-Instruct/merged"
 served_model_name: "SmolVLM2-2.2B-Instruct-SFT"
 port: 9014
 trust_remote_code: true

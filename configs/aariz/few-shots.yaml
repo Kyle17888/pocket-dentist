@@ -13,17 +13,17 @@ num_shots: 0
 aariz_cvm:
   examples:
     - images:
-        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/Aariz/output/images/cks2ip8fq29yq0yufc4scftj8.png
+        - <DATA_ROOT>/Aariz/output/images/cks2ip8fq29yq0yufc4scftj8.png
       answer: "CVM-S5"
     - images:
-        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/Aariz/output/images/cks2ip8fq2a0t0yufgab484s9.png
+        - <DATA_ROOT>/Aariz/output/images/cks2ip8fq2a0t0yufgab484s9.png
       answer: "CVM-S4"
 
 aariz_vqa:
   examples:
     - images:
-        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/Aariz/output/images/cks2ip8fq29yq0yufc4scftj8.png
+        - <DATA_ROOT>/Aariz/output/images/cks2ip8fq29yq0yufc4scftj8.png
       answer: "Class I"
     - images:
-        - /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/Aariz/output/images/cks2ip8fq2a0t0yufgab484s9.png
+        - <DATA_ROOT>/Aariz/output/images/cks2ip8fq2a0t0yufgab484s9.png
       answer: "Class II"

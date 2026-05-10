@@ -34,7 +34,7 @@ logging.getLogger("transformers.models.paligemma.processing_paligemma").setLevel
 # ---------------------------------------------------------------------------
 # Compatibility patch — transformers 5.5.3 / Gemma3 requires torch>=2.6 for
 # its mask-creation functions (create_causal_mask, create_sliding_window_causal_mask,
-# etc.).  NeSI has torch 2.5.1.
+# etc.).  HPC cluster has torch 2.5.1.
 #
 # Fix: wrap EVERY function in LAYER_PATTERN_TO_MASK_FUNCTION_MAPPING (and the
 # known module-level names) so that `or_mask_function` / `and_mask_function`

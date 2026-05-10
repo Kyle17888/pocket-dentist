@@ -6,24 +6,24 @@
 #
 # Usage:
 #   # Single model:
-#   bash run_dentalcaries.sh --models Qwen3-VL-4B-Instruct --tasks baseline
+#   bash scripts/run_dentalcaries.sh --models Qwen3-VL-4B-Instruct --tasks baseline
 #
 #   # Multiple models (serial execution):
-#   bash run_dentalcaries.sh --models "Qwen3-VL-4B-Instruct,InternVL3_5-2B-HF" --tasks "baseline,1shot,sft"
+#   bash scripts/run_dentalcaries.sh --models "Qwen3-VL-4B-Instruct,InternVL3_5-2B-HF" --tasks "baseline,1shot,sft"
 #
 #   # Run all models in a GPU tier (parallel-friendly for SLURM):
-#   bash run_dentalcaries.sh --tiers t1 --tasks "baseline,1shot,2shot,sft"   # 1-2B  (A100 21GB)
-#   bash run_dentalcaries.sh --tiers t2 --tasks "baseline,1shot,2shot,sft"   # 3-4B  (A100 40GB)
-#   bash run_dentalcaries.sh --tiers t3 --tasks "baseline,1shot,2shot,sft"   # 7-8B  (A100 80GB)
-#   bash run_dentalcaries.sh --tiers t4 --tasks "baseline,1shot,2shot,sft"   # 32B   (H100 80GB)
-#   bash run_dentalcaries.sh --tiers t1,t2 --tasks "baseline,sft"            # combine tiers
-#   bash run_dentalcaries.sh --tiers all                                     # every model
+#   bash scripts/run_dentalcaries.sh --tiers t1 --tasks "baseline,1shot,2shot,sft"   # 1-2B  (A100 21GB)
+#   bash scripts/run_dentalcaries.sh --tiers t2 --tasks "baseline,1shot,2shot,sft"   # 3-4B  (A100 40GB)
+#   bash scripts/run_dentalcaries.sh --tiers t3 --tasks "baseline,1shot,2shot,sft"   # 7-8B  (A100 80GB)
+#   bash scripts/run_dentalcaries.sh --tiers t4 --tasks "baseline,1shot,2shot,sft"   # 32B   (H100 80GB)
+#   bash scripts/run_dentalcaries.sh --tiers t1,t2 --tasks "baseline,sft"            # combine tiers
+#   bash scripts/run_dentalcaries.sh --tiers all                                     # every model
 #
 #   # Resume from a specific model (skip already-completed ones):
-#   bash run_dentalcaries.sh --tiers t2 --resume-from gemma-4-E4B-it
+#   bash scripts/run_dentalcaries.sh --tiers t2 --resume-from gemma-4-E4B-it
 #
 #   # Manual mode: point to a running vLLM server:
-#   bash run_dentalcaries.sh --models Qwen3-VL-4B-Instruct --tasks baseline --vllm_server http://localhost:9015/v1
+#   bash scripts/run_dentalcaries.sh --models Qwen3-VL-4B-Instruct --tasks baseline --vllm_server http://localhost:9015/v1
 # ============================================================================
 
 set -e
@@ -96,9 +96,9 @@ elif [ -n "$MODEL_LIST" ]; then
     IFS=',' read -ra MODELS <<< "$MODEL_LIST"
 else
     echo "❌ --models or --tiers is required"
-    echo "Usage: bash run_dentalcaries.sh --models <name>                    # single model"
-    echo "       bash run_dentalcaries.sh --models <name1,name2>              # multiple models"
-    echo "       bash run_dentalcaries.sh --tiers <t1|t2|t3|t4|t1,t2|all>      # GPU tier(s)"
+    echo "Usage: bash scripts/run_dentalcaries.sh --models <name>                    # single model"
+    echo "       bash scripts/run_dentalcaries.sh --models <name1,name2>              # multiple models"
+    echo "       bash scripts/run_dentalcaries.sh --tiers <t1|t2|t3|t4|t1,t2|all>      # GPU tier(s)"
     exit 1
 fi
 
@@ -122,7 +122,7 @@ fi
 # ===== Source vLLM utilities if auto mode =====
 if [ "$AUTO_VLLM" = true ]; then
     SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-    source "${SCRIPT_DIR}/scripts/vllm_utils.sh"
+    source "${SCRIPT_DIR}/vllm_utils.sh"
     trap 'stop_vllm' EXIT INT TERM
 fi
 
@@ -401,6 +401,6 @@ echo "   See .env.example for configuration details."
 
 # Exit with error if any model failed
 if [ ${#FAILED[@]} -gt 0 ]; then
-    echo "💡 To re-run failed models: bash run_dentalcaries.sh --models $(IFS=,; echo "${FAILED[*]}") --tasks $TASKS"
+    echo "💡 To re-run failed models: bash scripts/run_dentalcaries.sh --models $(IFS=,; echo "${FAILED[*]}") --tasks $TASKS"
     exit 1
 fi

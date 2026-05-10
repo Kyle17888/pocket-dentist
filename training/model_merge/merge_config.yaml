@@ -12,16 +12,16 @@ trust_remote_code: true
 
 jobs:
   - name: "COde / Lingshu-32B"
-    lora_path: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/COde/llms/Lingshu-32B/source/checkpoint-857"
-    merged_output_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/COde/llms/Lingshu-32B/merged"
+    lora_path: "<MODEL_ROOT>/COde/llms/Lingshu-32B/source/checkpoint-857"
+    merged_output_dir: "<MODEL_ROOT>/COde/llms/Lingshu-32B/merged"
     base_model_path: ""
 
   - name: "DR / Lingshu-32B"
-    lora_path: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/DR/llms/Lingshu-32B/source/checkpoint-68"
-    merged_output_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/DR/llms/Lingshu-32B/merged"
+    lora_path: "<MODEL_ROOT>/DR/llms/Lingshu-32B/source/checkpoint-68"
+    merged_output_dir: "<MODEL_ROOT>/DR/llms/Lingshu-32B/merged"
     base_model_path: ""
 
   - name: "MetaDent / Lingshu-32B"
-    lora_path: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/MetaDent/llms/Lingshu-32B/source/checkpoint-453"
-    merged_output_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/MetaDent/llms/Lingshu-32B/merged"
+    lora_path: "<MODEL_ROOT>/MetaDent/llms/Lingshu-32B/source/checkpoint-453"
+    merged_output_dir: "<MODEL_ROOT>/MetaDent/llms/Lingshu-32B/merged"
     base_model_path: ""

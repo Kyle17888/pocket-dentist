@@ -88,7 +88,7 @@ def resolve_image_path(base_dir: Path, rel_path: str) -> Path:
         base_dir / rel_path,
         base_dir.parent / rel_path,
         # Common project location if relative to data root
-        Path("/Users/kyle/Downloads/dataset/BRAR-anchored/raw") / rel_path
+        Path("<DATA_ROOT>/BRAR") / rel_path
     ]
     for c in candidates:
         if c.exists():

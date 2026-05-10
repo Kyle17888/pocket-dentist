@@ -1,5 +1,5 @@
 CUDA_VISIBLE_DEVICES: "0"
-model: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/DenPAR/slms/dentalgemma-1.5-4b-it/merged"
+model: "<MODEL_ROOT>/DenPAR/slms/dentalgemma-1.5-4b-it/merged"
 served_model_name: "dentalgemma-1.5-4b-it-SFT"
 port: 9010
 trust_remote_code: true

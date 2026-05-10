@@ -1,7 +1,7 @@
 data:
-  image_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/MetaDent/output"
-  test_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/MetaDent/output/test-v2.jsonl"
-  train_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/MetaDent/output/train-v2.jsonl"
+  image_dir: "<DATA_ROOT>/MetaDent/output"
+  test_file: "<DATA_ROOT>/MetaDent/output/test-v2.jsonl"
+  train_file: "<DATA_ROOT>/MetaDent/output/train-v2.jsonl"
 
 inference:
   max_new_tokens: 512       # VQA/classification short, captioning needs more

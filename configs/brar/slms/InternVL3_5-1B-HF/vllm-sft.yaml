@@ -1,8 +1,8 @@
 # vLLM config for InternVL3_5-1B-HF SFT (BRAR)
-# Model: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/BRAR/slms/InternVL3_5-1B-HF/merged
+# Model: <MODEL_ROOT>/BRAR/slms/InternVL3_5-1B-HF/merged
 
 CUDA_VISIBLE_DEVICES: '0'
-model: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/BRAR/slms/InternVL3_5-1B-HF/merged
+model: <MODEL_ROOT>/BRAR/slms/InternVL3_5-1B-HF/merged
 port: 9015
 trust_remote_code: true
 max_model_len: 16384

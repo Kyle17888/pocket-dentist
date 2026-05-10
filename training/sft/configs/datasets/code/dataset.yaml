@@ -8,10 +8,10 @@
 # Effective batch size is preserved: 1 × 16 = 16 (same as base 4 × 4).
 # =============================================================================
 
-input_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/COde/output"
+input_dir: "<DATA_ROOT>/COde/output"
 train_file: "train.jsonl"
 val_file: "val.jsonl"
-output_base: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/COde"
+output_base: "<MODEL_ROOT>/COde"
 
 # Override training params for multi-image dataset
 training:

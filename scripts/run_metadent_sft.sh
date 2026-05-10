@@ -1,35 +1,35 @@
 #!/bin/bash
 # ============================================================================
-# run_code_sft.sh — COde SFT Training Pipeline
+# run_metadent_sft.sh — MetaDent SFT Training Pipeline
 #
-# Batch LoRA SFT training for one or more models on the COde dataset.
-# Supports the same --models / --tiers interface as run_code.sh.
+# Batch LoRA SFT training for one or more models on the MetaDent dataset.
+# Supports the same --models / --tiers interface as scripts/run_metadent.sh.
 #
 # Usage:
 #   # Single model:
-#   bash run_code_sft.sh --models InternVL3_5-1B-HF
+#   bash scripts/run_metadent_sft.sh --models InternVL3_5-1B-HF
 #
 #   # Multiple models:
-#   bash run_code_sft.sh --models "InternVL3_5-1B-HF,gemma-4-E2B-it"
+#   bash scripts/run_metadent_sft.sh --models "InternVL3_5-1B-HF,gemma-4-E2B-it"
 #
 #   # By GPU tier:
-#   bash run_code_sft.sh --tiers t1              # 1-2B  (L4 24GB / A100 21GB)
-#   bash run_code_sft.sh --tiers t2              # 3-4B  (A100 40GB)
-#   bash run_code_sft.sh --tiers t3              # 7-8B  (A100 80GB)
-#   bash run_code_sft.sh --tiers t4              # 32B   (H100 96GB)
-#   bash run_code_sft.sh --tiers t1,t2           # combine tiers
-#   bash run_code_sft.sh --tiers all             # every model
+#   bash scripts/run_metadent_sft.sh --tiers t1              # 1-2B  (L4 24GB / A100 21GB)
+#   bash scripts/run_metadent_sft.sh --tiers t2              # 3-4B  (A100 40GB)
+#   bash scripts/run_metadent_sft.sh --tiers t3              # 7-8B  (A100 80GB)
+#   bash scripts/run_metadent_sft.sh --tiers t4              # 32B   (H100 96GB)
+#   bash scripts/run_metadent_sft.sh --tiers t1,t2           # combine tiers
+#   bash scripts/run_metadent_sft.sh --tiers all             # every model
 #
 #   # Resume from a specific model:
-#   bash run_code_sft.sh --tiers t2 --resume-from gemma-4-E4B-it
+#   bash scripts/run_metadent_sft.sh --tiers t2 --resume-from gemma-4-E4B-it
 # ============================================================================
 
 set -e
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-DATASET="code"
+DATASET="metadent"
 
-# ===== GPU-tier model groups (same as run_code.sh) =====
+# ===== GPU-tier model groups (same as scripts/run_metadent.sh) =====
 TIER1_MODELS=("InternVL3_5-1B-HF" "InternVL3_5-2B-HF" "SmolVLM2-2.2B-Instruct" "gemma-4-E2B-it")
 TIER2_MODELS=("paligemma2-3b-mix-448" "gemma-4-E4B-it" "Qwen3-VL-4B-Instruct" "Qwen3.5-4B" "medgemma-4b-it")
 TIER3_MODELS=("Qwen2.5-VL-7B-Instruct" "MedMO-8B-Next")
@@ -55,7 +55,7 @@ declare -A SFT_SCRIPTS=(
 )
 
 # ===== Model → config file mapping =====
-# Resolves to training/sft/configs/datasets/code/{slms,llms}/<config>.yaml
+# Resolves to training/sft/configs/datasets/metadent/{slms,llms}/<config>.yaml
 declare -A SFT_CONFIGS=(
     ["InternVL3_5-1B-HF"]="slms/InternVL3_5-1B-HF.yaml"
     ["InternVL3_5-2B-HF"]="slms/InternVL3_5-2B-HF.yaml"
@@ -110,9 +110,9 @@ elif [ -n "$MODEL_LIST" ]; then
     IFS=',' read -ra MODELS <<< "$MODEL_LIST"
 else
     echo "❌ --models or --tiers is required"
-    echo "Usage: bash run_code_sft.sh --models <name>                # single model"
-    echo "       bash run_code_sft.sh --models <name1,name2>          # multiple models"
-    echo "       bash run_code_sft.sh --tiers <t1|t2|t3|t4|t1,t2|all> # GPU tier(s)"
+    echo "Usage: bash scripts/run_metadent_sft.sh --models <name>                # single model"
+    echo "       bash scripts/run_metadent_sft.sh --models <name1,name2>          # multiple models"
+    echo "       bash scripts/run_metadent_sft.sh --tiers <t1|t2|t3|t4|t1,t2|all> # GPU tier(s)"
     exit 1
 fi
 
@@ -143,7 +143,7 @@ SUCCEEDED=()
 
 echo ""
 echo "╔══════════════════════════════════════════════════════════╗"
-echo "║  🎓 COde SFT Training Pipeline                      ║"
+echo "║  🎓 MetaDent SFT Training Pipeline                      ║"
 echo "╠══════════════════════════════════════════════════════════╣"
 echo "║  Models: $MODEL_TOTAL"
 if [ -n "$TIERS" ]; then
@@ -220,6 +220,6 @@ echo "║  End: $(date)"
 echo "╚══════════════════════════════════════════════════════════╝"
 
 if [ ${#FAILED[@]} -gt 0 ]; then
-    echo "💡 To re-run failed: bash run_code_sft.sh --models $(IFS=,; echo "${FAILED[*]}")"
+    echo "💡 To re-run failed: bash scripts/run_metadent_sft.sh --models $(IFS=,; echo "${FAILED[*]}")"
     exit 1
 fi

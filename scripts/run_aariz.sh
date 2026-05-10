@@ -1,29 +1,29 @@
 #!/bin/bash
 # ============================================================================
-# run_metadent.sh — MetaDent Unified Pipeline (Local vLLM Models)
+# run_aariz.sh — Aariz Unified Pipeline (Local vLLM Models)
 #
 # Runs prediction + evaluation for one or more models across specified tasks.
 #
 # Usage:
 #   # Single model:
-#   bash run_metadent.sh --models Qwen3-VL-4B-Instruct --tasks baseline
+#   bash scripts/run_aariz.sh --models Qwen3-VL-4B-Instruct --tasks baseline
 #
 #   # Multiple models (serial execution):
-#   bash run_metadent.sh --models "Qwen3-VL-4B-Instruct,InternVL3_5-2B-HF" --tasks "baseline,1shot,sft"
+#   bash scripts/run_aariz.sh --models "Qwen3-VL-4B-Instruct,InternVL3_5-2B-HF" --tasks "baseline,1shot,sft"
 #
 #   # Run all models in a GPU tier (parallel-friendly for SLURM):
-#   bash run_metadent.sh --tiers t1 --tasks "baseline,1shot,2shot,sft"   # 1-2B  (A100 21GB)
-#   bash run_metadent.sh --tiers t2 --tasks "baseline,1shot,2shot,sft"   # 3-4B  (A100 40GB)
-#   bash run_metadent.sh --tiers t3 --tasks "baseline,1shot,2shot,sft"   # 7-8B  (A100 80GB)
-#   bash run_metadent.sh --tiers t4 --tasks "baseline,1shot,2shot,sft"   # 32B   (H100 80GB)
-#   bash run_metadent.sh --tiers t1,t2 --tasks "baseline,sft"            # combine tiers
-#   bash run_metadent.sh --tiers all                                     # every model
+#   bash scripts/run_aariz.sh --tiers t1 --tasks "baseline,1shot,2shot,sft"   # 1-2B  (A100 21GB)
+#   bash scripts/run_aariz.sh --tiers t2 --tasks "baseline,1shot,2shot,sft"   # 3-4B  (A100 40GB)
+#   bash scripts/run_aariz.sh --tiers t3 --tasks "baseline,1shot,2shot,sft"   # 7-8B  (A100 80GB)
+#   bash scripts/run_aariz.sh --tiers t4 --tasks "baseline,1shot,2shot,sft"   # 32B   (H100 80GB)
+#   bash scripts/run_aariz.sh --tiers t1,t2 --tasks "baseline,sft"            # combine tiers
+#   bash scripts/run_aariz.sh --tiers all                                     # every model
 #
 #   # Resume from a specific model (skip already-completed ones):
-#   bash run_metadent.sh --tiers t2 --resume-from gemma-4-E4B-it
+#   bash scripts/run_aariz.sh --tiers t2 --resume-from gemma-4-E4B-it
 #
 #   # Manual mode: point to a running vLLM server:
-#   bash run_metadent.sh --models Qwen3-VL-4B-Instruct --tasks baseline --vllm_server http://localhost:9015/v1
+#   bash scripts/run_aariz.sh --models Qwen3-VL-4B-Instruct --tasks baseline --vllm_server http://localhost:9015/v1
 # ============================================================================
 
 set -e
@@ -46,8 +46,8 @@ API_BASE=""
 API_BASE_OVR=""
 API_KEY="EMPTY"
 WORKERS=16
-DATASET="metadent"
-FEW_SHOT_CONFIG="configs/metadent/few-shots.yaml"
+DATASET="aariz"
+FEW_SHOT_CONFIG="configs/aariz/few-shots.yaml"
 AUTO_VLLM=true
 NO_KILL_VLLM=false
 RESUME_FROM=""
@@ -96,9 +96,9 @@ elif [ -n "$MODEL_LIST" ]; then
     IFS=',' read -ra MODELS <<< "$MODEL_LIST"
 else
     echo "❌ --models or --tiers is required"
-    echo "Usage: bash run_metadent.sh --models <name>                    # single model"
-    echo "       bash run_metadent.sh --models <name1,name2>              # multiple models"
-    echo "       bash run_metadent.sh --tiers <t1|t2|t3|t4|t1,t2|all>      # GPU tier(s)"
+    echo "Usage: bash scripts/run_aariz.sh --models <name>                    # single model"
+    echo "       bash scripts/run_aariz.sh --models <name1,name2>              # multiple models"
+    echo "       bash scripts/run_aariz.sh --tiers <t1|t2|t3|t4|t1,t2|all>      # GPU tier(s)"
     exit 1
 fi
 
@@ -122,7 +122,7 @@ fi
 # ===== Source vLLM utilities if auto mode =====
 if [ "$AUTO_VLLM" = true ]; then
     SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-    source "${SCRIPT_DIR}/scripts/vllm_utils.sh"
+    source "${SCRIPT_DIR}/vllm_utils.sh"
     trap 'stop_vllm' EXIT INT TERM
 fi
 
@@ -134,7 +134,7 @@ run_single_model() {
 
     # ── Auto-find config directory ──
     local CONFIG_DIR=""
-    for search_path in configs/metadent/llms-api/${CUR_MODEL} configs/metadent/llms/${CUR_MODEL} configs/metadent/slms/${CUR_MODEL}; do
+    for search_path in configs/aariz/llms-api/${CUR_MODEL} configs/aariz/llms/${CUR_MODEL} configs/aariz/slms/${CUR_MODEL}; do
         if [ -d "$search_path" ]; then
             CONFIG_DIR="$search_path"
             break
@@ -143,7 +143,7 @@ run_single_model() {
 
     if [ -z "$CONFIG_DIR" ]; then
         echo "❌ Config directory not found for model: ${CUR_MODEL}"
-        echo "Searched: configs/metadent/{llms-api,llms,slms}/${CUR_MODEL}"
+        echo "Searched: configs/aariz/{llms-api,llms,slms}/${CUR_MODEL}"
         return 1
     fi
 
@@ -173,7 +173,7 @@ run_single_model() {
 
     echo ""
     echo "╔══════════════════════════════════════════════════════════╗"
-    echo "║  MetaDent Unified Pipeline                              ║"
+    echo "║  Aariz Unified Pipeline                              ║"
     echo "╠══════════════════════════════════════════════════════════╣"
     echo "║  Model:     $CUR_MODEL"
     echo "║  Tasks:     $TASKS"
@@ -401,6 +401,6 @@ echo "   See .env.example for configuration details."
 
 # Exit with error if any model failed
 if [ ${#FAILED[@]} -gt 0 ]; then
-    echo "💡 To re-run failed models: bash run_metadent.sh --models $(IFS=,; echo "${FAILED[*]}") --tasks $TASKS"
+    echo "💡 To re-run failed models: bash scripts/run_aariz.sh --models $(IFS=,; echo "${FAILED[*]}") --tasks $TASKS"
     exit 1
 fi

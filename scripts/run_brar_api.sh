@@ -1,17 +1,17 @@
 #!/bin/bash
 # ============================================================================
-# run_code_api.sh — COde Pipeline (API Models: GPT, Gemini)
+# run_brar_api.sh — BRAR Pipeline (API Models: GPT, Gemini)
 #
 # Runs prediction + evaluation for closed-source API models
 # using the unified src/ framework.
 #
 # Usage:
 #   # GPT-4o-mini
-#   bash run_code_api.sh --model gpt-4o-mini --tasks baseline \
+#   bash scripts/run_brar_api.sh --model gpt-4o-mini --tasks baseline \
 #     --api_base https://api.openai.com/v1 --api_key $OPENAI_API_KEY
 #
 #   # Gemini 2.5 Flash (via OpenAI-compatible proxy)
-#   bash run_code_api.sh --model gemini-2.5-flash --tasks "baseline,1shot,2shot" \
+#   bash scripts/run_brar_api.sh --model gemini-2.5-flash --tasks "baseline,1shot,2shot" \
 #     --api_base https://generativelanguage.googleapis.com/v1beta/openai/ \
 #     --api_key $GEMINI_API_KEY
 # ============================================================================
@@ -24,8 +24,8 @@ TASKS="baseline"
 API_BASE=""
 API_KEY=""
 WORKERS=1           # API models: use 1 worker to respect rate limits
-DATASET="code"
-FEW_SHOT_CONFIG="configs/code/few-shots.yaml"
+DATASET="brar"
+FEW_SHOT_CONFIG="configs/brar/few-shots.yaml"
 
 # ===== Parse arguments =====
 while [[ "$#" -gt 0 ]]; do
@@ -46,7 +46,7 @@ done
 
 if [ -z "$MODEL_NAME" ]; then
     echo "❌ --model is required"
-    echo "Usage: bash run_code_api.sh --model <model_name> --tasks <baseline,1shot,2shot> --api_base <url> --api_key <key>"
+    echo "Usage: bash scripts/run_brar_api.sh --model <model_name> --tasks <baseline,1shot,2shot> --api_base <url> --api_key <key>"
     exit 1
 fi
 
@@ -70,11 +70,11 @@ if [ -z "$API_KEY" ]; then
 fi
 
 # ===== Execution =====
-export PIPELINE_RUN_ID="$(date +%Y%m%d_%H%M%S)_${MODEL_NAME}_code"
+export PIPELINE_RUN_ID="$(date +%Y%m%d_%H%M%S)_${MODEL_NAME}_brar"
 
 echo ""
 echo "╔══════════════════════════════════════════════════════════╗"
-echo "║  COde API Pipeline                     ║"
+echo "║  BRAR API Pipeline                                      ║"
 echo "╠══════════════════════════════════════════════════════════╣"
 echo "║  Model:     $MODEL_NAME"
 echo "║  Tasks:     $TASKS"

@@ -1,13 +1,13 @@
 # DentalCaries SFT Dataset Configuration
 # Binary caries detection (Yes/No) + Dentition classification (Primary/Permanent)
 
-# NeSI paths (update for your environment)
-input_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DentalCaries/output"
+# HPC cluster paths (update for your environment)
+input_dir: "<DATA_ROOT>/DentalCaries/output"
 train_file: "train.jsonl"
 val_file: "val.jsonl"
 
 # Output base for model checkpoints
-output_base: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/DentalCaries"
+output_base: "<MODEL_ROOT>/DentalCaries"
 
 # WandB overrides
 wandb:

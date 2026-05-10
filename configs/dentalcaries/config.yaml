@@ -7,9 +7,9 @@
 
 data:
   # Image root directory (JSONL image paths are relative to this)
-  image_dir: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DentalCaries/output"
-  test_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DentalCaries/output/test.jsonl"
-  train_file: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/datasets/2_Neurips2026/DentalCaries/output/train.jsonl"
+  image_dir: "<DATA_ROOT>/DentalCaries/output"
+  test_file: "<DATA_ROOT>/DentalCaries/output/test.jsonl"
+  train_file: "<DATA_ROOT>/DentalCaries/output/train.jsonl"
 
 inference:
   max_new_tokens: 128       # Short answers: Yes/No or category names

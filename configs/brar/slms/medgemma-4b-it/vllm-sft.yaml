@@ -1,8 +1,8 @@
 # vLLM config for medgemma-4b-it SFT (BRAR)
-# Model: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/BRAR/slms/medgemma-4b-it/merged
+# Model: <MODEL_ROOT>/BRAR/slms/medgemma-4b-it/merged
 
 CUDA_VISIBLE_DEVICES: '0'
-model: /home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/BRAR/slms/medgemma-4b-it/merged
+model: <MODEL_ROOT>/BRAR/slms/medgemma-4b-it/merged
 port: 9002
 trust_remote_code: true
 max_model_len: 16384

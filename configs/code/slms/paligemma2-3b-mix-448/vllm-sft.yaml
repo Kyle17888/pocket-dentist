@@ -1,5 +1,5 @@
 CUDA_VISIBLE_DEVICES: "0"
-model: "/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT/COde/slms/paligemma2-3b-mix-448/merged"
+model: "<MODEL_ROOT>/COde/slms/paligemma2-3b-mix-448/merged"
 served_model_name: "paligemma2-3b-mix-448-SFT"
 port: 9006
 trust_remote_code: true

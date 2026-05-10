@@ -5,10 +5,10 @@
 # Usage:
 #   bash scripts/audit_sft_merge.sh
 #
-# Run from NeSI project root or anywhere — paths are absolute.
+# Run from HPC cluster project root or anywhere — paths are absolute.
 # ============================================================================
 
-SFT_ROOT="/home/kbia984/00_nesi_projects/uoa04670_nobackup/kbia984/models/Neurlps2026-SFT"
+SFT_ROOT="<MODEL_ROOT>"
 
 echo ""
 echo "╔══════════════════════════════════════════════════════════════╗"
