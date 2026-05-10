@@ -202,7 +202,7 @@ Diagnosis: Pulpitis in tooth 36 (K04.005).
 
 ![Detection — Lateral view showing dental caries](assets/images/5_det_primary_00071.jpg)
 
-**Question**: Is dental caries visible in this image? (Yes/No)
+**Question**: Determine whether dental caries is visible in this intraoral photograph.
 
 **✅ Ground Truth**: `Yes`
 
@@ -219,7 +219,7 @@ Diagnosis: Pulpitis in tooth 36 (K04.005).
 
 ![Counting — Periapical radiograph showing 2 teeth](assets/images/6_cnt_primary_178.jpg)
 
-**Question**: Count the total number of visible teeth in this periapical radiograph.
+**Question**: Count the visible teeth in this periapical radiograph.
 
 **✅ Ground Truth**: `2`
 

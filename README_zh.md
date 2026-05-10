@@ -202,7 +202,7 @@ Diagnosis: Pulpitis in tooth 36 (K04.005).
 
 ![检测 — 侧方照，可见龋齿](assets/images/5_det_primary_00071.jpg)
 
-**问题**: 图中是否可见龋齿？（Yes/No）
+**问题**: 判断该口内照片中是否可见龋齿。
 
 **✅ Ground Truth**: `Yes`
 
@@ -219,7 +219,7 @@ Diagnosis: Pulpitis in tooth 36 (K04.005).
 
 ![计数 — 根尖片，2 颗牙齿](assets/images/6_cnt_primary_178.jpg)
 
-**问题**: 计算此根尖片中可见牙齿的总数。
+**问题**: 计算此根尖片中可见牙齿的数量。
 
 **✅ Ground Truth**: `2`
 
