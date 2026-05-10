@@ -5,9 +5,17 @@
 [![Paper](https://img.shields.io/badge/NeurIPS%202026-Evaluations%20%26%20Datasets-blue)](https://anonymous.4open.science/r/pocket-dentist-DD77)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
-> **论文**: [Pocket-Dentist: Benchmarking Compact Vision-Language Models for Dental Image Understanding](https://anonymous.4open.science/r/pocket-dentist-DD77)
+> **论文**: Pocket-Dentist: Benchmarking Compact Vision-Language Models for Dental Image Understanding
 >
 > **会议**: NeurIPS 2026 Evaluations & Datasets Track（审稿中）
+
+---
+
+## 目录
+
+1. [简介](#概览) — Pocket-Dentist 是什么？
+2. [开发指南](#快速开始) — 环境搭建、推理评估与训练
+3. [附录：定性案例分析](#定性分析qualitative-analysis) — 6 种临床任务类型的补充分析
 
 ---
 
