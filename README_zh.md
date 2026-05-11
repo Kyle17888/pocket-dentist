@@ -83,7 +83,9 @@ bash scripts/run_metadent_sft.sh --models Qwen3-VL-4B-Instruct
 
 所有案例均来自 SFT（LoRA）设定下的测试集预测结果。
 
-![6 种牙科任务类型的定性对比：VQA、检测、计数、分类、描述生成、报告生成](assets/images/appendix_qualitative_analysis.png)
+<p align="center">
+  <img src="assets/images/appendix_qualitative_analysis.png" width="90%" alt="6 种牙科任务类型的定性对比：VQA、检测、计数、分类、描述生成、报告生成">
+</p>
 
 > 📄 高分辨率版本请查看 [完整 PDF](assets/appendix_+.pdf)。
 

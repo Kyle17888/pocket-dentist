@@ -83,7 +83,9 @@ To illustrate the practical impact of compact-model adaptation, we present repre
 
 All cases are from the SFT (LoRA) setting and selected from test-set predictions.
 
-![Qualitative comparison across 6 dental task types: VQA, Detection, Counting, Classification, Captioning, and Report Generation](assets/images/appendix_qualitative_analysis.png)
+<p align="center">
+  <img src="assets/images/appendix_qualitative_analysis.png" width="96%" alt="Qualitative comparison across 6 dental task types: VQA, Detection, Counting, Classification, Captioning, and Report Generation">
+</p>
 
 > 📄 For higher resolution, see the [full PDF version](assets/appendix_+.pdf).
 
