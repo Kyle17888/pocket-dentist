@@ -1,16 +1,9 @@
-# Pocket-Dentist
-
-**Benchmarking Compact Vision-Language Models for Dental Image Understanding**
-
-[![Paper](https://img.shields.io/badge/NeurIPS%202026-Evaluations%20%26%20Datasets-blue)](https://anonymous.4open.science/r/pocket-dentist-DD77)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
-
----
+# Pocket-Dentist: Benchmarking Compact Vision-Language Models for Dental Image Understanding
 
 ## Table of Contents
 
 1. [Qualitative Analysis](#qualitative-analysis)
-2. [Introduction](#overview) — What is Pocket-Dentist?
+2. [Introduction](#overview)
 3. [Development Guide](#getting-started) — Environment setup, inference, and training
 
 ---
