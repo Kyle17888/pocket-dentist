@@ -89,6 +89,16 @@ bash scripts/run_metadent_sft.sh --models Qwen3-VL-4B-Instruct
 
 > 📄 高分辨率版本请查看 [完整 PDF](assets/appendix_+.pdf)。
 
+### 训练损失（Training Loss）
+
+LoRA 指令微调在 7 个牙科数据集上的训练损失曲线。每个子图展示了全部 13 个 VLM 在一个 epoch 内的训练损失变化，按 SLM（≤4B 参数，实线）和 LLM（≥7B 参数，虚线）分组。所有模型使用相同的 LoRA 配置（r=16, α=32）和余弦学习率调度。大多数模型在训练的前 10–20% 即快速收敛，InternVL3.5 和 PaliGemma2 由于视觉-语言表征对齐程度较低，初始损失明显较高。MedMO-8B-Next 和 Qwen2.5-VL-7B 在所有数据集上始终保持较低的最终损失，反映出其在医学图像理解方面更强的预训练基础。
+
+<p align="center">
+  <img src="assets/images/training_loss_curves.png" width="96%" alt="LoRA 指令微调在 7 个牙科数据集上的训练损失曲线">
+</p>
+
+> 📄 高分辨率版本请查看 [完整 PDF](assets/training_loss_curves.pdf)。
+
 ---
 
 ## 引用
