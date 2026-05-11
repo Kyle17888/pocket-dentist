@@ -5,17 +5,37 @@
 [![Paper](https://img.shields.io/badge/NeurIPS%202026-Evaluations%20%26%20Datasets-blue)](https://anonymous.4open.science/r/pocket-dentist-DD77)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
-> **Paper**: Pocket-Dentist: Benchmarking Compact Vision-Language Models for Dental Image Understanding
->
-> **Venue**: NeurIPS 2026 Evaluations & Datasets Track (under review)
-
 ---
 
 ## Table of Contents
 
-1. [Introduction](#overview) — What is Pocket-Dentist?
-2. [Development Guide](#getting-started) — Environment setup, inference, and training
-3. [Appendix: Qualitative Analysis](#qualitative-analysis)
+1. [Qualitative Analysis](#qualitative-analysis)
+2. [Introduction](#overview) — What is Pocket-Dentist?
+3. [Development Guide](#getting-started) — Environment setup, inference, and training
+
+---
+
+## Qualitative Analysis
+
+To illustrate the practical impact of compact-model adaptation, we present representative test-set cases across all six task types in which the LoRA-adapted **Qwen3-VL-4B** (4B parameters) produces correct predictions, whereas the substantially larger **Lingshu-32B** (32B parameters), adapted with the same LoRA budget, fails.
+
+All cases are from the SFT (LoRA) setting and selected from test-set predictions.
+
+<p align="center">
+  <img src="assets/images/appendix_qualitative_analysis.png" width="96%" alt="Qualitative comparison across 6 dental task types: VQA, Detection, Counting, Classification, Captioning, and Report Generation">
+</p>
+
+> 📄 For higher resolution, see the [full PDF version](assets/appendix_+.pdf).
+
+### Training Loss
+
+Training loss curves for LoRA-based instruction tuning across seven dental datasets. Each subplot displays the training loss over one epoch for all 13 evaluated VLMs, grouped into Compact VLMs (≤4B parameters, solid lines) and Larger VLMs (≥7B parameters, dashed lines). All models are fine-tuned with identical LoRA configurations (r=16, α=32) and a cosine learning rate schedule. Most models converge rapidly within the first 10–20% of training, with InternVL3.5 and PaliGemma2 exhibiting notably higher initial loss due to their less-aligned vision–language representations. The consistently low final loss of MedMO-8B-Next and Qwen2.5-VL-7B across all datasets reflects their stronger pre-trained foundations for medical image understanding.
+
+<p align="center">
+  <img src="assets/images/training_loss_curves-1.png" width="96%" alt="Training loss curves for LoRA-based instruction tuning across seven dental datasets">
+</p>
+
+> 📄 For higher resolution, see the [full PDF version](assets/training_loss_curves-1.pdf).
 
 ---
 
@@ -74,30 +94,6 @@ bash scripts/run_metadent_sft.sh --models Qwen3-VL-4B-Instruct
 |-------------|---------|---------|---------|
 | `NeurlPS2026-benchmark` | vLLM inference + evaluation | A100 40GB (1–4B models) | H100 96GB (32B models) |
 | `NeurlPS2026-train` | LoRA SFT training | A100 40GB (1–4B models) | H100 96GB (32B models) |
-
----
-
-## Qualitative Analysis
-
-To illustrate the practical impact of compact-model adaptation, we present representative test-set cases across all six task types in which the LoRA-adapted **Qwen3-VL-4B** (4B parameters) produces correct predictions, whereas the substantially larger **Lingshu-32B** (32B parameters), adapted with the same LoRA budget, fails.
-
-All cases are from the SFT (LoRA) setting and selected from test-set predictions.
-
-<p align="center">
-  <img src="assets/images/appendix_qualitative_analysis.png" width="96%" alt="Qualitative comparison across 6 dental task types: VQA, Detection, Counting, Classification, Captioning, and Report Generation">
-</p>
-
-> 📄 For higher resolution, see the [full PDF version](assets/appendix_+.pdf).
-
-### Training Loss
-
-Training loss curves for LoRA-based instruction tuning across seven dental datasets. Each subplot displays the training loss over one epoch for all 13 evaluated VLMs, grouped into Compact VLMs (≤4B parameters, solid lines) and Larger VLMs (≥7B parameters, dashed lines). All models are fine-tuned with identical LoRA configurations (r=16, α=32) and a cosine learning rate schedule. Most models converge rapidly within the first 10–20% of training, with InternVL3.5 and PaliGemma2 exhibiting notably higher initial loss due to their less-aligned vision–language representations. The consistently low final loss of MedMO-8B-Next and Qwen2.5-VL-7B across all datasets reflects their stronger pre-trained foundations for medical image understanding.
-
-<p align="center">
-  <img src="assets/images/training_loss_curves-1.png" width="96%" alt="Training loss curves for LoRA-based instruction tuning across seven dental datasets">
-</p>
-
-> 📄 For higher resolution, see the [full PDF version](assets/training_loss_curves-1.pdf).
 
 ---
 
