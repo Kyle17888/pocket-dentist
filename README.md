@@ -38,7 +38,7 @@ Pocket-Dentist is a **large-scale multimodal benchmark and deploy-aware evaluati
 | **MetaDent** | Intraoral photograph | VQA, Classification, Captioning | 2,301 | Accuracy / Weighted F1 / BERTScore F1 |
 | **BRAR** | Panoramic radiograph | Classification (Grade 1/2/3) | 149 | Macro F1 |
 | **Aariz** | Cephalometric radiograph | VQA, CVM Classification | 630 / 126 | Accuracy |
-| **DenPAR** | Periapical radiograph | Architecture, Site, Counting | 200 × 3 | Accuracy / Weighted F1 / MAE ↓ |
+| **DenPAR** | Periapical radiograph | Architecture, Site, Counting | 200 | Accuracy / Weighted F1 / MAE ↓ |
 | **DentalCaries** | Intraoral photograph | Detection, Dentition Classification | 628 / 226 | Accuracy / Weighted F1 |
 | **DR** | Panoramic X-ray | Multi-label Classification | 73 | Weighted F1 |
 
