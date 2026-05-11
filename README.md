@@ -91,7 +91,7 @@ All cases are from the SFT (LoRA) setting and selected from test-set predictions
 
 ### Training Loss
 
-Training loss curves for LoRA-based instruction tuning across seven dental datasets. Each subplot displays the training loss over one epoch for all 13 evaluated VLMs, grouped into SLMs (≤4B parameters, solid lines) and LLMs (≥7B parameters, dashed lines). All models are fine-tuned with identical LoRA configurations (r=16, α=32) and a cosine learning rate schedule. Most models converge rapidly within the first 10–20% of training, with InternVL3.5 and PaliGemma2 exhibiting notably higher initial loss due to their less-aligned vision–language representations. The consistently low final loss of MedMO-8B-Next and Qwen2.5-VL-7B across all datasets reflects their stronger pre-trained foundations for medical image understanding.
+Training loss curves for LoRA-based instruction tuning across seven dental datasets. Each subplot displays the training loss over one epoch for all 13 evaluated VLMs, grouped into Compact VLMs (≤4B parameters, solid lines) and Larger VLMs (≥7B parameters, dashed lines). All models are fine-tuned with identical LoRA configurations (r=16, α=32) and a cosine learning rate schedule. Most models converge rapidly within the first 10–20% of training, with InternVL3.5 and PaliGemma2 exhibiting notably higher initial loss due to their less-aligned vision–language representations. The consistently low final loss of MedMO-8B-Next and Qwen2.5-VL-7B across all datasets reflects their stronger pre-trained foundations for medical image understanding.
 
 <p align="center">
   <img src="assets/images/training_loss_curves.png" width="96%" alt="Training loss curves for LoRA-based instruction tuning across seven dental datasets">
