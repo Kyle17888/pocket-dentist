@@ -15,7 +15,7 @@
 
 1. [Introduction](#overview) — What is Pocket-Dentist?
 2. [Development Guide](#getting-started) — Environment setup, inference, and training
-3. [Appendix: Qualitative Analysis](#qualitative-analysis) — Supplementary analysis across 6 clinical task types
+3. [Appendix: Qualitative Analysis](#qualitative-analysis)
 
 ---
 
